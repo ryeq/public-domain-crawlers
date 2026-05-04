@@ -1,0 +1,2783 @@
+{
+  "total_attempted": 120,
+  "total_downloaded": 75,
+  "total_approved": 60,
+  "era_filter": "1880-1930",
+  "books": [
+    {
+      "gutenberg_id": 18548,
+      "title": "Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept. 1910\nThe New York Tunnel Extension of the Pennsylvania Railroad,\nThe North River Division. Paper No. 1151",
+      "author": "Jacobs, Charles M. (Charles Mattathias), 1850-1919",
+      "subjects": [
+        "Civil engineering -- Periodicals",
+        "Railroad tunnels -- Design and construction"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/18548/pg18548.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/18548_transactions_of_the_american_society_of_civil_engi.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/18548_transactions_of_the_american_society_of_civil_engi.txt",
+      "file_bytes": 76416,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "civil engineering",
+        "tunnel engineering",
+        "geology (subsurface soundings)",
+        "bridges and transportation infrastructure"
+      ],
+      "llm_reasoning": "The engineering concepts—tunnel planning, subsurface soundings/drilling, and bridge/tunnel design—are still accurate today, but the text is dense, historical, and uses adult technical language that is not engaging or accessible for K–6 students without substantial simplification and adaptation."
+    },
+    {
+      "gutenberg_id": 31750,
+      "title": "Lippincott's Magazine of Popular Literature and Science, Volume 20. July, 1877.",
+      "author": "Various",
+      "subjects": [
+        "Science -- Periodicals",
+        "Literature, Modern -- 19th century -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/31750/pg31750.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/31750_lippincott_s_magazine_of_popular_literature_and_sc.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/31750_lippincott_s_magazine_of_popular_literature_and_sc.txt",
+      "file_bytes": 501783,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "ornithology (birds and blackbirds)",
+        "natural history / animal behavior",
+        "geography / travel accounts",
+        "ethnography / anthropology"
+      ],
+      "llm_reasoning": "The magazine's scientific pieces are largely observational natural history and travel/ethnographic descriptions that remain broadly accurate, but the Victorian prose, advanced vocabulary and sometimes outdated cultural framing make it dry and challenging for K–6 students."
+    },
+    {
+      "gutenberg_id": 71693,
+      "title": "The Cambridge natural history, Vol. 03 (of 10)",
+      "author": "Harmer, S. F. (Sidney Frederic), 1862-1950 [Editor]; Cooke, A. H. (Alfred Hands), 1854-1934; Reed, F. R. C. (Frederick Richard Cowper), 1869-1946; Shipley, A. E. (Arthur Everett), Sir, 1861-1927 [Editor]",
+      "subjects": [
+        "Animals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/71693/pg71693.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 33531,
+      "title": "The Subspecies of the Mountain Chickadee",
+      "author": "Grinnell, Joseph, 1877-1939",
+      "subjects": [
+        "Birds -- California",
+        "Chickadees"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/33531/pg33531.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/33531_the_subspecies_of_the_mountain_chickadee.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/33531_the_subspecies_of_the_mountain_chickadee.txt",
+      "file_bytes": 64980,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "birds (ornithology)",
+        "animal classification and subspecies",
+        "migration and movement behavior",
+        "biogeography (range and habitat)"
+      ],
+      "llm_reasoning": "The observational science about Mountain Chickadee distribution, subspecific differences (tail length, plumage) and largely non-migratory behavior remains accurate though the genus name Penthestes is outdated; however the prose is technical, museum-focused, and uses challenging vocabulary, making it sound but not readily accessible to K–6 students."
+    },
+    {
+      "gutenberg_id": 39733,
+      "title": "Cooley's Cyclopædia of Practical Receipts and Collateral Information in the Arts, Manufactures, Professions, and Trades..., Sixth Edition, Volume I",
+      "author": "Cooley, Arnold James, 1816-1881; Tuson, Richard Vine, 1832-1888",
+      "subjects": [
+        "Formulas, recipes, etc.",
+        "Industrial arts -- Dictionaries",
+        "Technology -- Dictionaries"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/39733/pg39733.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 28553,
+      "title": "How it Works\nDealing in simple language with steam, electricity, light, heat, sound, hydraulics, optics, etc., and with their applications to apparatus in common use",
+      "author": "Williams, Archibald, 1871-1934",
+      "subjects": [
+        "Technology -- Juvenile literature",
+        "Science -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/28553/pg28553.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/28553_how_it_works_dealing_in_simple_language_with_steam.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/28553_how_it_works_dealing_in_simple_language_with_steam.txt",
+      "file_bytes": 463605,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "steam engines and boilers",
+        "thermodynamics (heat and heat engines)",
+        "electricity and electromagnetism",
+        "optics (light, cameras, and the eye)",
+        "acoustics (sound and the ear)"
+      ],
+      "llm_reasoning": "The book's core physical explanations (steam, heat, electricity, optics, sound, hydraulics) remain scientifically valid, but the Victorian-era prose, technical vocabulary, and some dated apparatus examples make the text relatively dry and potentially difficult for modern K–6 students without adaptation or simplification."
+    },
+    {
+      "gutenberg_id": 25975,
+      "title": "The Deluge in the Light of Modern Science: A Discourse",
+      "author": "Denton, William, 1823-1883",
+      "subjects": [
+        "Deluge",
+        "Bible and science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/25975/pg25975.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/25975_the_deluge_in_the_light_of_modern_science_a_discou.txt",
+      "approved_path": "",
+      "file_bytes": 75378,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "geology (flood geology and Earth's history)",
+        "hydrology (floods and water distribution)",
+        "biodiversity and animal distribution",
+        "measurement and scale (ancient units and ark dimensions)"
+      ],
+      "llm_reasoning": "Score 2 because the text centers on a 19th‑century treatment of the Biblical deluge—an idea (a recent global flood and scriptural chronology) that conflicts with modern geology and Earth history—and although it raises logistical questions, the scientific framing is incomplete/outdated and the prose and vocabulary are archaic and not accessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 2871,
+      "title": "The Variation of Animals and Plants under Domestication — Volume 1",
+      "author": "Darwin, Charles, 1809-1882",
+      "subjects": [
+        "Variation (Biology)",
+        "Domestic animals",
+        "Plants, Cultivated"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2871/pg2871.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 59355,
+      "title": "The Journal of the Maine Ornithological Society, Vol. XI. No. 2",
+      "author": "Various; Brownson, W. H. (William H.), 1854-1909 [Editor]",
+      "subjects": [
+        "Birds -- Maine -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/59355/pg59355.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/59355_the_journal_of_the_maine_ornithological_society_vo.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/59355_the_journal_of_the_maine_ornithological_society_vo.txt",
+      "file_bytes": 88095,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "birds / ornithology",
+        "species distribution and habitat",
+        "taxonomy and classification",
+        "anatomy (beak structure)",
+        "conservation and species introduction"
+      ],
+      "llm_reasoning": "The natural-history claims about the gray (Hungarian) partridge, its general range, and notes on beak differences are broadly correct for modern ornithology, but the scientific name and some details are dated and the prose is dry and uses vocabulary that would be challenging for K–6 students."
+    },
+    {
+      "gutenberg_id": 31063,
+      "title": "Two New Moles (Genus Scalopus) from Mexico and Texas",
+      "author": "Baker, Rollin H. (Rollin Harold), 1916-2007",
+      "subjects": [
+        "Moles (Animals)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/31063/pg31063.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/31063_two_new_moles_genus_scalopus_from_mexico_and_texas.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/31063_two_new_moles_genus_scalopus_from_mexico_and_texas.txt",
+      "file_bytes": 32600,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "taxonomy (species description and naming)",
+        "mammal anatomy and morphology (skull, teeth, limbs)",
+        "field collection and specimen documentation",
+        "biogeography (species range and isolation)"
+      ],
+      "llm_reasoning": "The taxonomic, anatomical, and field-collection information is scientifically sound and remains relevant today, but the prose is highly technical, uses specialist terminology and museum conventions, and would need substantial simplification and contextualization to be engaging and accessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 12036,
+      "title": "Hygeia, a City of Health",
+      "author": "Richardson, Benjamin Ward, 1828-1896",
+      "subjects": [
+        "Public health"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/12036/pg12036.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/12036_hygeia_a_city_of_health.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/12036_hygeia_a_city_of_health.txt",
+      "file_bytes": 75099,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "public health",
+        "disease prevention",
+        "sanitation",
+        "health education",
+        "social determinants of health"
+      ],
+      "llm_reasoning": "The essay's core public-health ideas (importance of sanitation, preventing disease, and links between poverty and health) remain accurate and relevant, but the Victorian-era, abstract, and wordy prose is not directly accessible or engaging for K–6 students, so it merits a middle score."
+    },
+    {
+      "gutenberg_id": 35968,
+      "title": "A Check-List of the Birds of Idaho",
+      "author": "Arvey, M. Dale (Martin Dale), 1915-1979; Hall, E. Raymond (Eugene Raymond), 1902-1986 [Editor]; Lane, Henry Higgins, 1878-1965 [Editor]; Taylor, Edward Harrison, 1889-1978 [Editor]",
+      "subjects": [
+        "Birds -- Idaho"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/35968/pg35968.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/35968_a_check_list_of_the_birds_of_idaho.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/35968_a_check_list_of_the_birds_of_idaho.txt",
+      "file_bytes": 82865,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird diversity",
+        "bird migration",
+        "habitat and geographic ranges",
+        "taxonomy and scientific names"
+      ],
+      "llm_reasoning": "The species occurrence data and natural-history observations are broadly accurate and useful, but the work uses outdated taxonomic names and subspecies concepts and is presented in a dry, technical checklist style that is not engaging or age-appropriate for K–6 students without adaptation."
+    },
+    {
+      "gutenberg_id": 74001,
+      "title": "An essay on diseases incidental to literary and sedentary persons",
+      "author": "Tissot, S. A. D. (Samuel Auguste David), 1728-1797",
+      "subjects": [
+        "Medicine, Popular -- Early works to 1800",
+        "Occupational diseases -- Early works to 1800"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/74001/pg74001.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/74001_an_essay_on_diseases_incidental_to_literary_and_se.txt",
+      "approved_path": "",
+      "file_bytes": 163749,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "sedentary behavior and health",
+        "posture and musculoskeletal problems",
+        "occupational health / ergonomics",
+        "lifestyle and disease prevention"
+      ],
+      "llm_reasoning": "I rated it a 2 because although the book touches on topics still relevant today (effects of sitting, posture, and lifestyle), much of Tissot's 18th‑century medical reasoning includes outdated pathophysiology, moralizing and incorrect claims (including about sexual behavior) and archaic language, making the scientific content partially inaccurate and unsuitable for K-6 students."
+    },
+    {
+      "gutenberg_id": 77725,
+      "title": "Popular lectures on scientific subjects",
+      "author": "Helmholtz, Hermann von, 1821-1894; Atkinson, E. (Edmund), 1831-1900 [Translator]",
+      "subjects": [
+        "Science",
+        "Universities and colleges -- Germany"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/77725/pg77725.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/77725_popular_lectures_on_scientific_subjects.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/77725_popular_lectures_on_scientific_subjects.txt",
+      "file_bytes": 423029,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "optics (light and colour)",
+        "planetary system formation (solar system)",
+        "geometry and axioms (foundations of geometry)",
+        "physiology of sensation and thought (neuroscience/medicine)"
+      ],
+      "llm_reasoning": "Helmholtz's core scientific content (optics, planetary origins, geometry foundations, sensory physiology) remains accurate and foundational today, but the original lecture prose is formal, advanced, and Victorian in style so it is sound scientifically yet too dry and linguistically challenging for K–6 students without substantial simplification and adaptation."
+    },
+    {
+      "gutenberg_id": 58857,
+      "title": "The Works of William Harvey M.D.\nTranslated from the Latin with a life of the author",
+      "author": "Harvey, William, 1578-1657; Willis, Robert, 1799-1878 [Translator]",
+      "subjects": [
+        "Physiology -- Early works to 1800",
+        "Blood -- Circulation -- Early works to 1800",
+        "Embryology -- Early works to 1800"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/58857/pg58857.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 2206,
+      "title": "Human Genome Project, rough draft, Chromosome Number 06",
+      "author": "Human Genome Project",
+      "subjects": [
+        "Human Genome Project",
+        "Human gene mapping",
+        "Human genetics",
+        "Nucleotide sequence"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 66650,
+      "title": "The Life of the Grasshopper",
+      "author": "Fabre, Jean-Henri, 1823-1915; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+      "subjects": [
+        "Insects",
+        "Homoptera",
+        "Orthoptera"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/66650/pg66650.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 49211,
+      "title": "Botany: The Science of Plant Life",
+      "author": "Taylor, Norman, 1883-1967",
+      "subjects": [
+        "Plants",
+        "Botany -- Textbooks"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/49211/pg49211.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 73879,
+      "title": "The geography and geology of south-eastern Egypt",
+      "author": "Ball, John, 1872-1941",
+      "subjects": [
+        "Geology -- Egypt",
+        "Physical geography -- Egypt"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/73879/pg73879.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 2631,
+      "title": "Mr. Gladstone and Genesis\nEssay #5 from \"Science and Hebrew Tradition\"",
+      "author": "Huxley, Thomas Henry, 1825-1895",
+      "subjects": [
+        "Science",
+        "Evolution",
+        "Bible and science",
+        "Paleontology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2631/pg2631.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/2631_mr_gladstone_and_genesis_essay_5_from_science_and_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/2631_mr_gladstone_and_genesis_essay_5_from_science_and_.txt",
+      "file_bytes": 75983,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "paleontology",
+        "fossil record",
+        "evolution (history of life)",
+        "geologic succession"
+      ],
+      "llm_reasoning": "Huxley's core scientific claims about the fossil record and the sequence of life (his critique of a literal Pentateuchal order) remain broadly accurate today, but the essay's dense Victorian prose, adult theological argument, and advanced vocabulary make it largely unsuitable and unengaging for K–6 students."
+    },
+    {
+      "gutenberg_id": 36640,
+      "title": "Lectures on Elementary Mathematics",
+      "author": "Lagrange, J. L. (Joseph Louis), 1736-1813; McCormack, Thomas J. (Thomas Joseph), 1865-1932 [Translator]",
+      "subjects": [
+        "Mathematics"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 16077,
+      "title": "Children of the Wild",
+      "author": "Roberts, Charles G. D., Sir, 1860-1943",
+      "subjects": [
+        "Animals -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/16077/pg16077.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/16077_children_of_the_wild.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/16077_children_of_the_wild.txt",
+      "file_bytes": 348070,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird fledging and parental care",
+        "animal behavior (ethology)",
+        "wildlife observation and habitats",
+        "human-animal interaction and conservation ethics"
+      ],
+      "llm_reasoning": "The book's descriptions of animal behavior and bird parents teaching young are consistent with modern biology, and the narrative is vivid and relevant to elementary curricula, though some Victorian phrasing and long sentences may be mildly challenging for younger readers."
+    },
+    {
+      "gutenberg_id": 38482,
+      "title": "Scientific American, Vol. XLIII.—No. 1. [New Series.], July 3, 1880\nA Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures",
+      "author": "Various",
+      "subjects": [
+        "Science -- Periodicals",
+        "Technology -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/38482/pg38482.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/38482_scientific_american_vol_xliii_no_1_new_series_july.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/38482_scientific_american_vol_xliii_no_1_new_series_july.txt",
+      "file_bytes": 226244,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "agricultural machinery (scythe and harrow design)",
+        "simple machines and mechanical design",
+        "materials and metallurgy",
+        "history of technology and inventions"
+      ],
+      "llm_reasoning": "The technical descriptions (e.g., improved scythe blade and hinged spring harrow) are consistent with modern engineering principles and thus still accurate, but the Victorian prose is fairly dry and uses advanced or archaic vocabulary that makes it less accessible to K–6 students."
+    },
+    {
+      "gutenberg_id": 43976,
+      "title": "Ancient Plants\nBeing a Simple Account of the past Vegetation of the Earth and of the Recent Important Discoveries Made in This Realm of Nature",
+      "author": "Stopes, Marie Carmichael, 1880-1958",
+      "subjects": [
+        "Paleobotany"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/43976/pg43976.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/43976_ancient_plants_being_a_simple_account_of_the_past_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/43976_ancient_plants_being_a_simple_account_of_the_past_.txt",
+      "file_bytes": 370782,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "paleobotany",
+        "fossil plants (Carboniferous flora)",
+        "plant evolution",
+        "geology/stratigraphy"
+      ],
+      "llm_reasoning": "The scientific subject—fossil plants and paleobotany—is broadly accurate and still relevant, but the prose is adult-oriented, dated, and too complex for K–6 students, so it earns a middle score for content accuracy but limited accessibility."
+    },
+    {
+      "gutenberg_id": 77045,
+      "title": "Agricultural zoology",
+      "author": "Ritzema Bos, J. (Jan), 1850-1928; Ormerod, Eleanor A. (Eleanor Anne), 1828-1901 [Author of introduction, etc.]; Ainsworth Davis, J. R. (James Richard), 1861-1934 [Translator]",
+      "subjects": [
+        "Zoology, Economic"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/77045/pg77045.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/77045_agricultural_zoology.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/77045_agricultural_zoology.txt",
+      "file_bytes": 468563,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [],
+      "llm_reasoning": "LLM error: The read operation timed out"
+    },
+    {
+      "gutenberg_id": 40363,
+      "title": "An Alphabet of Quadrupeds\nComprising descriptions of their appearance and habits",
+      "author": "Anonymous",
+      "subjects": [
+        "Animals -- Pictorial works -- Juvenile literature",
+        "Alphabet books"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/40363/pg40363.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/40363_an_alphabet_of_quadrupeds_comprising_descriptions_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/40363_an_alphabet_of_quadrupeds_comprising_descriptions_.txt",
+      "file_bytes": 50221,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "mammals",
+        "animal habitats",
+        "animal behavior",
+        "domestication and livestock"
+      ],
+      "llm_reasoning": "The book's basic zoological descriptions (mammals, habitats, ruminant digestion, domestication) are broadly accurate and relevant for elementary students, but the prose is dated and sometimes culturally biased and contains several oversimplifications or errors (e.g., using horn rings to tell a cow's age, overstated bear behaviors and lifespans, and some careless generalizations about apes and introductions of cattle) that would need correction or contextualization for classroom use."
+    },
+    {
+      "gutenberg_id": 52838,
+      "title": "Creation of the Teton Landscape: The Geologic Story of Grand Teton National Park",
+      "author": "Love, J. D. (John David), 1913-2002; Reed, John C. (John Calvin), 1836-1910",
+      "subjects": [
+        "Geology -- Wyoming -- Grand Teton National Park"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/52838/pg52838.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/52838_creation_of_the_teton_landscape_the_geologic_story.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/52838_creation_of_the_teton_landscape_the_geologic_story.txt",
+      "file_bytes": 223939,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "mountain formation (fault-block uplift)",
+        "glaciation and erosion processes",
+        "rock types and geologic time (Precambrian through Mesozoic)",
+        "radiometric dating and age of Earth materials"
+      ],
+      "llm_reasoning": "The geologic explanations (uplift, faults, glaciers, rock sequences, and radiometric dating) remain accurate and relevant, but the prose and technical vocabulary are written at a level too advanced and formal for K–6 students and would need significant simplification and engaging activities to be classroom-ready."
+    },
+    {
+      "gutenberg_id": 67007,
+      "title": "An Attempt to Investigate the Seat of Animal Life",
+      "author": "Curtis, Henry, 1792-1862",
+      "subjects": [
+        "Life (Biology)",
+        "Thesis (M.D.)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/67007/pg67007.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/67007_an_attempt_to_investigate_the_seat_of_animal_life.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/67007_an_attempt_to_investigate_the_seat_of_animal_life.txt",
+      "file_bytes": 59097,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "anatomy",
+        "physiology",
+        "animal locomotion",
+        "history of medicine"
+      ],
+      "llm_reasoning": "The dissertation discusses broadly valid topics about anatomy and the principles of animal life without proposing clearly refuted scientific claims in the preview, but the prose is formal, antiquated and not accessible for K–6 students, so the science is sound though the text is not child-friendly."
+    },
+    {
+      "gutenberg_id": 54612,
+      "title": "The Principles of Biology, Volume 1 (of 2)",
+      "author": "Spencer, Herbert, 1820-1903",
+      "subjects": [
+        "Biology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/54612/pg54612.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 58241,
+      "title": "Library Essays; Papers Related to the Work of Public Libraries",
+      "author": "Bostwick, Arthur E. (Arthur Elmore), 1860-1942",
+      "subjects": [
+        "Library science",
+        "Public libraries"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/58241/pg58241.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 52328,
+      "title": "The Royal Road to Health; or, the Secret of Health Without Drugs",
+      "author": "Tyrrell, Chas. A. (Charles Alfred), 1846-1918",
+      "subjects": [
+        "Enema",
+        "Hygiene",
+        "Health",
+        "Health -- Popular works",
+        "Health promotion"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/52328/pg52328.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/52328_the_royal_road_to_health_or_the_secret_of_health_w.txt",
+      "approved_path": "",
+      "file_bytes": 367246,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "digestive system anatomy",
+        "personal hygiene and sanitation",
+        "historical medical treatments"
+      ],
+      "llm_reasoning": "The anatomical depiction of the digestive organs is accurate, but the book's core therapeutic claims (routine enemas, autointoxication-style hygiene cures and other early-20th-century 'natural' treatments) are medically outdated or questionable, and the adult-oriented prose and potentially harmful health advice make it inappropriate and inaccessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 44048,
+      "title": "Legal Chemistry\nA Guide to the Detection of Poisons, Examination of Tea, Stains, Etc., as Applied to Chemical Jurisprudence",
+      "author": "Naquet, Alfred, 1834-1916; Battershall, Jesse P. (Jesse Park), 1851-1891 [Translator]",
+      "subjects": [
+        "Poisons",
+        "Chemistry, Forensic"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/44048/pg44048.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/44048_legal_chemistry_a_guide_to_the_detection_of_poison.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/44048_legal_chemistry_a_guide_to_the_detection_of_poison.txt",
+      "file_bytes": 404503,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "forensic toxicology (poison detection, e.g., arsenic tests)",
+        "chemical analysis and laboratory methods",
+        "acid digestion and reagents (nitric, sulphuric, aqua regia)",
+        "food adulteration (tea analysis)"
+      ],
+      "llm_reasoning": "The core chemical principles and classical forensic tests described (arsenic Marsh/Reinsch tests, acid digestions, reagent behavior) remain chemically valid though many procedures are now superseded by modern instrumental methods; however the text is technical, hazardous, archaic in language and adult-focused, making it largely inaccessible and inappropriate in its original form for K–6 students."
+    },
+    {
+      "gutenberg_id": 73427,
+      "title": "Elements of agricultural chemistry and geology",
+      "author": "Johnston, Jas. F. W. (James Finlay Weir), 1796-1855",
+      "subjects": [
+        "Agricultural chemistry"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/73427/pg73427.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/73427_elements_of_agricultural_chemistry_and_geology.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/73427_elements_of_agricultural_chemistry_and_geology.txt",
+      "file_bytes": 329630,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "plant nutrition",
+        "photosynthesis (basic carbon and water inputs)",
+        "soil composition and classification",
+        "fertilizers and manures (nutrient supply)",
+        "geology and rock types related to soils"
+      ],
+      "llm_reasoning": "Johnston's treatment of plant constituents, soils, and manures is largely accurate at a basic, elemental level and still relevant, but it lacks modern molecular, microbial, and trace‑element understanding and is written in dense, formal Victorian prose that is not engaging or accessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 36276,
+      "title": "The Meaning of Relativity\nFour lectures delivered at Princeton University, May, 1921",
+      "author": "Einstein, Albert, 1879-1955; Adams, Edwin P. (Edwin Plimpton), 1878-1956 [Translator]",
+      "subjects": [
+        "Relativity (Physics)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 75948,
+      "title": "The book of wonders",
+      "author": "Bodmer, Rudolph J. (Rudolph John), 1872-1952 [Editor]",
+      "subjects": [
+        "Encyclopedias and dictionaries",
+        "Science -- Miscellanea",
+        "Curiosities and wonders",
+        "Questions and answers",
+        "Technology -- Miscellanea"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/75948/pg75948.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 72412,
+      "title": "Mahan on naval warfare",
+      "author": "Mahan, A. T. (Alfred Thayer), 1840-1914; Westcott, Allan F. (Allan Ferguson), 1882-1953 [Editor]",
+      "subjects": [
+        "Sea-power",
+        "Naval art and science",
+        "Naval strategy"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/72412/pg72412.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 14196,
+      "title": "The Nervous Housewife",
+      "author": "Myerson, Abraham, 1881-1948",
+      "subjects": [
+        "Neurasthenia",
+        "Women -- Mental health"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/14196/pg14196.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/14196_the_nervous_housewife.txt",
+      "approved_path": "",
+      "file_bytes": 323126,
+      "status": "downloaded",
+      "llm_score": 1,
+      "llm_approved": false,
+      "llm_topics": [
+        "mental health/psychiatry",
+        "neuroscience/nervous system",
+        "history of medicine",
+        "women's health"
+      ],
+      "llm_reasoning": "The book is built around the antiquated 19th-century diagnosis of 'neurasthenia' and gendered medical assumptions that modern psychiatry and neuroscience have replaced, and its adult-focused prose and themes are not suitable or engaging for K–6 students."
+    },
+    {
+      "gutenberg_id": 40100,
+      "title": "Life histories of North American wood warblers, Part 1 (of 2)",
+      "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
+      "subjects": [
+        "Birds -- North America",
+        "Passeriformes",
+        "Wood warblers"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/40100/pg40100.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 29782,
+      "title": "Space, Time and Gravitation: An Outline of the General Relativity Theory",
+      "author": "Eddington, Arthur Stanley, Sir, 1882-1944",
+      "subjects": [
+        "Relativity (Physics)",
+        "Gravitation",
+        "Space and time"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 46706,
+      "title": "Scientific American Supplement, No. 467, December 13, 1884",
+      "author": "Various",
+      "subjects": [
+        "Science -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/46706/pg46706.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/46706_scientific_american_supplement_no_467_december_13_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/46706_scientific_american_supplement_no_467_december_13_.txt",
+      "file_bytes": 258856,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "architecture and engineering (building design and materials)",
+        "materials and construction (stone, brick, glass roofs)",
+        "botany (botanical institute, gardens, hothouses)",
+        "astronomy (observatory and movable dome)",
+        "physics (wave theory of light)"
+      ],
+      "llm_reasoning": "The excerpt deals with factual descriptions of university buildings and institutes and introduces the wave theory of light—topics that remain scientifically valid—but the Victorian, detail‑heavy prose and advanced vocabulary make it dry and challenging for K–6 readers."
+    },
+    {
+      "gutenberg_id": 48126,
+      "title": "Ancient Landscapes of the Grand Canyon Region\nThe Geology of Grand Canyon, Zion, Bryce, Petrified Forest & Painted Desert",
+      "author": "McKee, Edwin D. (Edwin Dinwiddie), 1906-1984",
+      "subjects": [
+        "Geology -- Arizona -- Grand Canyon National Park",
+        "Geology -- Utah -- Bryce Canyon National Park",
+        "Geology -- Utah -- Zion National Park"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/48126/pg48126.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/48126_ancient_landscapes_of_the_grand_canyon_region_the_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/48126_ancient_landscapes_of_the_grand_canyon_region_the_.txt",
+      "file_bytes": 106174,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "geologic time and eras",
+        "rock types and stratigraphy",
+        "fossils and paleontology",
+        "erosion and canyon formation",
+        "volcanism and glaciation"
+      ],
+      "llm_reasoning": "The book's descriptions of rocks, fossils, strata, and canyon-forming erosion remain broadly accurate and valuable, but it uses some outdated terminology (e.g., 'Algonkian') and predates the adoption of plate tectonics, and the older, formal prose may be challenging for K–6 readers."
+    },
+    {
+      "gutenberg_id": 54420,
+      "title": "The Practical Astronomer\nComprising illustrations of light and colours--practical descriptions of all kinds of telescopes--the use of the equatorial-transit--circular, and other astronomical instruments, a particular account of the Earl of Rosse's large telescopes, and other topics connected with astronomy",
+      "author": "Dick, Thomas, 1774-1857",
+      "subjects": [
+        "Astronomy",
+        "Telescopes",
+        "Astronomical instruments"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/54420/pg54420.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 66333,
+      "title": "A Monograph of the Trilobites of North America: with Coloured Models of the Species",
+      "author": "Green, Jacob, 1790-1841",
+      "subjects": [
+        "Paleontology -- North America",
+        "Trilobites -- North America"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/66333/pg66333.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/66333_a_monograph_of_the_trilobites_of_north_america_wit.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/66333_a_monograph_of_the_trilobites_of_north_america_wit.txt",
+      "file_bytes": 157273,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "paleontology",
+        "trilobites (fossil arthropods)",
+        "fossils as evidence of Earth's history",
+        "stratigraphy / geologic layers"
+      ],
+      "llm_reasoning": "Descriptions of trilobites and the use of fossils to study Earth's past remain scientifically accurate, but the prose is archaic, sometimes framed in pre-Darwinian terms, and is too dense and vocabulary-heavy for K–6 students without significant adaptation, so the work is sound science but not readily accessible to elementary readers."
+    },
+    {
+      "gutenberg_id": 34376,
+      "title": "Our Domestic Birds: Elementary Lessons in Aviculture",
+      "author": "Robinson, John H. (John Henry), 1863-1935",
+      "subjects": [
+        "Poultry",
+        "Pigeons",
+        "Cage birds"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/34376/pg34376.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 1228,
+      "title": "On the Origin of Species By Means of Natural Selection\nOr, the Preservation of Favoured Races in the Struggle for Life",
+      "author": "Darwin, Charles, 1809-1882",
+      "subjects": [
+        "Evolution (Biology)",
+        "Natural selection"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/1228/pg1228.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 69886,
+      "title": "Famous pets of famous people",
+      "author": "Lewis, Eleanor",
+      "subjects": [
+        "Domestic animals",
+        "Animals -- Anecdotes",
+        "Pets"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/69886/pg69886.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/69886_famous_pets_of_famous_people.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/69886_famous_pets_of_famous_people.txt",
+      "file_bytes": 302963,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "animal behavior",
+        "domestication of pets",
+        "breeds and anatomy of domestic animals"
+      ],
+      "llm_reasoning": "The book is primarily historical anecdotes about pets rather than making scientific claims, so its factual content about animals is still acceptable, but Victorian prose and vocabulary are likely dry or challenging for K–6 students, so it is only moderately suitable without adaptation."
+    },
+    {
+      "gutenberg_id": 9076,
+      "title": "Scientific American Supplement, No. 433, April 19, 1884",
+      "author": "Various",
+      "subjects": [
+        "Science -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/9076/pg9076.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/9076_scientific_american_supplement_no_433_april_19_188.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/9076_scientific_american_supplement_no_433_april_19_188.txt",
+      "file_bytes": 235005,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "meteorology (weather and storm study)",
+        "geomagnetism (magnetic observations and aurora)",
+        "oceanography (submarine currents and sounding)",
+        "astronomy (sunspots and comets)"
+      ],
+      "llm_reasoning": "The scientific aims and descriptions (measuring pressure, temperature, magnetic elements, ocean currents, auroral and sunspot studies) remain accurate and relevant today, but the Victorian prose is formal, dense, and likely too challenging or dry for K–6 students, so it earns a middle score."
+    },
+    {
+      "gutenberg_id": 34175,
+      "title": "Domestic Animals\nHistory and description of the horse, mule, cattle, sheep, swine, poultry and farm dogs; with directions for their management, breeding, crossing, rearing, feeding, and preparation for a profitable market; also their diseases and remedies. Together with full directions for the management of the dairy.",
+      "author": "Allen, Richard Lamb, 1803-1869",
+      "subjects": [
+        "Domestic animals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/34175/pg34175.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 12321,
+      "title": "Rudimental Divine Science",
+      "author": "Eddy, Mary Baker, 1821-1910",
+      "subjects": [
+        "Christian Science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/12321/pg12321.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/12321_rudimental_divine_science.txt",
+      "approved_path": "",
+      "file_bytes": 44360,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "medicine/health (spiritual healing claims)",
+        "psychology/mind (mind vs. matter)",
+        "philosophy of science (definition of 'Science')"
+      ],
+      "llm_reasoning": "The text is primarily theological and metaphysical rather than empirical science, promoting spiritual-healing and non‑empirical claims about 'Mind' and God that do not align with modern scientific methods or K–6 curriculum needs, and its vocabulary and adult religious focus make it unsuitable for elementary students."
+    },
+    {
+      "gutenberg_id": 27257,
+      "title": "Electricity for the farm\nLight, heat and power by inexpensive methods from the water wheel or farm engine",
+      "author": "Anderson, Frederick Irving, 1877-1947",
+      "subjects": [
+        "Electricity in agriculture"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/27257/pg27257.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/27257_electricity_for_the_farm_light_heat_and_power_by_i.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/27257_electricity_for_the_farm_light_heat_and_power_by_i.txt",
+      "file_bytes": 303902,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "hydropower (water wheels)",
+        "electricity generation (dynamos/alternators)",
+        "electricity transmission and house wiring",
+        "storage batteries"
+      ],
+      "llm_reasoning": "The core physics and engineering principles about generating and using electricity (water power, engines, dynamos, batteries, wiring) are still accurate, but the book uses archaic language, outdated technology and DIY wiring/safety practices that make it dry and not well suited or fully safe for modern K–6 students without heavy adaptation."
+    },
+    {
+      "gutenberg_id": 50321,
+      "title": "Fifty Birds of Town and City",
+      "author": "Hines, Bob, 1912-1994; Anastasi, Peter A.",
+      "subjects": [
+        "Birds",
+        "Urban animals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/50321/pg50321.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/50321_fifty_birds_of_town_and_city.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/50321_fifty_birds_of_town_and_city.txt",
+      "file_bytes": 71233,
+      "status": "downloaded",
+      "llm_score": 5,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird identification",
+        "migration",
+        "habitat",
+        "bird nesting",
+        "conservation"
+      ],
+      "llm_reasoning": "The booklet's factual information about common urban birds—their appearance, ranges, migratory habits, nesting, and habitat needs—remains accurate and relevant, and the vivid, pictorial prose is well suited to K–6 readers (though a few words like 'pendulent' might need adult explanation)."
+    },
+    {
+      "gutenberg_id": 2927,
+      "title": "The Darwinian Hypothesis",
+      "author": "Huxley, Thomas Henry, 1825-1895",
+      "subjects": [
+        "Evolution (Biology)",
+        "Darwin, Charles, 1809-1882"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2927/pg2927.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/2927_the_darwinian_hypothesis.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/2927_the_darwinian_hypothesis.txt",
+      "file_bytes": 51555,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "evolution",
+        "natural selection",
+        "species concept (taxonomy)",
+        "biodiversity"
+      ],
+      "llm_reasoning": "The core scientific claims (descent, natural selection, issues of species and diversity) remain accurate today, but the Victorian prose is dense, often abstract, and includes archaic and racist examples that make the text unsuitable for K–6 students without major rewriting and content removal."
+    },
+    {
+      "gutenberg_id": 47238,
+      "title": "The Popular Science Monthly, July, 1900\nVol. 57, May, 1900 to October, 1900",
+      "author": "Various; Cattell, James McKeen, 1860-1944 [Editor]",
+      "subjects": [
+        "Science -- Periodicals",
+        "Technology -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/47238/pg47238.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/47238_the_popular_science_monthly_july_1900_vol_57_may_1.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/47238_the_popular_science_monthly_july_1900_vol_57_may_1.txt",
+      "file_bytes": 317029,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "stellar astronomy",
+        "history of astronomy",
+        "telescopes and observatories",
+        "star catalogs"
+      ],
+      "llm_reasoning": "The historical and astronomical facts (exploration of the southern sky, star cataloging, and observatory work) remain accurate and relevant, but the Victorian-era prose, long sentences, and advanced vocabulary make the text dry and challenging for K–6 students, so it is scientifically sound but not readily accessible without adaptation."
+    },
+    {
+      "gutenberg_id": 59171,
+      "title": "Degeneration: A Chapter in Darwinism",
+      "author": "Lankester, E. Ray (Edwin Ray), Sir, 1847-1929",
+      "subjects": [
+        "Evolution (Biology)",
+        "Degeneration"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/59171/pg59171.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/59171_degeneration_a_chapter_in_darwinism.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/59171_degeneration_a_chapter_in_darwinism.txt",
+      "file_bytes": 101912,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "evolution",
+        "natural selection",
+        "comparative anatomy",
+        "scientific method"
+      ],
+      "llm_reasoning": "The essay's Darwinian discussion (including degeneration/regressive evolution and comparative anatomy) is broadly consistent with modern biology, but its dense, speculative Victorian prose and advanced vocabulary make it unsuitable and hard to engage for K–6 students, so it earns a middling score."
+    },
+    {
+      "gutenberg_id": 70581,
+      "title": "Botanical features of the Algerian Sahara",
+      "author": "Cannon, William Austin, 1870-1958",
+      "subjects": [
+        "Desert plants -- Sahara",
+        "Desert plants -- Algeria",
+        "Roots (Botany)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/70581/pg70581.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/70581_botanical_features_of_the_algerian_sahara.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/70581_botanical_features_of_the_algerian_sahara.txt",
+      "file_bytes": 315855,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "desert ecology and oases",
+        "plant adaptations (roots and leaves) in arid environments",
+        "soil-plant relationships in deserts",
+        "effects of grazing on vegetation"
+      ],
+      "llm_reasoning": "The book's botanical observations and ecological conclusions about desert plants, roots, leaf habits, soils, and grazing impacts are broadly consistent with modern science, but the prose is technical, dated, and not engaging or accessible for K–6 students without significant simplification and adaptation."
+    },
+    {
+      "gutenberg_id": 73852,
+      "title": "A study of some factors influencing fertility and sterility in the bull",
+      "author": "Gilman, Herbert Lester, 1895-1982",
+      "subjects": [
+        "Thesis (Ph. D.)",
+        "Livestock",
+        "Cattle",
+        "Infertility in animals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/73852/pg73852.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/73852_a_study_of_some_factors_influencing_fertility_and_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/73852_a_study_of_some_factors_influencing_fertility_and_.txt",
+      "file_bytes": 237575,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "animal reproduction (livestock)",
+        "reproductive anatomy and physiology",
+        "disease transmission in reproduction (bovine genital infections)",
+        "veterinary bacteriology/microbiology"
+      ],
+      "llm_reasoning": "The core scientific claims about the bull's role in reproduction, reproductive anatomy, and spread of genital infections (e.g., Brucella) remain accurate, but the text is technical, dated in style, and not engaging or age-appropriate for K–6 students."
+    },
+    {
+      "gutenberg_id": 49527,
+      "title": "Ethnobotany of the Ojibwe Indians",
+      "author": "Smith, Huron H. (Huron Herbert), 1883-1933",
+      "subjects": [
+        "Ojibwa Indians -- Ethnobotany",
+        "Plants -- Wisconsin",
+        "Plants -- Minnesota"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/49527/pg49527.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/49527_ethnobotany_of_the_ojibwe_indians.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/49527_ethnobotany_of_the_ojibwe_indians.txt",
+      "file_bytes": 326695,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "ethnobotany (traditional plant knowledge)",
+        "medicinal plants and remedies",
+        "edible wild plants/foraging",
+        "plant fibers and weaving"
+      ],
+      "llm_reasoning": "The bulletin's factual descriptions of Ojibwe uses of plants are still scientifically and culturally valuable, but the prose is academic, dated, and too complex for K–6 students, so it receives a middle score for sound science but low accessibility."
+    },
+    {
+      "gutenberg_id": 6430,
+      "title": "The Evolution of Man — Volume 1",
+      "author": "Haeckel, Ernst, 1834-1919; McCabe, Joseph, 1867-1955 [Translator]",
+      "subjects": [
+        "Evolution",
+        "Human beings -- Origin",
+        "Embryology, Human",
+        "Anatomy, Comparative"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/6430/pg6430.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 37777,
+      "title": "Darwin, and After Darwin, Volume 3 of 3\nPost-Darwinian Questions: Isolation and Physiological Selection",
+      "author": "Romanes, George John, 1848-1894",
+      "subjects": [
+        "Evolution (Biology)",
+        "Heredity"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/37777/pg37777.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/37777_darwin_and_after_darwin_volume_3_of_3_post_darwini.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/37777_darwin_and_after_darwin_volume_3_of_3_post_darwini.txt",
+      "file_bytes": 366774,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "evolution",
+        "speciation (isolation)",
+        "natural selection",
+        "heredity"
+      ],
+      "llm_reasoning": "The book's core scientific claims—that natural selection and isolation (geographic and reproductive) help drive speciation—are still valid, but the Victorian prose, historical framing, and absence of modern genetics make the text dry and inaccessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 2935,
+      "title": "On the Study of Zoology",
+      "author": "Huxley, Thomas Henry, 1825-1895",
+      "subjects": [
+        "Science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2935/pg2935.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/2935_on_the_study_of_zoology.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/2935_on_the_study_of_zoology.txt",
+      "file_bytes": 67462,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "taxonomy (classification)",
+        "anatomy and morphology",
+        "animal physiology",
+        "paleontology and biogeography (distribution)"
+      ],
+      "llm_reasoning": "Huxley's descriptions of zoology's branches and concepts are scientifically sound today, but the Victorian, abstract and formal prose and emphasis on disciplinary definitions make the text dry and linguistically challenging for K–6 students."
+    },
+    {
+      "gutenberg_id": 17302,
+      "title": "Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept. 1910\nThe New York Tunnel Extension of the Pennsylvania Railroad\nThe Terminal Station - West",
+      "author": "Cresson, Benjamin Franklin, 1873-1923",
+      "subjects": [
+        "Civil engineering -- Periodicals",
+        "Railroad stations -- Design and construction"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/17302/pg17302.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/17302_transactions_of_the_american_society_of_civil_engi.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/17302_transactions_of_the_american_society_of_civil_engi.txt",
+      "file_bytes": 92658,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "civil engineering (rail terminal and tunnel construction)",
+        "geology (gneiss, rock composition)",
+        "construction and demolition practices",
+        "excavation and material disposal/logistics"
+      ],
+      "llm_reasoning": "The engineering and geological content is scientifically accurate and still relevant today, but the prose is dense, technical, and uses advanced vocabulary that would be dry and largely inaccessible for K–6 students, so it merits a middle score."
+    },
+    {
+      "gutenberg_id": 28248,
+      "title": "The Testimony of the Rocks\nor, Geology in Its Bearings on the Two Theologies, Natural and Revealed",
+      "author": "Miller, Hugh, 1802-1856",
+      "subjects": [
+        "Religion and science",
+        "Creation",
+        "Bible and geology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/28248/pg28248.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 30775,
+      "title": "Elements of Chemistry,\nIn a New Systematic Order, Containing all the Modern Discoveries",
+      "author": "Lavoisier, Antoine Laurent, 1743-1794; Kerr, Robert, 1755-1813 [Translator]",
+      "subjects": [
+        "Chemistry -- Early works to 1800"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/30775/pg30775.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 70448,
+      "title": "Tokology",
+      "author": "Stockham, Alice B. (Alice Bunker), 1833-1912",
+      "subjects": [
+        "Women -- Health and hygiene"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/70448/pg70448.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 3754,
+      "title": "The Wonders of Instinct: Chapters in the Psychology of Insects",
+      "author": "Fabre, Jean-Henri, 1823-1915; Miall, Bernard, 1876-1953 [Translator]; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+      "subjects": [
+        "Instinct",
+        "Insects"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/3754/pg3754.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 64434,
+      "title": "A Pictorial Atlas of Fossil Remains, consisting of coloured illustrations selected from Parkinson's \"Organic remains of a former world,\" and Artis's \"Antediluvian phytology.\"",
+      "author": "Mantell, Gideon Algernon, 1790-1852",
+      "subjects": [
+        "Paleontology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/64434/pg64434.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/64434_a_pictorial_atlas_of_fossil_remains_consisting_of_.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/64434_a_pictorial_atlas_of_fossil_remains_consisting_of_.txt",
+      "file_bytes": 390542,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "paleontology",
+        "fossils and fossilization",
+        "dinosaurs",
+        "paleobotany (ancient plants)"
+      ],
+      "llm_reasoning": "Mantell's 1850 atlas presents fundamentally accurate paleontological science (fossils as remains of former life, extinct animals and plants, and their stratigraphic occurrences), but many taxonomic names and life reconstructions are dated and the Victorian prose and vocabulary are too advanced and stylistically challenging for K–6 students."
+    },
+    {
+      "gutenberg_id": 15435,
+      "title": "Object Lessons on the Human Body\nA Transcript of Lessons Given in the Primary Department of School No. 49, New York City",
+      "author": "Buckelew, Sarah F. (Sarah Frances), 1835-; Lewis, Margaret W. (Margaret Wiseham), 1837-",
+      "subjects": [
+        "Physiology",
+        "Hygiene -- Popular works",
+        "Physiology -- Popular works"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/15435/pg15435.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/15435_object_lessons_on_the_human_body_a_transcript_of_l.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/15435_object_lessons_on_the_human_body_a_transcript_of_l.txt",
+      "file_bytes": 173716,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "human anatomy (body parts)",
+        "circulatory system (heart, arteries, veins, blood flow)",
+        "respiratory system (nose, mouth, lungs, breathing)",
+        "health and hygiene (safety about objects in mouth)"
+      ],
+      "llm_reasoning": "The core anatomy and the basic explanation of circulation and breathing are essentially correct and relevant for elementary grades, but the text uses archaic phrasing such as 'bad/pure blood', oversimplifies pulmonary circulation, and includes prescriptive language that is pedagogically dated."
+    },
+    {
+      "gutenberg_id": 77743,
+      "title": "Duval's artistic anatomy",
+      "author": "Duval, Mathias, 1844-1907; Paterson, Andrew Melville, 1862-1919 [Editor]",
+      "subjects": [
+        "Anatomy, Artistic"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/77743/pg77743.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 47748,
+      "title": "The reason why",
+      "author": "Philp, Robert Kemp, 1819-1882",
+      "subjects": [
+        "Science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/47748/pg47748.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 41595,
+      "title": "The Funny Side of Physic\nOr, The Mysteries of Medicine, Presenting the Humorous and Serious Sides of Medical Practice. An Exposé of Medical Humbugs, Quacks, and Charlatans in All Ages and All Countries.",
+      "author": "Crabtre, Addison Darre",
+      "subjects": [
+        "Medicine -- Anecdotes",
+        "Quacks and quackery"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/41595/pg41595.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 17777,
+      "title": "Transactions of the American Society of Civil Engineers, vol. LXX, Dec. 1910\nReinforced Concrete Pier Construction",
+      "author": "Klapp, Eugene",
+      "subjects": [
+        "Civil engineering -- Periodicals",
+        "Piers -- Design and construction"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/17777/pg17777.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/17777_transactions_of_the_american_society_of_civil_engi.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/17777_transactions_of_the_american_society_of_civil_engi.txt",
+      "file_bytes": 36029,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "reinforced concrete",
+        "caissons and foundations",
+        "coastal/tidal engineering",
+        "marine wood-boring organisms (teredo/shipworms)"
+      ],
+      "llm_reasoning": "The engineering principles (reinforced concrete caissons, pile vs masonry tradeoffs, tidal and wave considerations, and teredo damage to wood) are still valid today, but the prose is technical and uses specialized vocabulary that would be dry and challenging for K–6 students, so it merits a mid-level score."
+    },
+    {
+      "gutenberg_id": 17672,
+      "title": "The Botanical Magazine, Vol. 03\nOr, Flower-Garden Displayed",
+      "author": "Curtis, William, 1746-1799",
+      "subjects": [
+        "Plants -- Periodicals",
+        "Plants, Cultivated -- Periodicals",
+        "Plants, Ornamental -- Periodicals",
+        "Botanical illustration -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/17672/pg17672.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/17672_the_botanical_magazine_vol_03_or_flower_garden_dis.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/17672_the_botanical_magazine_vol_03_or_flower_garden_dis.txt",
+      "file_bytes": 79399,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "plant morphology/anatomy",
+        "plant propagation (cuttings versus seed)",
+        "hardiness and frost protection/greenhouse culture",
+        "plant native range/biogeography"
+      ],
+      "llm_reasoning": "The horticultural and botanical information (propagation by cuttings, hardiness, native origins, morphological descriptions) is still accurate, but the dense 18th-century prose, Latin taxonomic terms, and technical detail make it too dry and linguistically challenging for direct use with K–6 students without significant adaptation."
+    },
+    {
+      "gutenberg_id": 67287,
+      "title": "Relics of Primeval Life: Beginning of Life in the Dawn of Geological Time",
+      "author": "Dawson, John William, Sir, 1820-1899",
+      "subjects": [
+        "Life -- Origin",
+        "Paleontology -- Precambrian",
+        "Eozoon canadense",
+        "Paleontology -- Canada",
+        "Geology, Stratigraphic -- Precambrian"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/67287/pg67287.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/67287_relics_of_primeval_life_beginning_of_life_in_the_d.txt",
+      "approved_path": "",
+      "file_bytes": 370534,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "Precambrian life",
+        "stromatolites and microbial mats",
+        "paleontology (fossil interpretation)",
+        "geological time and stratigraphy"
+      ],
+      "llm_reasoning": "While the book covers relevant topics like Precambrian life and stromatolites, key scientific claims have been overturned (notably the interpretation of Eozoon canadense as a fossil) and the text reflects 19th-century religious framing and archaic prose, so it is partially inaccurate and not suitable for K–6 use without substantial correction and modernization."
+    },
+    {
+      "gutenberg_id": 53396,
+      "title": "Practical Talks by an Astronomer",
+      "author": "Jacoby, Harold, 1865-1932",
+      "subjects": [
+        "Astronomy"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/53396/pg53396.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/53396_practical_talks_by_an_astronomer.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/53396_practical_talks_by_an_astronomer.txt",
+      "file_bytes": 282737,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "celestial navigation",
+        "constellations and the Pole Star (Polaris)",
+        "nebulae and galaxies",
+        "astronomical photography and telescopes",
+        "solar system (Saturn's rings, planets, the Moon)"
+      ],
+      "llm_reasoning": "The astronomical descriptions and topics remain scientifically valid, but the Victorian/early-20th-century prose, occasional period-specific interpretations (e.g., contemporary debates about nebulae or searches for hypothetical planets), and advanced vocabulary make the text soundier than ideal for K–6 students."
+    },
+    {
+      "gutenberg_id": 27717,
+      "title": "Buchanan's Journal of Man, October 1887\nVolume 1, Number 9",
+      "author": "Buchanan, Joseph R. (Joseph Rodes), 1814-1899 [Editor]",
+      "subjects": [
+        "Science -- Periodicals",
+        "Phrenology -- Periodicals",
+        "Medicine -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/27717/pg27717.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/27717_buchanan_s_journal_of_man_october_1887_volume_1_nu.txt",
+      "approved_path": "",
+      "file_bytes": 136358,
+      "status": "downloaded",
+      "llm_score": 1,
+      "llm_approved": false,
+      "llm_topics": [
+        "brain and nervous system (neuroscience)",
+        "human origins and anthropology",
+        "medicine and health"
+      ],
+      "llm_reasoning": "The passage advances phrenology, occultism, and reincarnation as factual bases for medicine—claims contradicted by modern neuroscience and medical science—and uses dense Victorian language and mystical ideas that are inappropriate and inaccessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 25428,
+      "title": "Anecdotes of Animals",
+      "author": "Unknown; Billinghurst, Percy J., 1871-1933 [Illustrator]",
+      "subjects": [
+        "Animals -- Anecdotes",
+        "Animals -- Humor"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/25428/pg25428.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/25428_anecdotes_of_animals.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/25428_anecdotes_of_animals.txt",
+      "file_bytes": 137931,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "animal behavior",
+        "animal intelligence and cognition",
+        "domestication / human–animal relationships",
+        "bird biology (songbirds, crows)"
+      ],
+      "llm_reasoning": "Anecdotal stories about animals mostly reflect accurate observations of behavior and relationships that remain relevant, but the Victorian prose is often dated and anthropomorphic so the material may need simplification or contextual notes for modern K–6 readers."
+    },
+    {
+      "gutenberg_id": 68611,
+      "title": "Science and the modern world",
+      "author": "Whitehead, Alfred North, 1861-1947",
+      "subjects": [
+        "Science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/68611/pg68611.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 3513,
+      "title": "Human Genome Project, Chromosome Number 13",
+      "author": "Human Genome Project",
+      "subjects": [
+        "Human Genome Project",
+        "Human gene mapping",
+        "Human genetics",
+        "Nucleotide sequence"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 2224,
+      "title": "Human Genome Project, rough draft, Chromosome Y Number 24",
+      "author": "Human Genome Project",
+      "subjects": [
+        "Human Genome Project",
+        "Human gene mapping",
+        "Human genetics",
+        "Nucleotide sequence"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 62315,
+      "title": "Domestic animals: a story book for children",
+      "author": "Anonymous",
+      "subjects": [
+        "Domestic animals -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/62315/pg62315.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/62315_domestic_animals_a_story_book_for_children.txt",
+      "approved_path": "",
+      "file_bytes": 22945,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "domestic animals (dogs, cats, pigs, camels)",
+        "animal adaptations and desert survival",
+        "animal anatomy and physiology (stomachs, humps)",
+        "animal behavior and domestication"
+      ],
+      "llm_reasoning": "While many passages about domestic animals and behavior are broadly relevant, key biological claims are inaccurate (notably the camel 'extra stomach' that stores water and exaggerations about cat coloration and tail length), so the science is partly outdated and would need correction before classroom use."
+    },
+    {
+      "gutenberg_id": 63089,
+      "title": "The Body at Work: A Treatise on the Principles of Physiology",
+      "author": "Hill, Alex, 1856-1929",
+      "subjects": [
+        "Physiology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/63089/pg63089.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 2585,
+      "title": "The First 1001 Fibonacci Numbers",
+      "author": "Plouffe, Simon, 1956- [Editor]",
+      "subjects": [
+        "Mathematics",
+        "Fibonacci numbers"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2585/pg2585.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/2585_the_first_1001_fibonacci_numbers.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/2585_the_first_1001_fibonacci_numbers.txt",
+      "file_bytes": 131949,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "Fibonacci sequence",
+        "number patterns",
+        "mathematical sequences",
+        "patterns in nature"
+      ],
+      "llm_reasoning": "The numerical list correctly presents Fibonacci numbers so the mathematics is accurate today, but the material is a dry, uncontextualized table of very large integers that is mathematically sound yet not engaging or accessible for K–6 students without child-friendly explanations or activities."
+    },
+    {
+      "gutenberg_id": 31428,
+      "title": "Matter, Ether, and Motion: The Factors and Relations of Physical Science\nRev. ed., enl.",
+      "author": "Dolbear, A. E. (Amos Emerson), 1837-1910",
+      "subjects": [
+        "Physics"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 60021,
+      "title": "Conference of Officers in Charge of Government Hospitals Serving Veterans of the World War",
+      "author": "Sawyer, Charles E. (Charles Elmer), 1860-1924 [Contributor]; Burke, Charles H., 1861-1944 [Contributor]; Cumming, Hugh S. (Hugh Smith), 1869-1948 [Contributor]; Forbes, Charles R., 1878-1952 [Contributor]; Ireland, M. W. (Merritte Weber), 1867-1952 [Contributor]; Stitt, E. R. (Edward Rhodes), 1867-1948 [Contributor]; White, William A. (William Alanson), 1870-1937 [Contributor]; Wood, George H., 1867-1945 [Contributor]",
+      "subjects": [
+        "Medicine, Military",
+        "Military hospitals",
+        "World War, 1914-1918 -- Veterans -- Medical care -- United States"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/60021/pg60021.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 53319,
+      "title": "Initiative in Evolution",
+      "author": "Kidd, Walter, 1852-",
+      "subjects": [
+        "Evolution",
+        "Hair"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/53319/pg53319.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 48846,
+      "title": "Hawkins Electrical Guide v. 02 (of 10)\nQuestions, Answers, & Illustrations, A progressive course of study for engineers, electricians, students and those desiring to acquire a working knowledge of electricity and its applications",
+      "author": "Hawkins, N. (Nehemiah), 1833-1928",
+      "subjects": [
+        "Electrical engineering -- Handbooks, manuals, etc."
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/48846/pg48846.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/48846_hawkins_electrical_guide_v_02_of_10_questions_answ.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/48846_hawkins_electrical_guide_v_02_of_10_questions_answ.txt",
+      "file_bytes": 312005,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "generators (dynamos) and armatures",
+        "electric motors and torque/speed regulation",
+        "electromagnetism and commutation/brushes",
+        "eddy currents and magnetic hysteresis (core loss)"
+      ],
+      "llm_reasoning": "The core electrical-engineering concepts described (armatures, commutation, motors, eddy currents, hysteresis) are still valid today, but the text is highly technical, dense, and uses archaic vocabulary and depth that make it inappropriate and inaccessible for elementary (K–6) students."
+    },
+    {
+      "gutenberg_id": 49271,
+      "title": "Common Minerals and Rocks",
+      "author": "Crosby, William O. (William Otis), 1850-1925",
+      "subjects": [
+        "Geology -- Study and teaching"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/49271/pg49271.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/49271_common_minerals_and_rocks.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/49271_common_minerals_and_rocks.txt",
+      "file_bytes": 341852,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "rocks and minerals",
+        "geological processes (erosion, volcanism, earthquakes)",
+        "structural geology (rock structure and formation)",
+        "historical geology (earth history and stratigraphy)"
+      ],
+      "llm_reasoning": "The core geological concepts are still scientifically accurate and relevant, but the Victorian-era prose and advanced vocabulary make the text dry and difficult for K–6 students, so it is sound science yet not readily accessible for elementary audiences."
+    },
+    {
+      "gutenberg_id": 18274,
+      "title": "A Book of Natural History\nYoung Folks' Library Volume XIV.",
+      "author": "Jordan, David Starr, 1851-1931 [Editor]",
+      "subjects": [
+        "Zoology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/18274/pg18274.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 16055,
+      "title": "Shakespeare and Precious Stones\nTreating of the Known References of Precious Stones in Shakespeare's Works, with Comments as to the Origin of His Material, the Knowledge of the Poet Concerning Precious Stones, and References as to Where the Precious Stones of His Time Came from",
+      "author": "Kunz, George Frederick, 1856-1932",
+      "subjects": [
+        "Precious stones",
+        "Shakespeare, William, 1564-1616 -- Knowledge -- Geology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/16055/pg16055.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/16055_shakespeare_and_precious_stones_treating_of_the_kn.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/16055_shakespeare_and_precious_stones_treating_of_the_kn.txt",
+      "file_bytes": 136921,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "gem mineralogy",
+        "geology and mining (gem sources)",
+        "meteorites / space rocks",
+        "fossils and concretions"
+      ],
+      "llm_reasoning": "The book's scientific content about gemstone origins, mineralogy and geology is generally still accurate, but it mixes folklore, mysticism and some outdated locality details and uses dense, early-20th-century prose that is not fully accessible to K–6 students."
+    },
+    {
+      "gutenberg_id": 7058,
+      "title": "Mankind in the Making",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "subjects": [
+        "Social problems",
+        "Social sciences"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/7058/pg7058.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 65609,
+      "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
+      "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+      "subjects": [
+        "Birds -- Migration -- Great Britain -- Periodicals",
+        "Birds -- Migration -- Ireland -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/65609/pg65609.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/65609_report_on_the_migration_of_birds_in_the_spring_and.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/65609_report_on_the_migration_of_birds_in_the_spring_and.txt",
+      "file_bytes": 310024,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird migration",
+        "bird species identification",
+        "seasonal timing (phenology)",
+        "observational methods / citizen science"
+      ],
+      "llm_reasoning": "The report's core scientific content about bird migration and observational records remains accurate and relevant today, but the Victorian prose, formal tone and Latin names make it dry and linguistically challenging for K–6 students, so it is scientifically sound but not immediately accessible for that grade range."
+    },
+    {
+      "gutenberg_id": 42613,
+      "title": "On-Line Data-Acquisition Systems in Nuclear Physics, 1969",
+      "author": "National Research Council (U.S.). Ad Hoc Panel on On-line Computers in Nuclear Research",
+      "subjects": [
+        "Nuclear physics -- Information services",
+        "Nuclear physics -- Computer programs",
+        "Online data processing"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/42613/pg42613.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/42613_on_line_data_acquisition_systems_in_nuclear_physic.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/42613_on_line_data_acquisition_systems_in_nuclear_physic.txt",
+      "file_bytes": 264164,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "history of computing",
+        "digital electronics (counters, transistors)",
+        "data-acquisition and instrumentation",
+        "analog-to-digital conversion"
+      ],
+      "llm_reasoning": "The report's technical descriptions of counters, multichannel analyzers, A/D converters, and the rise of computers are historically accurate and still scientifically sound, but the prose is highly technical, dated, and not engaging or accessible to K–6 students."
+    },
+    {
+      "gutenberg_id": 65173,
+      "title": "Migration of Birds (1950)",
+      "author": "Lincoln, Frederick Charles, 1892-1960; Hines, Bob, 1912-1994 [Illustrator]",
+      "subjects": [
+        "Birds",
+        "Birds -- Migration"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/65173/pg65173.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/65173_migration_of_birds_1950.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/65173_migration_of_birds_1950.txt",
+      "file_bytes": 235645,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird migration",
+        "photoperiodism (seasonal timing)",
+        "animal navigation and orientation",
+        "migration ecology and flyways"
+      ],
+      "llm_reasoning": "The core science about where, when, and how birds migrate and the role of daylength and migration routes remains accurate today, but the 1950 text reflects dated emphasis and limited understanding of some mechanisms (e.g., magnetoreception) and uses more formal vocabulary, making it better for upper elementary grades with minor updating or teacher explanation."
+    },
+    {
+      "gutenberg_id": 18229,
+      "title": "Transactions of the American Society of Civil Engineers, Vol. LXVIII, Sept. 1910\nThe New York Tunnel Extension of the Pennsylvania Railroad.\nPaper No. 1150",
+      "author": "Raymond, Charles W.",
+      "subjects": [
+        "Civil engineering -- Periodicals",
+        "Railroad tunnels -- Design and construction"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/18229/pg18229.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/18229_transactions_of_the_american_society_of_civil_engi.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/18229_transactions_of_the_american_society_of_civil_engi.txt",
+      "file_bytes": 94757,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "electric trains and electrification",
+        "tunnel construction and civil engineering",
+        "ventilation and air quality in tunnels",
+        "transportation infrastructure and rail systems"
+      ],
+      "llm_reasoning": "The engineering and electrical points (use of electric traction to avoid smoke/ventilation problems, tunnel design and grades) are still accurate today, but the 1910 technical prose is dense and not engaging or accessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 70052,
+      "title": "Ancient calendars and constellations",
+      "author": "Plunket, Emmeline M. (Emmeline Mary), 1835-",
+      "subjects": [
+        "Constellations",
+        "Astronomy, Ancient",
+        "Calendar"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/70052/pg70052.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/70052_ancient_calendars_and_constellations.txt",
+      "approved_path": "",
+      "file_bytes": 380506,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "precession of the equinoxes",
+        "constellations and the Zodiac",
+        "ancient calendars/archaeoastronomy"
+      ],
+      "llm_reasoning": "The text correctly describes astronomical ideas like precession and the role of constellations in calendars, but it relies on outdated and speculative archaeological datings (e.g., proposed ancient dates for Sargon and calendar origins such as 6000 BC) and uses dense, archaic prose that is unsuitable and partially inaccurate for a modern elementary curriculum."
+    },
+    {
+      "gutenberg_id": 64715,
+      "title": "Palm Sunday; or, Little Mary's Saturday's walk",
+      "author": "Callcott, Maria, Lady, 1785-1842",
+      "subjects": [
+        "Plants -- Juvenile literature",
+        "Palm Sunday -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/64715/pg64715.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/64715_palm_sunday_or_little_mary_s_saturday_s_walk.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/64715_palm_sunday_or_little_mary_s_saturday_s_walk.txt",
+      "file_bytes": 44553,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "plant life and seasonal change (phenology)",
+        "animal behavior (birds feeding and singing)",
+        "amphibian life cycle (tadpoles)",
+        "botanical terminology and historical folk medicine"
+      ],
+      "llm_reasoning": "The book's natural-history observations about spring flowers, birds, and tadpoles are accurate and relevant for elementary students and the narrative is vivid, though the Victorian vocabulary can be archaic and a passing folk‑medicine claim about plant uses is outdated and not scientifically supported."
+    },
+    {
+      "gutenberg_id": 75564,
+      "title": "The puzzle of life and how it has been put together",
+      "author": "Nicols, Arthur; Waddy, Frederick, 1848-1901 [Illustrator]",
+      "subjects": [
+        "Geology -- Juvenile literature",
+        "Prehistoric peoples -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/75564/pg75564.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/75564_the_puzzle_of_life_and_how_it_has_been_put_togethe.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/75564_the_puzzle_of_life_and_how_it_has_been_put_togethe.txt",
+      "file_bytes": 198388,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "geology (rock strata and sedimentation)",
+        "paleontology (fossils and succession of life)",
+        "marine sediment deposition (chalk and deep-sea deposits)",
+        "human prehistory and archaeology (prehistoric peoples and earthworks)"
+      ],
+      "llm_reasoning": "The book's core geological and paleontological claims remain fundamentally accurate today, but its Victorian prose, occasional speculative or Eurocentric framing of human 'progress,' and somewhat dry presentation make it less accessible and modern-school-friendly for K–6 students."
+    },
+    {
+      "gutenberg_id": 29307,
+      "title": "North American Medical and Surgical Journal, Vol. 2, No. 3, July, 1826",
+      "author": "Various; Bache, Franklin, 1792-1864 [Editor]; Coates, Benjamin Hornor, 1797-1881 [Editor]; Hodge, Hugh L. (Hugh Lenox), 1796-1873 [Editor]; La Roche, R. (René), 1795-1872 [Editor]; Meigs, Charles D. (Charles Delucena), 1792-1869 [Editor]",
+      "subjects": [
+        "Medicine -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/29307/pg29307.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 65968,
+      "title": "The House We Live In; or, The Making of the Body",
+      "author": "Farnsworth, Vesta J.",
+      "subjects": [
+        "Physiology -- Juvenile literature",
+        "Hygiene -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/65968/pg65968.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/65968_the_house_we_live_in_or_the_making_of_the_body.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/65968_the_house_we_live_in_or_the_making_of_the_body.txt",
+      "file_bytes": 292915,
+      "status": "downloaded",
+      "llm_score": 5,
+      "llm_approved": true,
+      "llm_topics": [
+        "bones and skeleton (anatomy)",
+        "circulatory system (heart and blood)",
+        "respiratory system (lungs and breathing)",
+        "digestion and nutrition",
+        "senses (eyes and ears)"
+      ],
+      "llm_reasoning": "The book's core explanations of basic human anatomy, hygiene, digestion, circulation, respiration and the senses are consistent with modern elementary-level science and the conversational house-analogy is engaging, though some Victorian moralizing and archaic phrasing may need gentle updating for today's classrooms."
+    },
+    {
+      "gutenberg_id": 72584,
+      "title": "Bulletin of the Nuttall Ornithological Club",
+      "author": "Nuttall Ornithological Club; Allen, J. A. (Joel Asaph), 1838-1921 [Editor]",
+      "subjects": [
+        "Birds -- Periodicals",
+        "Ornithology -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/72584/pg72584.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 7259,
+      "title": "Shock and Awe — Achieving Rapid Dominance",
+      "author": "Ullman, Harlan, 1941-; Wade, James P., 1930-",
+      "subjects": [
+        "Rapid dominance (Military science)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/7259/pg7259.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/7259_shock_and_awe_achieving_rapid_dominance.txt",
+      "approved_path": "",
+      "file_bytes": 287391,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "military technology",
+        "information systems",
+        "systems integration",
+        "aerospace systems"
+      ],
+      "llm_reasoning": "The book deals with military doctrine, systems integration, and technology that are broadly plausible but not framed as core scientific content and are adult, policy-focused and largely irrelevant or inaccessible to K–6 science curriculum, so it is not appropriate for elementary students."
+    },
+    {
+      "gutenberg_id": 75114,
+      "title": "The new air world",
+      "author": "Moore, Willis L. (Willis Luther), 1856-1927",
+      "subjects": [
+        "Meteorology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/75114/pg75114.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/75114_the_new_air_world.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/75114_the_new_air_world.txt",
+      "file_bytes": 478907,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "atmosphere composition and structure",
+        "weather forecasting and synoptic maps",
+        "cloud formation and condensation",
+        "heat, light, and temperature (energy transfer)",
+        "climate and climate variability"
+      ],
+      "llm_reasoning": "The meteorological science in this 1922 text is fundamentally sound for topics like atmospheric structure, pressure and wind, cloud formation, heat transfer, and map-based forecasting, but it predates later developments (satellite meteorology and detailed greenhouse-gas science) and is written in a dated, relatively advanced prose that will be challenging for most K–6 students."
+    },
+    {
+      "gutenberg_id": 17367,
+      "title": "First Book in Physiology and Hygiene",
+      "author": "Kellogg, John Harvey, 1852-1943",
+      "subjects": [
+        "Hygiene -- Juvenile literature",
+        "Human physiology -- Juvenile literature",
+        "Health -- Juvenile literature"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/17367/pg17367.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/17367_first_book_in_physiology_and_hygiene.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/17367_first_book_in_physiology_and_hygiene.txt",
+      "file_bytes": 260075,
+      "status": "downloaded",
+      "llm_score": 4,
+      "llm_approved": true,
+      "llm_topics": [
+        "digestion",
+        "circulatory system (heart and blood)",
+        "respiration and lungs",
+        "nutrition and healthy eating",
+        "nervous system and brain health"
+      ],
+      "llm_reasoning": "Core lessons about the body, digestion, circulation, breathing, nutrition, and the nervous system remain scientifically accurate and relevant for elementary students, but the text uses Victorian language and includes moralizing or outdated health prescriptions (temperance-era advice and some questionable therapies) that would need editing or context for modern classrooms."
+    },
+    {
+      "gutenberg_id": 39910,
+      "title": "Omphalos",
+      "author": "Gosse, Philip Henry, 1810-1888",
+      "subjects": [
+        "Evolution (Biology)",
+        "Creation",
+        "Bible and geology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/39910/pg39910.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/39910_omphalos.txt",
+      "approved_path": "",
+      "file_bytes": 474980,
+      "status": "downloaded",
+      "llm_score": 1,
+      "llm_approved": false,
+      "llm_topics": [
+        "astronomy (planetary motion)",
+        "ocean currents/navigation",
+        "geology (fossils and Earth's age)",
+        "paleontology"
+      ],
+      "llm_reasoning": "Score 1 because Gosse's central thesis (that fossils and geological features are merely created 'apparent' history) conflicts with modern geology, paleontology, and evolutionary science, and the dense Victorian prose and theological framing make the text inappropriate and inaccessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 13116,
+      "title": "Lippincott's Magazine of Popular Literature and Science, Volume 17, No. 097, January, 1876",
+      "author": "Various; Kirk, John Foster, 1824-1904 [Editor]",
+      "subjects": [
+        "Science -- Periodicals",
+        "Literature, Modern -- 19th century -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/13116/pg13116.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/13116_lippincott_s_magazine_of_popular_literature_and_sc.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/13116_lippincott_s_magazine_of_popular_literature_and_sc.txt",
+      "file_bytes": 496015,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "history of science",
+        "scientific method",
+        "Newtonian mechanics",
+        "scientific skepticism"
+      ],
+      "llm_reasoning": "The piece uses broadly accurate, metaphorical references to scientific progress and Newtonian science that remain valid today, but its dense Victorian prose and abstract tone make it sound and not well suited or engaging for K–6 students."
+    },
+    {
+      "gutenberg_id": 28678,
+      "title": "The Christian Foundation, Or, Scientific and Religious Journal, Volume I, No. 12, December, 1880",
+      "author": "Various; Walker, Aaron, 1826- [Editor]",
+      "subjects": [
+        "Religion and science -- Periodicals"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/28678/pg28678.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/28678_the_christian_foundation_or_scientific_and_religio.txt",
+      "approved_path": "",
+      "file_bytes": 103681,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": "The excerpt is theological/philosophical prose about conversion and contains no substantive modern scientific content, so it is not relevant or accessible to K–6 science curriculum and cannot be judged as scientifically accurate for elementary students."
+    },
+    {
+      "gutenberg_id": 60289,
+      "title": "Science Primers, Introductory",
+      "author": "Huxley, Thomas Henry, 1825-1895",
+      "subjects": [
+        "Science"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/60289/pg60289.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/60289_science_primers_introductory.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/60289_science_primers_introductory.txt",
+      "file_bytes": 175764,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "states of matter (liquid, gas/steam)",
+        "density and buoyancy",
+        "gravity and weight",
+        "heat and phase changes (boiling/condensation)",
+        "fluid pressure and properties of water"
+      ],
+      "llm_reasoning": "The scientific explanations (water properties, density, buoyancy, gravity, heat and phase changes, pressure) remain accurate by modern standards, but Huxley's Victorian prose is formal and often dry or vocabulary-heavy, making the text challenging for K–6 students without significant simplification and adaptation."
+    },
+    {
+      "gutenberg_id": 49895,
+      "title": "Manual of Library Economy\nThird and Memorial Edition",
+      "author": "Brown, James Duff, 1862-1914; Sayers, W. C. Berwick (William Charles Berwick), 1881-1960",
+      "subjects": [
+        "Library science -- Great Britain -- Handbooks, manuals, etc.",
+        "Libraries -- Great Britain -- Handbooks, manuals, etc."
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/49895/pg49895.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 2584,
+      "title": "The First 1000 Euler Numbers",
+      "author": "Plouffe, Simon, 1956- [Editor]",
+      "subjects": [
+        "Mathematics"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2584/pg2584.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 76404,
+      "title": "Newton's Principia",
+      "author": "Newton, Isaac, 1642-1727; Chittenden, N. W. [Contributor]; Motte, Andrew, 1696-1734 [Translator]",
+      "subjects": [
+        "Mechanics -- Early works to 1800",
+        "Celestial mechanics -- Early works to 1800"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 47924,
+      "title": "Bob: The Story of Our Mocking-bird",
+      "author": "Lanier, Sidney, 1842-1881; Lanier, Charles D. (Charles Day), 1868-1945 [Author of introduction, etc.]; Dugmore, A. Radclyffe (Arthur Radclyffe), 1870-1955 [Illustrator]",
+      "subjects": [
+        "Mockingbirds"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/47924/pg47924.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/47924_bob_the_story_of_our_mocking_bird.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/47924_bob_the_story_of_our_mocking_bird.txt",
+      "file_bytes": 49241,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "bird anatomy (feathers, beak)",
+        "bird behavior (preening, bathing, sunning, feeding)",
+        "molting",
+        "bird song and mimicry"
+      ],
+      "llm_reasoning": "The book's observational natural history about a mockingbird (feathers, preening, bathing, molting, song) remains accurate, but the ornate Victorian prose and vocabulary make it a challenging, less accessible read for K–6 students despite being scientifically sound."
+    },
+    {
+      "gutenberg_id": 2586,
+      "title": "The First 498 Bernoulli Numbers",
+      "author": "Plouffe, Simon, 1956- [Editor]",
+      "subjects": [
+        "Mathematics",
+        "Bernoulli numbers"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/2586/pg2586.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/2586_the_first_498_bernoulli_numbers.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/2586_the_first_498_bernoulli_numbers.txt",
+      "file_bytes": 107820,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "Bernoulli numbers",
+        "number theory",
+        "mathematical sequences",
+        "mathematical computation"
+      ],
+      "llm_reasoning": "The numerical list of Bernoulli numbers is mathematically correct and remains accurate today, but the text is highly technical, purely numerical, and not age-appropriate or engaging for K–6 students without substantial adaptation."
+    },
+    {
+      "gutenberg_id": 75464,
+      "title": "Principles of electricity",
+      "author": "Shipley, Maynard, 1872-1934; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor]",
+      "subjects": [
+        "Electricity"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/75464/pg75464.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/75464_principles_of_electricity.txt",
+      "approved_path": "",
+      "file_bytes": 114959,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "static electricity",
+        "magnetism",
+        "history of electricity",
+        "electric charge / electrons"
+      ],
+      "llm_reasoning": "The text correctly describes phenomena like rubbed amber and magnets and cites historical figures, but it includes outdated or speculative claims (for example the blanket statement that 'matter, in the last analysis, is electricity') and uses archaic, advanced prose that is not suitable or fully accurate for a K–6 audience."
+    },
+    {
+      "gutenberg_id": 20222,
+      "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+      "author": "Leffingwell, Albert, 1845-1916",
+      "subjects": [
+        "Vivisection",
+        "Medicine, Experimental"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/20222/pg20222.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 49377,
+      "title": "Radioisotopes in Medicine",
+      "author": "Phelan, Earl W., 1900-1993",
+      "subjects": [
+        "Nuclear medicine"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/49377/pg49377.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/49377_radioisotopes_in_medicine.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/49377_radioisotopes_in_medicine.txt",
+      "file_bytes": 110477,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "radioactivity and radiation",
+        "nuclear medicine diagnostics (gamma cameras, PET principles)",
+        "radioisotope therapy (I-131, teletherapy, brachytherapy)",
+        "use of tracer atoms and activation analysis"
+      ],
+      "llm_reasoning": "The booklet's core scientific explanations about radioisotopes and their medical uses remain accurate today, but the 1966 prose is technical and adult-oriented and some clinical practices, dosimetry and safety standards have been updated since publication, making it too advanced for K–6 students."
+    },
+    {
+      "gutenberg_id": 74524,
+      "title": "Manual of veterinary homeopathy",
+      "author": "Humphreys, F. (Frederick), 1816-1900",
+      "subjects": [
+        "Homeopathic veterinary medicine"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/74524/pg74524.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 58862,
+      "title": "Medical Inquiries and Observations, Vol. 4\nThe Second Edition, Revised and Enlarged by the Author",
+      "author": "Rush, Benjamin, 1746-1813",
+      "subjects": [
+        "Medicine",
+        "Yellow fever -- Pennsylvania -- Philadelphia"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/58862/pg58862.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/58862_medical_inquiries_and_observations_vol_4_the_secon.txt",
+      "approved_path": "",
+      "file_bytes": 485423,
+      "status": "downloaded",
+      "llm_score": 1,
+      "llm_approved": false,
+      "llm_topics": [
+        "infectious diseases (yellow fever)",
+        "vector-borne disease / mosquitoes",
+        "history of medical treatments (bloodletting)",
+        "public health and epidemics"
+      ],
+      "llm_reasoning": "The text's core medical claims (prolonged advocacy of bloodletting and outdated ideas about contagion/miasma for yellow fever) conflict with modern knowledge that yellow fever is a mosquito-borne viral disease and that bloodletting is ineffective and potentially harmful; additionally the prose and adult clinical detail make it inaccessible for K–6 students."
+    },
+    {
+      "gutenberg_id": 67597,
+      "title": "Bantu Folk Lore (Medical and General)",
+      "author": "Hewat, Matthew L.",
+      "subjects": [
+        "Traditional medicine -- South Africa",
+        "Pondo (African people)",
+        "Xhosa (African people)",
+        "Zulu (African people)"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/67597/pg67597.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/67597_bantu_folk_lore_medical_and_general.txt",
+      "approved_path": "",
+      "file_bytes": 144049,
+      "status": "downloaded",
+      "llm_score": 2,
+      "llm_approved": false,
+      "llm_topics": [
+        "human migration",
+        "linguistic classification",
+        "traditional medicine",
+        "ethnography"
+      ],
+      "llm_reasoning": "While some factual elements (Bantu expansion, linguistic grouping) broadly match modern understanding, the work oversimplifies populations, includes speculative or dated assertions and repeatedly uses archaic and offensive colonial terms, making it partly outdated and unsuitable for K-6 use."
+    },
+    {
+      "gutenberg_id": 74316,
+      "title": "Geology, Vol. 1 [of 3]",
+      "author": "Chamberlin, Thomas C. (Thomas Chrowder), 1843-1928; Salisbury, Rollin D., 1858-1922",
+      "subjects": [
+        "Geology"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/74316/pg74316.txt",
+      "local_path": "",
+      "approved_path": "",
+      "file_bytes": 0,
+      "status": "skipped",
+      "llm_score": 0,
+      "llm_approved": false,
+      "llm_topics": [],
+      "llm_reasoning": ""
+    },
+    {
+      "gutenberg_id": 77467,
+      "title": "Teeth and mouth hygiene",
+      "author": "Reiss, Louis, 1882-; Fielding, William J. (William John), 1886-1973; Haldeman-Julius, E. (Emanuel), 1888-1951 [Editor]",
+      "subjects": [
+        "Teeth -- Care and hygiene",
+        "Mouth -- Care and hygiene"
+      ],
+      "language": "en",
+      "issued_year": null,
+      "txt_url": "https://www.gutenberg.org/cache/epub/77467/pg77467.txt",
+      "local_path": "/Users/Ryan/Desktop/science_small/raw/77467_teeth_and_mouth_hygiene.txt",
+      "approved_path": "/Users/Ryan/Desktop/science_small/approved/77467_teeth_and_mouth_hygiene.txt",
+      "file_bytes": 116241,
+      "status": "downloaded",
+      "llm_score": 3,
+      "llm_approved": true,
+      "llm_topics": [
+        "oral hygiene and dental health",
+        "tooth development (deciduous and permanent teeth)",
+        "periodontal disease/pyorrhea and dental abscesses",
+        "nutrition and vitamins related to dental health"
+      ],
+      "llm_reasoning": "The core science (importance of dental hygiene, links between oral and systemic health, tooth development, periodontal disease, and diet) is still valid, but the prose is formal, sometimes alarmist (reflecting early 20th-century 'septic dentistry' language) and not easily accessible or engaging for K–6 students."
+    }
+  ]
+}

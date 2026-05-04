@@ -1,0 +1,2740 @@
+﻿The Project Gutenberg eBook of An essay on diseases incidental to literary and sedentary persons
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: An essay on diseases incidental to literary and sedentary persons
+        With proper rules for preventing their fatal consequences. And instructions for their cure
+
+Author: S. A. D. Tissot
+
+
+        
+Release date: July 10, 2024 [eBook #74001]
+
+Language: English
+
+Original publication: London: Edward and Charles Dilly, 1768
+
+Other information and formats: www.gutenberg.org/ebooks/74001
+
+Credits: Aaron Adrignola, Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK AN ESSAY ON DISEASES INCIDENTAL TO LITERARY AND SEDENTARY PERSONS ***
+
+
+
+
+
+
+                                    AN
+                                  ESSAY
+                                    ON
+                                 DISEASES
+                              INCIDENTAL TO
+                    Literary _and_ Sedentary Persons.
+                                   WITH
+                 PROPER RULES for preventing their fatal
+                              Consequences.
+                                   AND
+                       INSTRUCTIONS for their CURE.
+
+                          By S. A. TISSOT, M. D.
+                      Professor of PHYSICK at BERNE.
+
+                    Now first translated into ENGLISH.
+
+                                 LONDON:
+           Printed for EDWᵈ. and CHARLES DILLY, in the Poultry.
+                               MDCCLXVIII.
+
+
+
+
+[Illustration]
+
+
+
+
+TO
+
+The CONSULS, QUÆSTORS, TRIBUNES, and other illustrious and great Men of
+the senatorial Order at _Berne_.
+
+
+I am indebted to you for many great obligations, most illustrious and
+great men; and lately you have done me the honour to confer a most noble
+and unexpected favour upon me. It is but just that I should by words
+thank those to whom I am incapable of making any other return; and such a
+testimony of gratitude I will shew them as long as I live. It is proper
+that, being publickly graced by your favours, I should make a public
+acknowledgment, and give some pledge of my gratitude, however mean and
+inadequate. Receive therefore, most illustrious and excellent men,
+and deign to receive favourably, this first though feeble proof of my
+diligence in my new office. May the Almighty enable me to promote the
+public interest of the academy by more considerable and more valuable
+productions, and may the hopes which you have conceived of me, venerable
+fathers of your country, and the hopes which the people have conceived
+concerning this new professorship, be fulfilled to general satisfaction.
+May the propitious Deity likewise favour all your public and private
+undertakings, and shower all his choicest blessings both upon you and
+yours, and the whole commonwealth. And cease not, reverend fathers, to
+make happy, by your constant benevolence and favour, a man entirely
+devoted to the service of your excellencies.
+
+                                                             S. A. TISSOT.
+
+_Lausanne, April 29, 1766._
+
+
+
+
+Advertisement to the Reader.
+
+
+_The occasion of this discourse, and the choice of the materials, will
+sufficiently appear from the discourse itself: therefore, courteous
+reader, I shall not trespass upon thy patience by a long preface._
+
+_I have long since read many treatises and dissertations concerning the
+health of the studious; but of all the authors, who have treated this
+subject, the only one who has acquitted himself to my satisfaction is
+BERNARD RAMAZINI: for I have not yet had an opportunity of reading the
+work of the celebrated PUJATUS, a man who in other respects has deserved
+highly of the medicinal science; but whose treatise upon this subject
+is, I find, neither praised by the journals nor by his friends. Nor is
+the work of RAMAZINI compleat; since he has left more topicks untouched
+than he has elucidated. I have therefore undertaken an important, an
+agreeable, and even a new subject; and I hope I shall not appear unequal
+to it; but it will be sufficient to have pointed out the road at a
+distance to learned travellers; they will soon be able of themselves to
+shew the unknown paths; which is my earnest wish and desire. In this
+treatise there will occur many passages transcribed verbatim from CELSUS,
+GAUBIUS, and other eminent men, and that even without distinguishing them
+by quotation. This plagiarism will, I hope, be excused, because I looked
+upon it as a sort of profanation to alter their words, as they were
+extreamly eloquent, and admirably adapted to my purpose: besides, it was
+improper to disgust the reader by too great a number of quotations._
+
+
+
+
+[Illustration]
+
+
+
+
+ON THE
+
+DISEASES
+
+OF
+
+Literary _and_ Sedentary Persons.
+
+
+When I consider with myself how many and how great men have formerly
+ascended this chair, with how general an applause they apply’d to the
+education of youth, and how every branch of erudition has been cultivated
+to such advantage by the present set of teachers, into whose learned
+order I am this day admitted by the great favour and indulgence of our
+senate; whilst I at the same time reflect how much this new situation
+differs from my former manner of living, in which as I had willingly
+pass’d a considerable part of my life, I had determin’d to continue to
+my old age; when I reflect upon all these circumstances, a tremor seizes
+my limbs, and my voice falters. But because from the very foundation of
+this respectable academy, custom, which governs all things, and your
+expectation requires it of me, embolden’d by your kindness, I will make
+trial of my abilities.
+
+Being a new member, and ascending a new chair, I propos’d to speak of the
+connexion between physic and other academical studies, and it was my
+design to explain what it borrows from them, and what it contributes to
+them in its turn.
+
+It would be a pleasure to me, reverend pastors of the church, and
+illustrious professors of divinity, to declare aloud how much physick
+is indebted to religion; I would gladly vindicate the principles of
+physicians from the imputations of ancient calumny, and prove that
+religion is strongly supported by a science, which, being totally
+conversant in the contemplation of an admirable creature, demonstrates
+from the wonderful mechanism of a man in health, and the surprising cures
+of the sick, the existence and great wisdom of the Supreme Artificer, and
+that even to the most obstinate. Do men forget the Deity? Physicians
+stand forth, and theology is entirely reviv’d; for who have spoken more
+truth, or in a sublimer stile concerning God, than they? There would be
+no end, were I to cite them all; but I must not pass over in silence
+HIPPOCRATES, the first who ever asserted that fate produc’d nothing, but
+that all those events, which we call fortuitous, are regulated by the
+will of God: the next to him is GALEN, who diffusively proves, that the
+existence of God is demonstrated by the position of the thumb alone;
+and calls his treatise concerning the use of the parts, a monument to
+the glory of the Deity: to him must be added POLYCHRESTUS, to whom the
+illustrious sir-name of _Lover of God_ was given, on account of his
+great piety: BOYLE, who wrote excellent works himself, and founded an
+admirable institution for the promotion of religion, which he nobly
+endow’d; his friend SYDENHAM; the immortal LOCK; HOFFMAN, who carried
+his piety so far, that he was not entirely free from superstition; the
+admirable TRALLES; and my dear and worthy friend HALLER, who in an
+excellent treatise has asserted the utility of religion in a manly stile,
+as usual, and exerts himself to the utmost to promote its cause.
+
+Physicians indeed laugh at the idle tales of old women, at the
+extravagancies of the vulgar, and thereby incur the censure of weak and
+superstitious people; they deride the inventions of imagination; and
+whilst every divine lays down his own opinion as the rule of truth,
+physicians make a jest of the phantoms which these set up for religion,
+and refuse to embrace a cloud for a Juno: thence all these clamours,
+these accusations, these reproaches, and these calumnies. But if some of
+our society have in fact been led astray by error, which I am sorry to
+say cannot be denied, the severe censure of their colleagues has soon
+convinced the public how much they disapprov’d of their principles.
+
+It would be a pleasure to me, most learned professor of morality, whom to
+address by the tender name of father-in-law is my greatest happiness; it
+would be a pleasure to me, I say, to treat to the best of my abilities of
+the connexion between the knowledge of morals and of health; how near the
+relation is between them, how exact the concatenation in every respect.
+This is certainly both an agreeable and useful undertaking: nor is it
+altogether new; for HIPPOCRATES has in his whole treatise concerning
+diet, done his utmost to prove that souls are the same in all men, and
+that the various degrees of wisdom and folly proceed from the different
+temperament of their bodies; and GALEN, who has admirably demonstrated
+the power of the body over the mind and the motions of the will, desired
+the teachers of philosophy, sixteen ages ago, to send all persons of bad
+morals to him to be cur’d[1].
+
+Should I be ever so full, most learned professor of jurisprudence, I
+could not entirely display the connexion between us; for whether a
+legislator regulates a commonwealth, or whether a judge upon the bench
+weighs questions of civil law, or criminal and ecclesiastical causes, in
+the ballance of Themis, there occur cases, and those not a few, in which
+he cannot do without the assistance of our art.
+
+It would be necessary to lay open the greatest part of natural knowledge,
+most profound professor of philosophy, were I to treat of all that it has
+in common with physick; for you well know that both the cure of diseases,
+and the contemplation of the nature of things, had their beginnings from
+the same authors. We are therefore inform’d that many of the professors
+of natural philosophy were well skilled in physick, and that the most
+illustrious of these were PYTHAGORAS, EMPEDOCLES, and DEMOCRITUS.
+HIPPOCRATES was the first who separated these studies; but he did not
+separate them in such a manner as to pull them asunder entirely, but so
+as to split that comprehensive science into several more minute members,
+that many might cultivate divided, what one could not learn entire; but
+that neither should desert what nature made inseparable.
+
+That part of this science, which considers body merely as body, has
+retain’d the name of natural philosophy: others went by various names,
+according to the different sorts of bodies of which they treated. The
+human body is the object of physick, which without natural philosophy is
+lame; for he is but a dunce in the art of healing, who is not acquainted
+with the forces of bodies, and the laws of motion: nor do professors of
+physick care to undertake the education of those, who are ignorant of
+natural philosophy. But if physick is greatly indebted to this science,
+it can in some respects return the favour, and physicians have return’d
+it in many instances: for GILBERT, who first satisfactorily explain’d
+the phænomena of electricity, was a physician, as was likewise BOYLE,
+who promoted natural knowledge more than any other philosopher; and
+BOERHAAVE, whose experiments upon the elements have given a new face to
+this science; and to pass over many others in silence, the illustrious
+MUSCHEMBROEK, who is universally allow’d to surpass all others in this
+article.
+
+And there is some connexion, though perhaps not so close, between your
+studies and physick, illustrious professors of history and languages;
+for what physician would not be asham’d to be ignorant of history and
+the humanities? Who would not be desirous of consulting the Arabian
+physicians in the originals, as none of them has hitherto been faithfully
+translated? Are there not likewise certain parts of history, which
+physick alone can throw proper lights upon? Is not CELSUS a physician,
+whose works all that are desirous of speaking Latin in perfection, study
+night and day? PLINY, in whom we meet not merely with helps for acquiring
+the Latin language, but with the purest Latinity, though he did not
+practise physic, understood it perfectly, and is entirely taken up in
+explaining it. ARETEUS, whom we respect as a master of the healing art,
+is conspicuous for the elegance of his Greek. GALEN has an eloquence
+peculiar to himself. So has ALEXANDER. And those who cultivate the Arabic
+language, boast that it is no where to be found in greater purity than in
+the writings of physicians.
+
+It appear’d to me at first sight, that on so copious a subject it would
+be easy to make an oration; but upon maturer deliberation I began to
+think quite otherwise; and so, having laid down a burthen too heavy
+for my shoulders, and left it to more sublime geniuses, I kept to my
+practice, _my labour is here engaged, and not my eloquence_; and, having
+resigned the hopes of declaiming like an able orator, or soothing your
+ears with the allurement of words, I have chosen this subject, as capable
+of pleasing you by its own force; and as it is sufficient barely to lay
+it before you, it requires no ornaments:
+
+    _De tauris dicit arator, navita de ventis._
+    _Quod medicorum est promittunt medici._
+
+    _The plowman talks of oxen, the sailor of the wind._
+    _Physicians offer what belongs to their profession._
+
+And addressing myself to learned men as a physician, I shall treat of the
+health of studious men; and here again I must request your indulgence:
+
+    _Dira per incautum serpunt contagia vulgus._
+
+    _A dire contagion through the vulgar spreads._
+
+But whilst I was hurried about to attend a crowd of patients, I had
+no leisure to polish my work; therefore I have without method thrown
+together my thoughts and observations on this useful topic.
+
+It is an old complaint, that study, though essentially necessary to the
+mind, is hurtful to the body; and CELSUS has intimated the necessity
+of a remedy. Those that are of weak constitutions, says he, as most
+studious men are, should take greater care than others, that what is
+impaired by application to their studies may be repair’d by attention to
+their constitutions. And PLUTARCH, an admirable judge of what is right
+and becoming, declares it to be a shame, that the learned should spend
+days and nights in useless investigations, and at the same time neglect
+the art of preserving their health; being, doubtless, ignorant that the
+healing science was formerly look’d upon as a part of wisdom, and that
+those chiefly requir’d medical assistance, who have impair’d their bodily
+strength by anxious thought and watchfulness.
+
+There are two principal sources, from whence all the sufferings of the
+studious flow; the constant exercise and application of the mind, and the
+continual rest of the body; for they are as indolent in body, as they
+are busy and active in mind. By enumerating the ills, that arise from
+both causes, a dreadful crop of diseases will be display’d.
+
+Let metaphysicians bewilder themselves in inquiries, how the mind
+governs the body, and is govern’d by the latter in its turn; physicians,
+descending to considerations of less importance, but of greater
+certainty, perhaps, and little sollicitous about the causes of this
+mutual government, and but confining their inquiries to phænomena, know
+by experience, that certain emotions of the mind necessarily arise from
+certain conditions of the body, and that by particular emotions in the
+mind particular changes are unavoidably produc’d in the body, and that
+whilst the mind thinks, some part of the brain is stretch’d. We make no
+other inquiry; it would be of no use to know any thing farther.
+
+So close is the connexion between mind and body, that we cannot well
+conceive the operations of the one independent of some correspondence
+with the other. For as the senses are incapable of conveying the
+materials of thought to the soul, without the motion both of their
+own fibres and those of the brain, so, whilst the mind revolves these
+cogitations, the organs of the brain are more or less stimulated to
+act, stretch’d, and have oscillatory motions excited in them. The mind
+agitates the machine; and these are the labours of the medullary part,
+which, being so tender, does not suffer the less by these motions;
+and every man easily feels that in himself, which the strongest arms
+experience after the most violent exercise.
+
+For which of you, that has been addicted to a studious life, has not
+often found, after intense thought, that the innermost part of the brain
+has been affected by a troublesome heat, and intense pain, such as the
+muscles feel when fatigu’d with long labour? Nor does the medullary part
+of the brain suffer alone, but the very eyes themselves can perceive the
+force of the thinking soul, extended beyond the brain: for whilst we look
+upon a man that meditates seriously, all the muscles of his face appear
+stretched, nay sometimes convuls’d. Nor does the brain, the medulla of
+which is the source of the nerves, suffer alone, but they themselves
+are hurt; and PLATO has admirably shewn, in the masculine style in which
+he so greatly excell’d, how much the exercise of the mind prejudices the
+body. “Quando anima, inquit, corpore admodum potentior est, exultatque
+in eo atque effertur, totum ipsum intrinsecus quatiens languoribus
+implet. Quando etiam ad dicendum, investigandumque, collectis in unum
+viribus, vehementer incumbit, liquefacit prorsus corpus, & labefactat;
+denique cum ad dicendum, differendumque privatim & publice ambitiosa
+quadam concertatione contendit, inflammat corpus atque resolvit. Tam
+arcta enim lege consortii, sic RAMAZZINI, fœderantur anima & corpus
+ut omnia tam bona quam mala unius in alterum vicissim corrivent, ac
+veluti, ex corporis nimia exercitatione, anima ad mentis functiones
+languescit, ac torpet, sic ob nimiam animæ contentionem, circa sapientiæ
+studium, corpus marcescat necesse est, absumptis nempe spiritibus,
+communi scilicet instrumento ad materiales & spirituales operationes
+rite obeundas.” “As the mind, says he, is far more powerful than the
+body, and exults and is elate therein, it affects it inwardly, and fills
+it entirely with languor; and when, by gathering together its strength,
+it applies earnestly to learning and to the investigating of things, it
+quite dissolves and unhinges the body: finally, when with an ambitious
+emulation it exerts itself to speak and harangue both in private and
+public, it inflames the body and relaxes it. For, as RAMAZZINI observes,
+the soul and body are united by so firm a league, that all the advantages
+and disadvantages of the one must affect the other; and as the soul is
+rendered languid in the mental functions, and become stupified in the
+same manner by the too great application of the mind to the study of
+wisdom, the body must unavoidably pine away, the animal spirits being
+consum’d, which are the only instruments of rightly performing both
+material and spiritual operations[2].” These are indeed observations
+highly just. For he who is not ignorant what a multitude of nerves there
+are in the animal system, who is sensible that there is no function that
+can be performed without them, will easily apprehend that by the fatigue
+of the medulla a languor may be brought upon all the nerves, so that the
+several functions may be weakened, and the strength of the body may,
+without its being exercised, be totally exhausted.
+
+It is universally known that there are books compos’d without any
+strength of genius, which appear quite insipid and unaffecting to
+the reader, and only tire the eyes; but those that are compos’d with
+an exquisite force of ideas, and with an exact connexion of thought,
+elevate the soul, and fatigue it with the very pleasure, which, the more
+compleat, lasting, and frequent it is, breaks the man the more[3].
+
+MALEBRANCHE was seized with dreadful palpitations in reading DESCARTES’S
+Man; and there is still living at Paris a professor of rhetoric, who
+fainted away whilst he was perusing some of the sublime passages of
+HOMER[4].
+
+The head itself, and the nerves, and the stomach which is fuller of
+nerves than any other part, first suffer for the errors of the mind.
+
+An eminent person, who had impair’d his health by too intense an
+application to study, was immediately seiz’d by a terrible vertigo,
+if he happen’d to listen attentively to a person telling a story. He
+likewise complained, that nothing could give him greater uneasiness than
+his attempting to recall the memory of any thing, for then he was put
+to the greatest pain imaginable, and sometimes seiz’d with a fainting
+fit, attended with a sense of extreme lassitude. Nor could he desist
+from his effort after he had once begun it, though he labour’d ever so
+much for that purpose; but was under a necessity of proceeding as he had
+begun, till he fainted away[5]. The illustrious VIRIDET, formerly my
+fellow-citizen, knew a woman who, whenever she us’d any application of
+mind, was seiz’d with a severe fit of the colic[6]. And a late author
+speaks of a man who never either thought intensely, or experienc’d any
+lively sensation, or was put in a passion, but his whole arm immediately
+swell’d up[7]. Both of which cases may be explained by the defect of the
+nerves alone, and the action of the mind upon the nerves.
+
+Daily observation proves the force of the mind’s action upon the stomach;
+and this every man has an opportunity of experiencing in himself; for
+the more intensely any man thinks, and the more strongly he exerts the
+reflecting powers of his mind, the more slowly and with the greater
+difficulty, _cæteris paribus_, does he digest what he eats; and, on the
+other hand, the freer a man’s mind is from reflexion, the more readily
+and the better he digests. It is observable that fools always eat and
+drink a great deal, and yet digest perfectly well, even though they
+lead a sedentary life, and do not surpass others either in the bulk or
+strength of their bodies: whilst men of genius and abilities, though
+they have strong muscles, and take exercise sufficient, are obnoxious
+to crudities in the stomach and slowness of concoction [8]. BOERHAAVE,
+who resided a long time in a city renown’d for learning, has observ’d
+that studies excite a disagreeable sensation at the upper orifice of
+the stomach; and that, if this be neglected by the studious, madness
+ensues[9]. My illustrious friend POME knew a man of learning, who had
+made his stomach so infirm by intense application, that immediately after
+eating he vomited[10]. I myself have seen some, who, when their minds
+were wearied out with constant study, being taken ill, at first lost all
+appetite, then were seiz’d with a weakness of their whole bodies, and at
+last with dreadful paroxysms, which began with vomiting, and ended in
+convulsions and a total privation of their senses.
+
+Soon, by an unavoidable fatality, the disorder that had affected the body
+recoils upon the mind; for the Author of nature has ordain’d that most of
+the operations of the latter should stand in need of the assistance of
+the former; which has given occasion to the following just observation of
+PLINY the younger[11], and long before him it was observed by DEMOCRITUS,
+that the mind is supported by what supports the body. “Augescit mens
+cum adest sanitas, adeoque huic ut prospiciant, qui recte sentiant
+consentaneum est: ubi vero corporis habitus dolet nec mens ad virtutis
+meditationem est alacris.” “The mind acquires new vigour whilst the body
+is in health; therefore all those who think justly will take care of the
+latter: but, when the body is in a painful state, the mind is less alert
+in the meditation of virtue[12].” Should it then seem surprising, if,
+when the tenor of the brain and nerves is broken by the efforts of the
+mind, the latter should decline in its turn? First of all it is depriv’d
+of its fortitude; distrust, terror, and melancholy, seize upon it; and
+he who would have stood undaunted amidst a falling world a few months
+before, is every moment fill’d with terror and consternation, as soon as
+his nerves are affected by a hypochondriac disorder. Relentless tyrants
+may have condemn’d to death philosophers whom they hated; but it never
+was in their power to subject them to the dread of death, which they had
+long shaken off. O how much more cruel would they have been, if they had
+granted them their lives, and had it in their power to torment their
+minds with hypochondriacal terrors!
+
+Thus render’d unequal to the task of study, the learned are at last under
+a necessity of quitting their belov’d pursuits; for, as the strength of
+their nerves diminishes, their attention fails, the memory begins to lose
+its tenaciousness, the ideas are obscur’d, and an uneasy sensation of
+heat over the whole head, a dreadful palpitation, the most extraordinary
+weakness, and a groundless fear of approaching death, oblige them to
+discontinue their application. Their strength being at last repair’d
+by rest, nourishing aliments, and exercise, they renew their assiduity
+in study, but are soon oblig’d to quit their books as before. Thus the
+whole day is lost; and when evening approaches and they retire to bed,
+their weakness and anxiety make them pass their nights most dismally,
+whilst the great mobility of their nerves prevents their sleeping, and
+sometimes increases to such a degree as totally to deprive them of the
+power of thinking. I know a young man, upon whom an intense application
+to study had this extraordinary effect, that, if he read even a few
+pages, he was torn with convulsions of the muscles of the head and face,
+which assum’d the appearance of ropes stretch’d very tight.
+
+Nor does too intense an application produce only slight and transient
+convulsions of the muscles; it likewise renews and generates the most
+dreadful nervous disorders. GALEN[13] mentions a grammarian, who was
+seized with a fit of the epilepsy, whenever he meditated profoundly,
+or taught with vehemence. I myself have seen instances of it. And the
+illustrious VAN SWIETEN laments the case of youths of the brightest
+hopes, who have been seiz’d with a dreadful and incurable epilepsy, upon
+being compell’d by severe masters to apply to their studies with scarce
+any intervals of relaxation. HOFFMAN[14] makes mention of a young man,
+who, as often as he weary’d out his memory and his genius by attentive
+study, was seiz’d with a momentary epilepsy, a palpitation of the heart,
+and a trance; but when he remitted of his assiduity, was always tolerably
+well. This the celebrated PETRARCH likewise unhappily experienc’d, being
+seiz’d with an epilepsy through his great application to study, to
+which he was immoderately attach’d. In a public promotion, one of the
+candidates for literary honour, after having pursu’d his studies with
+the moil arduous application both day and night, through a too great
+attention to his oration, that he might be able to say it accurately by
+heart, was suddenly seiz’d with a catalepsy and fell down[15].
+
+The labour of the mind not only produces nervous disorders, but,
+by means of the nerves, gives rise to other complaints. An eminent
+mathematician, who was troubled with an hereditary gout, and had always
+liv’d soberly and chastely, hasten’d a paroxysm by applying a long
+time to the solution of a difficult problem[16]. And the case of the
+chevalier DE PERNAY is very extraordinary. After four months of the
+closest study imaginable, and without any previous disorder, his beard
+fell first, then his eye-lashes, then his eye-brows, then the hair of
+his head, and finally all the hairs of his body[17]. Did this proceed
+from the great relaxation of the roots, from which the hairs grow; or
+from the want of nutrition? Certain it is, that an intense application
+of mind relaxes the whole corporeal frame, and prevents all nutrition
+for two reasons; for this is the effect of thought, not upon all, but
+upon most constitutions, that it accelerates the pulse, and produces a
+fever, which, by dissolving the nourishing jelly of the fluids, occasions
+paleness, leanness, consumption, and a sort of wasting of the nerves; on
+the other hand, the cessation of the action of the nerves, is capable
+of producing it. Nor does it less cease in the whole body, whilst it is
+obstructed by application of mind, than when it is stopped by a swelling
+or a ligature in any part. We should not be too inquisitive in prying
+into causes; and many circumstances relating to nervous disorders will
+for ever remain unknown: but if any one should be curious to know how the
+too great tension of the nerves is hurtful, I will briefly give him my
+sense of the matter. The body is exhausted by too great an evacuation;
+hence arises weakness, an extraordinary tenuity of the humours, and, what
+it is generally productive of, a diseased mobility. Suppose the blood
+were to run copiously from a wound, or the gastric fluids were to be
+pour’d forth by the anus, or the breasts suck’d too long, or a greater
+discharge of saliva made by spitting, or the wretched body were to be
+troubled with a long diabetes, or in short, any other evacuations were
+too much increased, the strength would decline, and the health be lost;
+but whilst the nerves act, their fluid runs out of the body, and carries
+off the strength with it; nor is there any thing in the body either more
+labour’d, more necessary in many animal functions, or more intimately
+connected with strength. In studious men, therefore, a perpetual
+dissipation of the nervous fluid springs from the incessant action of
+the nerves, attended with weakness, and an extraordinary mobility, from
+whence all the above-mention’d diseases easily take rise; these are very
+dreadful, but diseases still more dreadful remain to be describ’d.
+
+It is not easy for the mind not to throw out at will such motions as it
+has powerfully conceiv’d; and this is a second cause of the diseases of
+studious men, from whence spring so many errors and wanderings of the
+mind, to be chang’d for death only, so many phrenzies and deliriums:
+for whilst ideas no longer answer to their external objects, but to the
+internal disposition of the brain, the latter being agitated by its own
+motion, either entirely, or in part, is unable to receive new vibrations,
+to be transmitted, all, or some, by the senses; whereas those that are
+spontaneous cannot be check’d.
+
+The brain of BLAISE PASCHAL was so vitiated by passing his life in the
+laborious exercises of study, thought, and imagination, that certain
+fibres, agitated by incessant motion, made him perpetually feel a
+sensation, which seem’d to be excited by a globe of fire being plac’d on
+one side of him; and his reason being overpower’d by the disorder of his
+nerves, he could scarce banish the idea of the fiery globe being actually
+present. SPINELLO painted the devils thrown from Heaven by the Almighty,
+and gave so fierce a countenance to Lucifer, that he was struck with
+horror himself; and during the remainder of his life, his imagination
+was continually haunted with the figure of that demon, upbraiding him
+with having made so shocking a portrait of him. There are many others,
+whom the force of genius too much rous’d, has for ever hurried beyond
+the boundaries of truth. GASPAR BARLÆUS, who was at once an orator, a
+poet, and a physician, was not ignorant of this danger, concerning which
+he admonish’d his friend CONSTANTIUS HUYGENS[18]; but being blind with
+regard to himself, he by immoderate studies so broke the force of his
+sensorium, that he thought his body was made of butter, and carefully
+shun’d the fire, lest it should melt him, till being at last tir’d of
+his excruciating fears, he leapt into a well. I must still grieve for
+a friend of a penetrating genius, an excellent understanding, of strict
+morals, and one that seem’d born for a better fate; who being animated
+with too great a love of learning, and in particular of the medical
+science, by reading night and day, observing, making experiments, and
+meditating, at first became sleepless; then began to talk, sometimes
+incoherently, and sometimes rationally; at last run mad, and having
+scarcely escap’d with life, never recover’d his reason. I have known many
+others, who by study alone were first rendered phrantic, or crazy, and
+at length became idiots. I love, esteem, and honour an illustrious man,
+and a man of extraordinary abilities, who being twelve hours intent upon
+settling a difficult memorial, after having finish’d his work, became
+delirious till a soft sleep quieted the state of his nerves. Observers
+give us accounts of many similar cases, and I was inform’d by a witness
+who may be confided in, that PETER JURIEU was formerly famous for his
+talent at disputing, by his labours in writing books of controversy,
+and expounding the apocalypse, so disorder’d his brain, that though he
+thought like a man of sense in other respects, he was firmly persuaded
+that the seven fits of the cholic, with which he was tormented, had been
+occasion’d by a constant fight between seven horsemen that were shut up
+in his bowels. There have been many instances of persons, who thought
+themselves metamorphos’d into lanterns, and who complain’d of having lost
+their thighs.
+
+But those are affected in the most dangerous manner, who dwell too long
+upon one and the same thought; for thus one part of the sensorium being
+longer stretch’d than the rest, without being ever reliev’d by the others
+in their turn, is the sooner broke; for as the body suffers more if one
+or but a few muscles alone act, so the brain is the less fatigued when
+various parts act successively; the part which discontinues recovers its
+strength, whilst the others are at work; and that is durable which does
+not want alternate rest.
+
+Many years ago I knew a woman, who appear’d to have very good sense
+for five and twenty years; but having, unhappily for her, embrac’d the
+sect of the Herrenhutters, she became entirely inflam’d by the love of
+our blessed Saviour, and of him alone; and she dwelling entirely upon
+this idea both day and night, it so broke the tone of her brain, that
+in a few months time she became an idiot; but still she was so mindful
+of her Lamb, that visiting her every day for half a year together, and
+frequently addressing my discourse to her, I could never hear any other
+words from her than _my sweet Lamb_; and this she utter’d every half
+hour, with downcast eyes, and was the only word she spoke for a year and
+a half; which time being elapsed, she pin’d away and died. And to pass
+by other examples, there was not long ago in this academy, a young man
+of bright hopes, who being too earnestly solicitous about squaring the
+circle, died mad in the Paris hospital.
+
+The third cause of the disorders of the brain, is, that law to which the
+human machine is subjected; that a new quantity of blood should be added
+to the part that acts. The illustrious MORGAGNI knew a man of learning
+at Boulogne, who whenever he gave his mind to abstract meditations in
+the morning, before he rose, was sure to bleed at the nose for a short
+time after[19]. Therefore as often as the brain increases its action, it
+is moisten’d with an additional quantity of blood, which, giving a new
+tension and a quicker motion to the vessels, brings on both the sense
+of pain and heat already mentioned, and many more grievous symptoms;
+namely, according to the different state of the brain, of the blood, and
+external objects, it occasions dilatations of the veins and arteries,
+obstructions of the nerves, inflammations, suppurations, scirrhous
+tumours, ulcers, dropsies, and thence head-achs, deliriums, drowsiness,
+convulsions, lethargy, apoplexy, and continual obstinate watchings, which
+cruelly torment the studious, and afflict them with new diseases; for
+what diseases, what perturbations of the mind do not protracted watchings
+give rise to? The great BOERHAAVE was six weeks without sleep, after
+profound study and meditation; and at the same time so indifferent to
+every thing, that scarce any object whatever affected him[20]. And which
+of you, learned auditors, has not found by experience, that a slight and
+disturb’d sleep, a sleep that scarce gives refreshment, generally follows
+a day pass’d in study. A slight irritation of the brain causes want of
+sleep; from one more considerable arise convulsions and drowsiness; from
+the greatest of all a mortal apoplexy, which disorder often puts an end
+to the lives of learned men. The reason is, that that part suffers which
+was guilty of the excess, and whilst the strength of the brain is relax’d
+by study, and fresh blood is forc’d into it, it must sooner or later be
+quite overwhelm’d, especially at the time that some new cause adds force
+to the blood that impells it; thence it has frequently come to pass, that
+learned divines in preaching, and learned professors in delivering their
+lectures, or disputing, as was the case with the celebrated CURTIUS
+at Leipsick, expir’d on their very chairs; and LIVY the historian has
+preserv’d to us the history of king ATTALUS, who died in the assembly at
+Thebes, whilst he was animating the Bœotians by an harangue to enter into
+an alliance with the Romans.
+
+I saw a reverend pastor, who on Whitsun-sunday, after having preach’d
+long and with vehemence, whilst he was distributing the host to the
+people, was first seiz’d with trembling, then stammer’d, then was
+delirious, then fell down in an apoplectic fit, and continuing delirious
+ever after, though in an advanc’d age, liv’d for some months in a state
+of infancy. The celebrated MORGAGNI likewise mentions a preaching monk,
+who was seiz’d with a violent apoplexy before his congregation, and
+quickly died; his vehemence of delivery conspiring with a plethora to
+destroy him[21]. A professor at Berne, deeply versed in the oriental
+languages, a man in the prime of life, but of indefatigable industry, not
+long since sunk into a second infancy, and a state of idiotism, his brain
+being overflow’d by water, which stagnated in it[22].
+
+We must not forget, in enumerating the injuries suffered by the brain
+from this overflowing of the blood, that the disorder of the nerves
+which causes the hypochondriac disposition, is increased; their little
+tubes being dilated are constantly weaken’d, grow soft, and make less
+resistance to impressions, which is one of the chief causes of the
+hypochondriac disorder.
+
+Nor do the sufferings of studious men end here, since from another
+law, which holds equally in the animal œconomy, a fourth cause of the
+disorders of the learned springs from an over violent labour of the mind;
+for the animal fibre is indurated by being used, the whole machine grows
+callous as it grows old; the parts that are exercised by labour become
+hardened in workmen; the brain of studious men contracts a callosity,
+so that becoming unequal to the task of forming ideas, they fall into a
+premature dotage: thus the too great softness of an infant’s brain, and
+the too great hardness of a brain occasioned by study, are equally ill
+adapted to produce those vibrations, without which the force of thought
+is lost. Let the fibre be moisten’d with water, or stiffened with lime
+and sand, it in both cases becomes equally incapable of performing its
+function. At first the memory is impair’d, as GALEN justly observes, and
+then reason itself is disturb’d[23].
+
+Nor is there any necessity that the mind should meditate great and
+sublime objects, to impair the strength of the nervous system; a too
+protracted use of the eyes has often given rise to innumerable nervous
+disorders; concerning which, the testimony of GUNZIUS is of the utmost
+authority[24]. And every weak man must know by experience, how much too
+great a use of the eyes weakens the head. Of this I have already given an
+example, and have often found it by experience; for when I contemplate
+any object a considerable time, after the fit of a fever, or any other
+disorder, and before my health is quite recovered, I am seiz’d with a
+vertigo, a sickness in the stomach, and a disagreeable listlessness of
+the whole body.
+
+In order to vindicate literature from the charge brought against it, you
+will doubtless object, that many men of profound learning, have liv’d to
+the most advanc’d age, and retain’d their powers both of mind and body
+unimpair’d to the last. I have heard of many, I have myself seen more;
+nor can either you or I ever forget that truly illustrious man, that man
+of universal learning, who as he was worthy of it, enjoy’d general love
+and veneration; who was the ornament, honour, and delight of this academy
+for above fifty years, and whom we all with equal wonder and satisfaction
+saw enter upon his 90th year, without either his reason, or his senses
+being in the least impair’d. But all are not equally happy, and there are
+few men endued with such strength, both of mind and body, as to undergo
+such labours with impunity, if even those can be said to undergo them
+with impunity, who attain to that stage of life, which they perhaps would
+have greatly exceeded, had they liv’d in a different manner. Some men
+are by nature insatiable in drinking wine, others are born cormorants of
+books, and never glutted with the acquisition of learning: nor should
+it be pass’d over in silence, that almost all the learned men, who are
+look’d upon as its masters by the human species, all liv’d to a great
+age; as HOMER, DEMOCRITUS, PARMENIDES, HIPPOCRATES, PLATO, PLUTARCH,
+Lord BACON, GALILÆO, HARVEY, WALLIS, BOYLE, LOCKE, LEIBNITZ, NEWTON,
+BOERHAAVE. Can it then justly be inferred, that violent exercises of
+the mind are not hurtful? Take care how you draw so false a conclusion?
+But, as I said awhile ago, some men are born with happy constitutions
+for meditation, and perhaps that excellent constitution of the fibres,
+productive of longevity, is the same that produces great geniuses;
+
+    _Mens sana in corpore sano_,
+
+    _A sound mind in a healthy body_;
+
+and consequently the great men, whom I have just mention’d, owed their
+reputation more to their extraordinary genius, than to industry and
+application; and prevented the ill effects of their severer studies, by
+allowing themselves intervals of leisure, by taking proper exercise, and
+by the dissipation both of business and amusement. Nor did they lead
+the life of abstracted students, a species of men little known to the
+ancients, and who took their rise first at the declension of literature,
+were renew’d at its revival, and may be properly compar’d to the Indian
+fakirs; for both bid farewell to the human race, and both of their
+own accord, and generally without any emolument to society, emaciate
+and inflict austerities upon themselves; the former by the sun, by
+cold, by nails, by chains, by whips; the latter by books, manuscripts,
+coins, monuments, and almost all by inaction, and the want of bodily
+exercise. This is another, and a most prolific source of the disorders
+which afflict men addicted to study; for the human machine was form’d
+and intended for action by the supreme artificer: therefore health is
+inseparable from action, which will be easily conceiv’d by whoever
+examines the human body with attention.
+
+It consists of containing and moving vessels, contained and moved fluids:
+if the fibres or vessels have a proper tone, if the fluids have a
+proper consistence, if the motions, by which they should be continually
+agitated, are neither too violent, nor deficient, we enjoy a good state
+of health. But it should be taken into consideration, that motion is
+here the chief agent, for, that alone being chang’d, the whole state
+of the solids and fluids is chang’d likewise: if it be increased, the
+solids grow harder, and the fluids are compress’d; if it be diminished,
+the fibre becomes relaxed, the density of the blood is lessened, for
+the whole body is form’d of a chyle, which is softer and lighter than
+any part of the body, either solid or fluid, whose small particles a
+continual motion unites and strongly compresses; and if this motion
+should fail, the parts must prove deficient in their due firmness.
+
+But the heart is the source of all the motions in the animal machine, the
+principle which puts the whole mass of fluids in motion, but is not alone
+sufficient for that purpose; wherefore nature has given it many helps,
+which never discontinue or remit, but the circulation becomes slower,
+and diseases arise from the motion of the fluids being retarded. The
+chief of these helps is the muscular motion, whose extraordinary force in
+quickening the circulation, the most ignorant surgeon every day displays
+to the eyes of all spectators, by an easy experiment, when upon opening a
+vein he bids the patient move some cylindrical instrument round about in
+his hand, in order to accelerate the emission of the blood: nay, every
+man may easily perceive in himself, how much the quickness of the pulse
+is increased by the motion of the body; and these are the effects of
+motion, it sharpens the appetite, it strengthens the fibres, keeps up a
+due temperature of the fluids, promotes all the excretions, fortifies the
+mind, and gives a pleasing sensation to the whole nervous system; whereas
+by too great sloth, the muscular strength is first destroy’d for want of
+practice; and from a neglect of exercise there springs an impotence of
+motion: the circulation which is carried on only by the strength of the
+heart and the vessels, and destitute of external helps, first languishes
+in the most minute vessels, and then in every part of the body; the heat
+decreases, the humours stagnate, and contract a vitious disposition; for
+some of them lose part of their density, others part of their tenuity,
+and they all become glutinous, and of consequence unfit for secretions;
+therefore what should be secreted is retain’d, the body is loaded with
+a mass of adventitious humours, it is destroy’d by their acrimony, the
+vigour of life is benumb’d, the strength declines, the blood is dissolved
+to water; hence arises a dropsy, a disorder in a manner epidemical to men
+of learning, by which the brain is often affected. An instance of this I
+lately saw, with concern, in an eminent man, whose case I discover’d too
+late, and who not by literary pursuits, but other exercises of the mind,
+and total inaction of body, had broke a constitution which once was
+robust[25].
+
+Those parts suffer the most, which having but weak solids, they want
+external helps more than any others; hence those organs are most affected
+by inaction, which, being contained in the abdomen, perform the first
+digestion of the aliments: the strength of the stomach is diminish’d, the
+nature of the gastric fluid is chang’d, the aliments make a longer stay
+in it, and, not being sufficiently subdu’d by the animal force, they go
+through their spontaneous changes which they would have undergone out of
+the body. Most vegetables retain their tartness, which, by vellicating
+the nerves, occasions pains and convulsions; acid eructations arise, the
+cardia suffers pain, the throat is parched, and the teeth blunted. On
+the contrary, both flesh and eggs rot, and fat aliments grow rank: hence
+proceed putrid eructations, immoderate thirst, and continual fluxes;
+digestion is always difficult, troublesome, and malignant; the aliments
+cease to afford nourishment, nor do they any longer repair, but irritate
+and weaken.
+
+The exhaling vessels no longer pour forth a dewy, mild, and saponaceous
+lymph, but they throw out a thick glue, which affects the sick with a
+constant pain and sense of a heavy weight, and of cold at the stomach,
+and creates the utmost loathing. The consequence is the same when the
+intestines, being of the same structure with the stomach, suffer the
+same injuries: the action of respiration first begins to fail, whose
+alternate compressions, whilst it is accelerated by the muscular motion,
+compress and strain all the viscera of the abdomen; their irritability is
+lost, the body is generally costive; there is here likewise accumulated,
+a troublesome phlegm, the prolific mother of diseases. Thus it once
+happen’d to the celebrated JUSTUS LIPSIUS, professor of history at
+Leyden, who being long ill, and under the care of his illustrious
+colleague and friend HEURNIUS, found no relief till he had voided a
+substance resembling the intestines both in figure and colour; it was a
+tough and viscid phlegm, gradually collected in the whole tube of the
+intestines, through a sedentary life wasted by study; and this phlegm,
+turning to putrefaction, made a jakes of the whole body. The fomes of the
+disease being thus purg’d off, he was restor’d to health[26].
+
+The collected excrements compress with their bulk the neighbouring
+parts, irritate the intestines by their corruption, and by absorbing the
+putrid matter infect the whole mass of blood. From all these causes put
+together arise those excruciating pains in the bowels which often torment
+the studious, and are with difficulty cur’d, as they are perpetually
+renew’d by errors in diet[27]. Hence that troublesome flatulency, so
+hurtful to sedentary men, which torments the learned a thousand different
+ways, and often passes for other disorders.
+
+The intestines are not only affected, but the functions of the
+neighbouring parts are disturb’d, as well from the violence of the
+compression as from their own diseases; the pancreatic juice grows vapid
+and stale, the functions of the spleen are vitiated, the repositories of
+the bile are much disturb’d; by its stagnation it loads the liver, forms
+obstructions in it, thickens and grows hard itself, and flows slowly to
+the intestines; whence their disorders, especially those of the jejunum,
+and vices of the chyle, increase; being scarce able to pass through the
+narrow neck of the cystic duct, it often concretes into a stone, and
+occasions those severe colics with which the celebrated IGNATIUS, founder
+of the Jesuits, was formerly afflicted, and with which the learned are
+often tormented[28]. If at length by stagnating it putrifies, it then
+erodes, ulcerates, inflames, and assumes the appearance of all the
+innumerable disorders of the liver, and produces inconceivable anxieties.
+These are likewise caus’d, though with less danger, by that cruel
+disease call’d the hypochondriac; the first species of which, mention’d
+above, and call’d the nervous, is occasion’d by excessive labour of the
+mind; the other, I mean the abdominal species, arises from a disturb’d
+circulation in the abdomen. With both these disorders the learned are
+afflicted, and therefore seldom or never live free from this evil; and,
+whilst one of these adds force to another, they are seldom entirely cur’d
+of them[29].
+
+Considering they occur so frequently, it is hardly necessary to give
+examples; but if I were to cite examples, the first that would occur
+to my mind would be that of the illustrious SWAMMERDAM, that sagacious
+inquirer into nature, who was so full of atrabilary humours, that he
+scarce vouchsafed to answer those who spoke to him, but look’d upon them
+with an unalter’d countenance; and, when he took his seat as professor,
+sat with a face of astonishment, and made no answer to the objections
+of his opponents. Finally, having, before his death, wasted away with a
+phrantic melancholy, he burn’d all the manuscripts he had by him in a
+fit of madness: being reduced in appearance to a skeleton and the mere
+figure of a man[30], he died at length of a consumption.
+
+It has indeed been observ’d, that this species of melancholy in some
+measure promotes learning, by increasing the penetration; for, whilst
+melancholy men are intent upon one idea only, the mind contemplates this
+object alone, and considers it on every side; nor is it distracted by
+other pursuits. But who ever proceeded to this pitch of madness, as to
+desire to purchase an increase of discernment at such a price? Of what
+advantage is science without health? He knows too much, who is render’d
+unhappy by his knowledge.
+
+It cannot indeed be denied, that there are men whom nature has endow’d
+with a Milonian stomach, and intestines of iron, who can bear with
+impunity the labour of the mind, bodily inaction, and excesses of
+gluttony. But are they therefore more happy? By no means; for then the
+vessels are overwhelm’d by the load of humours, the cellular membrane
+swells with fat, the viscera are press’d on every side, the whole habit
+grows turgid, they become heavy and indolent, the slightest motion puts
+them quite out of breath, and they sweat all over; at last they die
+before their time, either of apoplexy, a suffocating catarrh, or other
+diseases occasion’d by plethora: and it has been justly observ’d, that
+too strong a stomach has often prov’d fatal to the learned[31].
+
+There is no part of the body which is not at last affected by inaction;
+for the blood being vitiated, all the parts, which it washes, catch
+the infection sooner or later; the lungs are overwhelm’d with a mucous
+substance, this gives rise to a cough, a shortness of breath, an asthma,
+an imposthume. This the illustrious TRIGLANDUS unhappily experienc’d,
+who, having contracted a bad habit of body by a studious and sedentary
+life, from which BOERHAAVE himself dissuaded him, wasted away with
+an imposthume and died, after having suffer’d the most excruciating
+torments[32]. By the mucous matter being harden’d the lungs of SWAMMERDAM
+were turn’d into a quarry, and he spit up small stones a long time before
+his death.
+
+That the stone, and other severer disorders of the bladder, are the
+fruits of too assiduous an application to learning, is prov’d by the
+sad experience of HEURNIUS, CASAUBON, BEVEROVICIUS, SYDENHAM, and many
+others, amongst whom may be reckon’d the illustrious exile of Geneva, to
+whom Britain now boasts of having afforded an asylum[33].
+
+Whilst all the excretions are disturb’d, the chief of them all, namely
+cuticular perspiration, is not free from disease. As perspiration is
+greatly promoted by muscular motion, which both prepares humours for
+secretion, and gives strength to the exhaling vessels; so is it greatly
+interrupted by the want of that motion; the humour that ought to be
+excreted is retain’d, and pollutes the whole mass of the fluids, and
+gives rise to rheumatic or catarrhous disorders and a troublesome phlegm.
+Of this HORACE complained long since, and with this complaint almost all
+men of learning are afflicted; for they can scarce read or write for any
+time, but they are immediately troubled with a slight running of the
+nose, or seiz’d with a cough.
+
+From the same source are derived those irregular fevers, which often
+occur without any visible cause, whilst the unperspirable humours, which
+have been generated by the defect of the stomach, and the want of motion,
+are unable to pass the cutaneous vessels.
+
+Perpetual rest is alone able to torture those nerves, which have been
+weakened by the labours of the mind; and it often quite destroys them,
+even in those who equally give themselves up to indolence both mental
+and corporeal. For the nervous system is the last work of the human
+machine, and if any function fails, the nerves are immediately affected;
+so that often from their defect, whenever it appears, there results a
+well-grounded suspicion of a disease in the stomach, or in some other
+part. They are therefore vitiated in the learned for two reasons;
+for, being plac’d between the mind and body, they are punish’d though
+innocent, let which of the two be in fault; nor do they however go
+unrevenged; for the injuries they suffer on one part they carry over to
+t’other, and thus, by a vicious circle, the mind hurts the body, and the
+body impairs the mind, and they with one accord injure and weaken the
+nerves.
+
+The seminal fluid, which has been thought by some great men not to be
+very different from the nervous liquor, is likewise depriv’d of its
+force; and upon this principle, and from an accurate consideration of
+what each part in a father contributes to the formation of a son, it
+perhaps is not badly accounted for, why strong and illustrious sons are
+seldom the offspring of illustrious men: for the _punctum saliens_ is
+contaminated at the first moment of life, whence it receives an injury
+which is not afterwards to be repair’d by any art; and whilst the mind
+of the father was entirely given up to meditation, and his corporeal
+functions totally neglected, the vivifying liquor was perhaps defrauded
+of that part of elaboration which it should have had from the brain, so
+as to give a proper tone to the brain of the embryo.
+
+From that general laxity of the fibres, which is demonstrated to the
+senses themselves by the softness of the muscles, by the force of the
+artery, and by that laxity of the gums which throws out sound teeth
+without any pain; from that general laxity, I say, arises that weakness
+which oppresses so many learned men, and which I lately lamented to see,
+whilst, as a friend and physician, I sat by our beloved ALPHONSUS[34],
+to whom the wishes of the public had promis’d the age of NESTOR; and all
+the hopes I had of his recovering his health were immediately banish’d,
+by a weakness greater than any I remember ever to have seen, and which
+the Herculean labours of his mind had brought upon a thin body. How
+great and irrepairable a loss was then sustain’d by religion, virtue,
+the church, the city, his unfortunate family, and the youth of this
+academy! What a man, what a colleague, what a friend have we lost,
+illustrious professors! one who, as EUPHRATES of old, was remarkable for
+the greatest sanctity of manners, for the utmost care in the discharge
+of all the duties incumbent upon him, which were many in number; one
+whose complaisance was equal, who was entirely free from austerity, whose
+presence excited reverence, and not dread, for he was severe upon vices,
+not upon men; whose learning was extensive, whose discourse was copious,
+various, and, above all, pleasing, and yet not without a Platonic
+sublimity; one, in short, who was capable of persuading and working upon
+such as were most averse to his documents: having liv’d in the utmost
+veneration, he left behind him the highest regret for his loss. But to
+return to our subject from this sad digression.
+
+Thus have I treated of the two first causes of the diseases of the
+learned; others remain still to be spoken of; and the first that occurs,
+whilst I am upon the subject of inaction, is the very posture of constant
+sitting, with the body stooping, and the legs bent; for this both hurts
+the lower extremities, and, by obstructing the viscera of the abdomen,
+soon occasions all sorts of disorders arising from indigestion: and
+those learned doctors prudently consult their health, who indulge their
+meditations, not indeed standing, for that posture is not without its
+inconveniences, but walking. And this is one of the bad effects of
+sitting, that it greatly obstructs the passage of the blood in the
+abdominal veins, which makes it stagnate at the anus, where it meets with
+less resistance, and causes those shocking piles that torment so many
+literati, and, though praised by some, certainly do much more harm than
+good.
+
+Nocturnal lucubrations, which are hurtful upon many accounts, must have
+their place amongst the causes of disorders; for whilst a great part of
+the night is spent in study, sufficient time is not allow’d for sleep;
+nor does a gentle slumber succeed meditation; a circumstance which I
+have already lamented: for the oscillations of the fibres of the brain
+still continue, and that full ease of the internal senses is wanting
+which alone is capable of repairing our lost strength. They likewise
+pitch upon an unreasonable time for sleep; for nature has assigned the
+first approach of night as the proper time for beginning to repose; the
+night invites to sleep as well as the unwholesome air, and to this end
+its darkness and silence contribute: besides, the nocturnal air is cold
+and moist, and, when the sun retires, most animals feel their strength
+diminish’d, and night forces some of them to sleep even against their
+inclinations, as it does many plants.
+
+The night air is so unfavourable to study, that the celebrated VAN
+SWIETEN knew a gouty man, in whom the slightest application of mind, and
+even the reading of a letter, after sun-set, occasion’d a fit of the
+gout. Nor should we forget that study forces the blood into the brain,
+and that nothing can be more dangerous than to study in bed; for both
+sleep, and the posture of the body in sleep, increases the quantity of
+blood in the skull.
+
+Therefore nocturnal studies produce all those disorders which the want
+of rest gives rise to; the organs of sense are principally affected;
+their strength is exhausted, the fibres are either worn or agitated
+by violent motions; hence arise an incoherent series of thoughts, a
+luxuriant imagination, deliriums, dreadful head-achs, and, finally, a
+total privation of sleep, scarce to be cur’d by remedies, and which often
+occasions fatal disorders.
+
+The injuries of watching are increased by the ill effects of candles,
+which infect the air by their gross vapour, so pernicious to the lungs,
+the eyes, and the nerves. It is, therefore, the highest advantage
+imaginable to go to bed betimes, and rise early in the morning. _Aurora
+musis amica_: Aurora favours the muses.
+
+The close air, which they always use, is hurtful; but I shall speak of
+the air hereafter. Nor should their dirtiness be forgotten, as some
+learned men, entirely neglecting the care of their bodies, and not at all
+sollicitous about cleanliness, disgust others, and bring upon themselves
+those disorders which proceed from obstructed perspiration: for how can
+that skin perspire, whose pores are stopped up with dirt. Most of them
+are extremely faulty with respect to their teeth, which, being filled
+with putrid filth, and exhaling a most nauseous stench, first infect all
+the adjacent parts, and the very saliva of the sick person; soon after
+cause violent pains, and at last, falling before the time, leave the
+stomach destitute of the powerful aid of mastication.
+
+Akin to dirtiness is the pernicious custom of some, who, deaf to the
+calls of nature, defer going to stool, and suppress their urine a long
+time, to avoid interrupting their studies; not reflecting that many
+dreadful disorders spring from this source.
+
+For by too long a delay the secreted humours become too putrid, are
+attenuated, irritate the intestines or the bladder, vitiate the mucous
+matter, and sometimes occasion grievous disorders of the particular
+organ; the putrid matter being absorb’d by the vessels with which all
+the cavities of the body abound, pollutes the blood; and, which is
+still worse, the nerves become disused to obey the stimulus; nay, they
+sometimes, by too much tension, begin to grow paralytic; so that the
+expulsive force, for the voiding of excrements or urine, almost entirely
+ceases, and should every day be renew’d by art. Whilst the illustrious
+TYCHO BRAHE, riding in the same chariot with the emperor, suppress’d his
+urine, he pay’d for his ill-tim’d modesty by death; and I even now have
+under my care a man of learning, who by a long suppression of his urine
+became unable to contain it; nor can he void it when he thinks proper,
+but it runs from him night and day by drops.
+
+Retirement from all human society is likewise hurtful to them; for man,
+whom nature made for man, she intended also should be benefited by
+society.
+
+But nothing renders study and application more pernicious than the
+sadness that accompanies them: study is capable of clouding the temper of
+the happiest man with melancholy: if real and external causes of grief
+are added to this, the mind, overwhelm’d with so many strokes, at last
+sinks under them, and in its own ruin involves that of the body. Anxious
+cares are likewise hurtful; so that I can hardly conceive how great men,
+whom the difficulty of their undertakings kept in unremitting meditation,
+and whom the uncertainty of events fill’d with continual anxiety, could
+go through with such great undertakings. Nature endow’d CÆSAR, MAHOMET,
+CROMWELL, PAOLI, and some few more, with faculties which she refused
+other mortals, and which, notwithstanding, would scarce have enabled them
+to perform such great exploits without the assistance of sobriety and
+incessant action.
+
+We should not, however, imagine, that the learned alone destroy their
+health by mental labour; it is of no consequence what the object is that
+engages the mind, if it applies a considerable time and with earnestness,
+it wastes both its own strength and that of the body. Kings, senators,
+ministers, ambassadors, and all those concern’d in the administration of
+public affairs, are subject to the same unhappy fate which the learned
+deplore, if they labour with equal assiduity in transacting public
+affairs, as the learned in perusing books. But it is their happiness,
+that, in the various business and dissipation of their places, they are
+oblig’d often to quit their closets, and even against their wills are, by
+a salutary necessity, compell’d to take frequent exercise: the chief use
+of this is, that it admirably prepares the blood for the generation of
+fresh animal spirits, and in the same time it brings a greater quantity
+of blood to the secerning organs, and so restores what thought had
+exhausted, and frames new instruments for the thinking mind. But nothing
+can force the studious from their books, and they are quite enervated by
+inaction: to palliate which you will perhaps bring some examples of men
+who have liv’d to a great age, though they used but little or no action.
+There are but few men; but you will, I doubt not, bring many women. Take
+notice, however, that, though they had not much muscular motion, they had
+many other helps, by which nature promotes the circulation of the blood,
+_viz._ an agreeable stirring of the passions, which excites, and does
+not destroy; a constant chearfulness and eternal loquacity, and other
+assistances of a similar nature: they likewise use but little food. The
+case is quite different with the learned: they do not live with the same
+sobriety; and therefore it is no wonder that they enjoy their health
+worse than any other class of men.
+
+Thus have I laid before you the chief causes, from which the diseases
+incident to the studious take rise; and I should never make an end, were
+I to enumerate the inferior causes, which professors have a bad custom
+of assigning from their own invention: I shall therefore pass by all the
+secondary causes. But there are men, truly learned, illustrious votaries
+of the muses, who, besides the disorders that spring from too assiduous
+an application of mind, experience others, owing to the nature of the
+object that engages them. Anatomists often contract malignant fevers
+by breathing putrid air, and other diseases from the corruption of the
+bile, from the matter in which their hands are constantly immersed, a
+slight excoriation arising, or an inconsiderable wound, which sometimes
+end in their deaths. Chemical experiments are attended with danger,
+and an acid smoke, of a very penetrating nature, would have kill’d the
+great BOERHAAVE, if there had not been at hand an alcaline spirit, which
+overcame the acid and expanded the compressed lungs. Botanists have been
+often hurt by the plants for which they have so strong a passion. These,
+and the like, rather relate to the disorders of artificers, (excuse the
+expression); but this discourse turns upon the disorders which study
+brings upon some of the organs.
+
+The first that offer are the eyes, which constant attention so fatigues,
+that I have often seen doctors who had not attain’d to their thirtieth
+year, and yet could hardly bear the light, especially candle-light; and
+were scarce able to read a few pages without their eyes being suffused
+with tears, then growing dim, and at last quite incapable to distinguish
+any object. But the eyes are much sooner and much more easily affected by
+reading at night; for there is not a man living who has not experienc’d,
+at least once in his life, how much they suffer by the motion of light
+and the irritation of smoke.
+
+Orators have disorders peculiar to themselves, which are of a very
+grievous nature: for however reading aloud may be of service to the
+lungs, vehement declamation is hurtful: and how often do preachers or
+lawyers pass whole days and nights in their studies, when the lungs,
+unequal to the efforts of speaking, are severely injur’d. How much
+more happy are those pastors of the church, who cultivate learning,
+but are kept from their studies by other avocations, being in this
+respect equally privileg’d with the physicians, whom the health of their
+fellow-creatures does not suffer to impair their own health by study.
+Happy likewise are all those whom the nature of their business calls off
+from study; for though they are not thereby exempted from the labours of
+the mind, the change of their employments is however a great consolation
+to them. But unhappy are those preachers, who, being exempt from other
+ecclesiastical functions, live only to study, and compose eloquent
+discourses; unhappy those lawyers, who are entirely taken up with
+managing and pleading causes; for their health is insensibly impaired by
+the life they lead, their throat, wind-pipe, and lungs, are irritated,
+heated, and inflamed; hence proceed catarrhs, hoarseness, a broken voice,
+spitting of blood, a cough, a fever, great weakness, and at last a
+consumption; and, whilst they give light to others, they are extinguished
+like the snuff of a candle, unless they take care of themselves. This is
+what CICERO did, who, being told that he was beginning to be consumptive,
+avoided pleading for two years, by the advice of his physicians; in
+which time he recovered his strength and health, which had been greatly
+impaired[35].
+
+These, worthy auditors, are most of the disorders that are occasioned
+by too great an attachment to study, or a continued application of the
+mind to any object whatever: nor are we to imagine that all undergo
+the same sufferings; much variety is here occasioned by the various
+constitutions of men, by their different ages, and the diversity of
+their external circumstances. There are few or no bodies but what have
+some weak parts, which suffer the first attacks of every disorder. He
+whose stomach is naturally weak, or who has rendered it so by living in
+a manner not suited to his constitution, will first complain of pains
+in the ventricle, whilst the nerves, which he received strong in a weak
+body, are still in a good state. On the other hand, he who is troubled
+with weak nerves, but has a good stomach, will long suffer all sorts of
+nervous disorders, the digestion remaining unhurt.
+
+He in whom the muscular or cellular fibres are relaxed, will complain
+of lassitude, drowsiness, weakness, swellings, his head and stomach
+remaining unhurt. Another will suffer all the disorders incident to the
+lungs, who received them from nature not indued with a proper degree of
+strength. In these the vascular system of the head is weak, they are
+troubled with incessant head-achs, or bleeding at the nose, to which
+other studious youths are obnoxious, their intense application to study
+forcing the blood upwards. Finally, every man, according to the part
+affected with weakness, is liable to complain of some disorders more than
+others.
+
+Even strength itself has its disadvantages; for whilst robust and
+vigorous young men devote themselves to study with unbridled ardour,
+the power of the soul, being rous’d and strongly stimulating the whole
+system, so increases the action of the solids, that there arise diseases
+occasion’d by too violent a motion, such as inflammations and malignant
+fevers; and when these disorders are once begun, they return for some
+years, till the strength being entirely broken, chronical disorders
+succeed, according to the common fate of mankind.
+
+A great deal depends upon the age, with regard to which we should not be
+so indiscreet as to bear too hard upon youth, nor exact from them over
+great tasks; for nothing so totally exhausts and destroys the strength.
+I have often found boys of a penetrating genius, tinctured with learning
+beyond what could be expected from their years, and always with some
+concern, as I saw how it would end; because our youthful days should be
+consecrated to exercise, and to acquiring strength by its means, and not
+to severe study, which obstructs both vigour and growth.
+
+There have been examples of boys, who before they had pass’d their
+sixth year, appear’d by their sudden growth to be men: the last example
+of this sort, we meet with in the memoirs of the French academy: but
+listen to the sequel: the understanding continued that of a child in
+a well set body, and, the strength being so soon exhausted, could
+scarce support a life of twelve years. Whilst the powers of the mind,
+or in other words, the strength of the brain surpass the age, nature,
+which is unequal to many tasks, forgets the body; the whole machine is
+overwhelm’d with languor, the fibres want strength, and severe disorders
+bring on an untimely death. JOHN PHILIP BARATHIER lately afforded us an
+illustrious and well known example of the truth of this observation.
+You all lament another PHILIP, whom you knew, and whom I regret not
+having known more intimately, who being from his early infancy endowed
+with a penetrating genius, and addicted to study at that time of life,
+which nature intended should be dedicated to strengthening the body, was
+attack’d by the severest disorders, and could recover his health only by
+the most abstemious diet, and by totally relinquishing his studies: but
+soon, unmindful of his weakness, he by an untimely death paid for his
+premature learning. May a better fate be reserv’d for LE FANCOIS, a youth
+of fourteen, who, as I hear, has acquir’d a high reputation amongst the
+French, by his genius and extraordinary erudition.
+
+I have often seen with concern the children of peasants loaded with
+labour above their age and strength, but a still worse error is
+committed, when the mind of a child is forc’d to apply before the time,
+and beyond its abilities; and this is generally productive of the worst
+consequences, for the powers of the mind brought to maturity by a
+pernicious art, are short-liv’d, and soon grow old: and who has not with
+grief seen children of the brightest hopes, hardly give proofs of common
+understanding, when grown up? The earth is a long time prepar’d to admit
+seed, and before it is sown, receives that strength, which afterwards
+impregnates it with fertility from the sun, the air, and the plough; then
+the grain springs up, vegetates, flourishes, and brings good fruits to
+maturity.
+
+But if early studies are hurtful, it is no less dangerous to attach
+oneself to study in an advanc’d age; for habit becomes gradually a second
+nature when we begin from our tender age; but at an advanc’d period it
+is no longer susceptible of new habits; and the fibres of the brain
+accustom’d to rest, are torn before they can receive new and regular
+motions. I not long since with difficulty cur’d a native of this country,
+who in his fortieth year laying aside mercantile business, to pore
+night and day over the works of NEWTON, CLARKE and LOCKE, had totally
+disorder’d his brain. He recovered his health by remedies, by a cessation
+of study, and amusing conversation; but the joy was but short-liv’d,
+for by again dipping into the sublime, geometry, and metaphysical
+abstractions, he once more lost his senses[36].
+
+Nor is it less laborious to continue our accustom’d studies too long,
+when old age approaches. The soul that animates our bodies, is indeed
+immortal; but so long as it is connected with a feeble frame, it must be
+influenc’d by its nature.
+
+    _Gigni pariter cum corpore, & una_
+    _Crescere sentimus, pariterque senescere mentem._
+
+    _Besides, ’tis plain, that souls are born and grow,_
+    _And all by age decay, as bodies do._
+
+                                             CREECHE’S Lucretius, book 3.
+
+The labours of the mind should therefore be retrench’d, as the declining
+powers of the body direct; the latter becomes incapable of bearing the
+same burthens, the former of pursuing the same studies, which in this
+period of life soonest break the constitution, and destroy the brain; and
+are of so little use, that old men consult their glory no less than their
+health, by retiring betimes.
+
+    _Solve senescentem mature sanus equum, ne_
+    _Peccet ad extremum ridendus, & ilia ducat._
+
+    _Loose from the rapid car your aged horse,_
+    _Lest in the race, derided, left behind,_
+    _He drag his jaded limbs, and burst his wind._
+
+                                         FRANCIS’S Horace, lib. 1. ep. 1.
+
+But it grieves me, respectable auditors, that you should be obliged to
+hear of so many disorders, and I to give an account of them; so I shall
+say no more of so melancholy a subject, but proceed to treat of the
+remedies for the several diseases.
+
+What lover ever had eyes to see the blemishes of his mistress? What lover
+ever ceas’d to admire his mistress’s beauty? This is another pernicious
+effect of learning; it occasions a sourness of temper. Philosophers think
+themselves wise in every thing; ’tis a difficult matter to persuade them
+that they every day injure their health by their manner of living; you
+may advise, intreat, and even scold them, it will be all to no purpose;
+they impose upon themselves a thousand different ways; some by too great
+a confidence in their strength, others by the hopes of impunity from the
+punishments being delayed; others again by the deceitful defence of the
+power of habit, and others again by the still more deceitful example
+of other men’s good luck; others by other motives; and all, by that
+steady adherence to their purpose, which they think becoming in a man of
+virtue, are so blinded, that they are not affected by future sufferings,
+and hardly even by those they have already incurred. I shall not however
+neglect my duty as a monitor, and if I should fail of success, it will
+be at least some merit to have attempted in a design of so much utility.
+Preservatives are to be offered to such of the studious as are still in
+health, and remedies to those who have impair’d their constitutions.
+
+The sure and only preservative is for the mind to be often unemploy’d,
+and the body to labour. This does not hold with regard to all men of
+learning; there are some whose meditations should be disturb’d upon
+no account whatever. DESCARTES frames a world, NEWTON revolves the
+whole system of the universe in his mind, MONTESQUIEU makes laws for
+all nations; let no body interrupt them, let all nature be silent, they
+labour for us, let the good of the people be the supreme law; they
+were born to cultivate those studies. But how few are there, whose
+labours are of such consequence? Most studious men lose their time,
+and break their constitutions to no purpose; one makes a collection of
+common-place topicks, another embellishes such as are threadbare, a third
+anxiously investigates matters of no utility, others make trifles the
+subject of laborious researches, and all are equally unmindful of the
+unprofitableness and danger of their pursuits. But be vigilant for their
+good; knock at their doors; rouse them from their lethargy; make them,
+whether they will or no, lay aside their studies for hours together,
+and let their minds not be totally abandoned to idleness, but recreated
+by gentle ease, whilst their strength is restored by exercise. At the
+beginning of my discourse I displayed the advantages of exercise: let it
+therefore be observed as an inviolable rule by the learned, to dedicate
+an hour or two every day to walking, that the lungs may be recreated
+by a free use of the air, that the stagnant humours may be thrown off,
+perspiration renewed, the limbs strengthened, and the nerves repaired.
+BOERHAAVE chose for this purpose the hour before dinner. Nor is walking
+alone sufficient. I would likewise recommend riding, which acts admirably
+upon the head and lungs, and above all upon the abdominal viscera, by
+repeatedly agitating them; as likewise all the other exercises, which
+were carefully cultivated both by the ancients and our ancestors; but
+which we, to our great detriment, have neglected. Let us not forget
+HERODICUS, a man of learning, endowed with extraordinary intellectual
+faculties, but the most infirm of all mortals, who by exercise alone so
+confirmed his health, that he lived entirely free from disorders to a
+hundred years of age, and composed a treatise upon the gymnastic art.
+Let us not forget SOCRATES, the wisest of mankind, who thought it worth
+his while to learn this art. STRATO, being troubled with the spleen, had
+recourse to exercise, which cured him. HYSMONÆUS, being afflicted with a
+weakness of the nerves, had recourse to the olympic games, and by that
+exercise overcame the disorder. Sailing should have its share of praise,
+amongst other sorts of exercise, whose power in removing the obstructions
+of the viscera, throwing off the bile, restoring the lungs, renewing
+perspiration, and strengthening the fibres, the ancients were well
+acquainted with: and it has lately been demonstrated by the illustrious
+GILCHRIST, and was likewise preferred to all other sorts of carriage by
+AUGUSTUS CÆSAR, who, when he had any occasion to travel, chose rather
+to go by sea than otherwise, if it was possible. AUGUSTUS CÆSAR may in
+many respects be compared to the studious and learned; “eloquentiam enim
+studiaque liberaliora ab ætate prima & cupide & laboriosissime exercuit;
+& graves valetudines per omnem vitam expertus est; & distillationibus,
+& rheumaticis doloribus, & calculo obnoxius vixit, & præcordiorum
+inflatione aliquoties tentabatur; litteratis vero sapientior;” “for he
+cultivated eloquence and the liberal arts from his early youth with taste
+and diligence, and was during his whole life a valetudinarian; he was
+troubled with catarrhs, rheumatic pains, and the stone, and was sometimes
+likewise attacked with an inflammation of the parts about the heart; but,
+being more prudent than most men of learning, _he took great care of his
+valetudinary constitution_[37].” Riding in an easy chariot is of little
+service; of still less the easy succussions of the several machines
+which have been invented by modern industry for moving the sick about in
+their chambers; but I set a high value upon all those plays or diversions
+which oblige a man to exercise both his arms; such, for example, are
+shuttle-cock, and others of the like nature.
+
+Do not be concerned, my worthy auditors; the time which you devote to
+recreation is not lost to learning; you will presently apply to your
+studies with renewed alacrity, and, whilst your strength and health are
+preserved, a long life will abundantly recompense the hours dedicated
+to the care of the body. In leisure likewise those sublime ideas may
+rise, which the obscurity of your musæum would for ever have suppressed,
+_for lively and vigorous geniuses make the more noble efforts, the more
+intervals of leisure they allow themselves_[38]. I have a particular
+friend, who, in his walks in the country, has composed books that will
+immortalize his name; _for the souls of those who walk under the canopy
+of heaven are exalted_: and PLINY the younger observes, _that it is
+surprizing to what a degree the soul is rous’d by the agitation and
+motion of the body_: close confinement contracts the body, the oil of the
+lamp, as it were, infects the thoughts by its smell, and by too intense
+study we become incapable of application. PLUTARCH has an ingenious
+observation, that as plants are nourished by moderate watering, but
+overwhelmed by too much, so the soul is improved by moderate studies,
+but overpowered by excessive studies[39]. Take my advice therefore, you
+men of learning; you will one day repent your austere retirement; but it
+will be too late to look for a remedy when the danger is at hand; and
+foresight becomes the wise man: don’t think to excuse your dangerous
+errors; the experiment is not made upon a vulgar soul, the life of a man
+of learning is at stake; neither alledge, in excuse for yourselves, the
+examples of others; nor your own strength, which you break every day;
+nor vain custom, for we can never use ourselves to a disease; nor the
+impunity of your early years, for reiterated strokes will break what one
+alone could not. Lay aside, therefore, the agitations of your minds, and
+exercise your bodies; for exercise is of so much service to the mind,
+that HOFFMAN[40] has by its means made stupid men attain to a degree
+of understanding; and do not despise the health of the body, with the
+assistance of which the labour of the mind will become more supportable;
+for the powers of the mind grow dull, if the strength of the body is
+in a wavering unsettled state. Physicians have power over souls; and
+DESCARTES has justly observed, “Animum adeo a temperamento & organorum
+corporis dispositione pendere, ut si ratio aliqua possit inveniri,
+quæ homines sapientiores & ingeniosiores reddat quam hactenus fuerit,
+credendum sit illam in medicina quæri debere.” “That the soul depends
+so much upon the constitution and disposition of the corporeal organs,
+that, if there could be a method found to render men wise and ingenious,
+it seems probable that it should be sought in physick[41].” There is a
+regimen calculated for the studious, of which I shall now give a succinct
+account[42].
+
+HIPPOCRATES in three words expresses the whole alimentary diet of all
+ages, all ranks of men, and all conditions, ὡς ὁ πονος εστι και ἡ τροφη,
+food should be as labour; for, as he says elsewhere, if the aliments
+are overcome, that is, if they are subdued by the powers of the body,
+they invigorate it; if they overcome it, that is, when they get the
+better of the digestive powers, they give rise to many bad effects: and
+PLUTARCH justly observes from HIPPOCRATES, that health arises from the
+exact equality of bodily exercise and the aliments taken. The reason is,
+the body by its own force makes its own juices and humours out of the
+aliments it uses: nor is its state the same in the robust ploughman and
+enfeebled doctor. Whilst the former, by incessant exercise, by breathing
+every day the wholesome country air, by a chearful and vacant mind,
+unembarrassed by perplexing meditations, and by soft slumbers continually
+repairs his strength, he can bear any sort of food; the salival, gastric,
+intestinal, and bilious liquors, elaborated to the highest perfection,
+thoroughly dissolve the most glutinous fat, and even salt pork hardened
+by smoke; the strength of the muscles of the stomach and intestines
+is unimpaired; they suffer nothing to stay beyond its time in their
+cavities; and as the aliments are digested, their remains are thrown out.
+How different from this is the case of the man debilitated by study! The
+hard bowels of the mower can digest any thing, the soft viscera of the
+learned or indolent are incapable of digestion; the latter therefore
+should maturely deliberate, what his powers are equal to, and what not.
+
+Give the labouring man thin broth, small cabbage, jellies, pullet’s
+flesh, or white bread; the force of the viscera and constant labour will
+soon digest these, he will immediately grow hungry, sweat all over, and
+in a short time his strength will fail him, if it be not soon repaired
+with fat bacon, hard cheese, and black bread. But let this food, or food
+of the like nature, be eaten by the weak inhabitants of cities, who are
+unequal to the labour of digesting it, dreadful diseases will soon arise
+from thence, the aliments being converted into poison. These are golden
+words of BOERHAAVE: “Eruditi viri (inquit) nolunt gulæ temperare, &
+audent eadem edere quæ rustici, verum non ferunt hunc victum; optent, aut
+feriari a studiis, aut a duris cibis.” “Men of learning, says he, will
+not live temperately; but are so indiscreet as to eat the same food that
+labouring men do, and which they are not able to bear; so they should
+wish either to be exempted from the necessity of studying, or from that
+of eating strong food[43],” which if they continue to live upon, there
+arise obstinate obstructions in the abdominal viscera.
+
+The strength of the aliments is estimated not by the nature of the food
+alone, but by its quantity: it is not therefore enough to be choice in
+the quality; attention should likewise be given to the quantity of the
+food. I will assert with confidence, that an error in either respect
+is attended with very bad consequences; but it is worst of all when it
+relates to the quantity. A due observation of the bodies of learned men
+will shew what aliments should be chosen, and what avoided: to enumerate
+all the various sorts would be tedious and disagreeable; it will be
+sufficient to mention the principal kinds.
+
+All fat, viscid aliments, all aliments puffed with wind, or hardened
+either by art or nature, are hurtful. The ancients condemned all sorts
+of pulse; and PYTHAGORAS strictly forbid his disciples to eat beans,
+as these have an extraordinary flatulency, highly destructive of the
+tranquillity of mind necessary to one who investigates truth. Every body
+knows, that whilst the stomach swells the mind is depressed with languor,
+and becomes incapable of performing its functions. The tender flesh of
+all young animals is of great service, except those of swine and geese;
+not when boiled in copious broth, for then they are deprived of their
+nutritious juices, but when roasted, or boiled in a small quantity of
+water. Such roots are wholesome as consist of a light flour, not without
+a mixture of salt or sugar[44]; soft herbs, which are neither too acid
+nor too emollient. Nor should the several sorts of seeds be denied
+their praise; nor ripe fruit, concerning the use of which, however, a
+caution should be observed; for they relax, dissolve, cause acidity,
+and thereby are the less fit for studious men. But take notice, amongst
+the most severe disorders of the learned are reckoned the stagnation,
+the thickening, and the hardening of the bile, which defeats are best
+remedied by fruits that swell with saponaceous juices, as cherries,
+strawberries, rasberries, gooseberries, peaches, grapes, pears, and other
+fruits of the like nature, which studious, sedentary men cannot well do
+without, especially in summer. Care should be taken to prevent their
+being detrimental, by eating them when the stomach is empty, either with
+or without bread, and long before and long after having drunk wine; for
+thus they neither disturb the digestion of the other aliments, nor, being
+hardened with wine, prove more difficult of digestion themselves, nor are
+turned into a sourness, but act like a mild and gently stimulating soap,
+resolve concretions, accelerate the course of the bile, stimulate the
+sluggish intestines, and, by removing obstinate costiveness, put an end
+to grievous disorders, and either prevent hypochondriac melancholy, with
+the matter from whence it arises, or cure it. They are of great service
+to those, whom severe study throws into inflammatory disorders, or slow
+fevers, proceeding from a drying up of the humours: but they are hurtful
+when, the strength being broken, the fibres have lost their tone, and the
+fluids are too thin. Eggs boiled in such a manner as to be supped are
+also very good for them; for these, being inspissated by boiling, mix
+with the harder aliments. Well-baked bread and decoctions of bread are
+also of service to them. Milk is wholesome, provided it does not grow
+acid in the stomach. Chocolate deserves to be recommended; for with its
+soft flour and penetrating oil, and a sort of gentle bitter irritating
+taste, it soon repairs and restores the strength: do not, however, use
+it to excess; it is a very nutritious aliment, and increases plethora in
+those of a plethoric disposition; it is fat, and by too great lubrication
+renders the stomach and intestines incapable of being stimulated,
+so that neither does the stomach grow hungry, nor are the excrements
+voided: it moreover grows acid, and causes a gnawing of the stomach.
+Various dishes, which may be made out of these by a judicious and prudent
+mixture, are very wholesome; but it is better to use only simple food,
+either raw or boiled.
+
+    _Accipe nunc, victus tenuis quæ quantaque secum,_
+    _Afferat. Imprimis valeas bene nam variæ res,_
+    _Ut noceant homini, credas, memor illius escæ,_
+    _Quæ simplex olim tibi sederit, at simul assis_
+    _Miscueris elixa, simul conchylia turdis,_
+    _Dulcia se in bilem vertent, stomachoque tumultum_
+    _Lenta feret pituita._
+
+    _————Now mark what blessings flow_
+    _From frugal meals: and first they can bestow_
+    _That prime of blessings, health; for you’ll confess_
+    _That various meats the stomach must oppress,_
+    _If you reflect how light, how well you were,_
+    _When plain and simple was the chearful fare;_
+    _But roast and boil’d when you promiscuous eat,_
+    _When fowl and shell-fish in confusion meet,_
+    _Sweets, turn’d to choler, with cold phlegm engage,_
+    _And in the stomach civil warfare wage._
+
+                                        FRANCIS’S Horace, lib. 2. sat. 2.
+
+Relaxed fibres, quite benumbed by a sedentary life, sometimes require a
+gentle stimulus; therefore a mild seasoning is not to be disapproved of,
+as salt, sugar, cinnamon, nutmeg; and such agreeable aromaticks of our
+own country as every man cultivates in his garden, thyme, sweet-marjoram,
+fennil, chervil, and others of the like nature: but those are to be
+avoided which stimulate with a sharp salt or oil, that nature can
+scarcely overcome. I hate garlick as much as HORACE himself; nor do I
+better like pepper and mustard, which are pernicious for their parching
+oils: but I advise you, however, not to make an immoderate use of the
+milder sort of seasonings, but use them as remedies, and not for a
+constancy; for their frequent irritation increases frictions, wastes the
+fibres, and shortens life.
+
+There are other helps to digestion, and the chief of these is exact
+mastication, which greatly forwards the work of the stomach: this is
+highly recommended by physicians; but slighted by others very foolishly,
+and greatly to their own prejudice. It both increases the secretion of
+the saliva, which is the best menstruum of the aliments, and, whilst it
+divides the latter into minute particles, it increases their superficies,
+whence they are more easily penetrated by the gastric juices;
+consequently there is a quicker digestion, a more compleat solution, no
+spontaneous corruption, no irritating of the stomach. Therefore let not
+the learned despise mastication, or rather not forget it, whilst at their
+meals they are, by a pernicious habit, intent upon other things: whether
+they read or meditate, the stomach suffers, because the nerves languish
+when the mind thinks attentively, and experience proves to the very eyes
+themselves, that digestion is badly performed when the nerves languish;
+for upon binding the nerves of the stomach, the illustrious HALLER, who
+made so many extraordinary discoveries, often saw the aliments totally
+corrupted, instead of being digested.
+
+Digestion is performed slowly in men of learning, therefore fresh
+aliments should seldom be given them; because the state of the stomach
+is very different when it is half full of undigested aliments, from what
+it is when entirely void of aliments, and overflowed with the gastric
+fluids, ready for the use of concoction. Therefore to make three meals
+a day, one somewhat considerable, the other two rather slight, will
+be sufficient for men of learning. The following order with regard to
+eating, or rather living, pleases me highly, and is recommended by the
+experience of numbers: Upon rising in the morning a studious person
+should drink a glass of pure water; in about an hour after he should
+breakfast; six hours after he should dine, having first past one hour
+in walking; after dinner he should allow himself an hour or two of
+leisure, because to sit down to study immediately after eating is highly
+pernicious: his supper should be light; for this, there are reasons of
+the greatest weight, because, as I observed before, sleep occasions a
+dangerous plethora in the head; therefore the fullness of the vessels
+should not be increased before sleep by too large a meal[45]: add to
+this, that the functions of the nerves are suspended during the time of
+sleep, and they cannot perform digestion; at last a soft and refreshing
+slumber is produced by the absence of all irritation: but if the stomach
+is overloaded with aliments, the sleep is interrupted, as the nerves are
+continually affected by the irritation of digestion. Hence a plentiful
+supper causes a heaviness in the head, sleep is disturbed, digestion
+interrupted, the strength impaired, and the health entirely destroyed.
+But a Platonic supper is praised, because it is not only agreeable at
+the time, but the day following.
+
+              _Nam corpus onustum_
+    _Hesternis vitiis animum quoque prægravat una,_
+    _Atque affigit humo divinæ particulam auræ._
+    _Alter, ubi dicto citius curata sopori_
+    _Membra dedit, vegetus præscripta ad munia surgit._
+
+    _The body too, with yesterday’s excess_
+    _Burthen’d and tir’d, shall the pure soul depress;_
+    _Weigh down this portion of celestial birth,_
+    _This breath of God, and fix it to the earth._
+    _Who down to sleep from a short supper lies,_
+    _Can to the next day’s business vigorous rise._
+
+                                        FRANCIS’S Horace, lib. 2. sat. 2.
+
+Most learned professors, you well know him, whom as a colleague you all
+loved, that eminent man, who, when he had broke his constitution by a
+profound study of antiquities, history, and both the civil and common
+law, restored it considerably by the simple remedy of supping upon milk.
+
+Not to sup at all, however, is dangerous; for the nerves of the learned
+are moveable, and easily irritated; and if the chyle is not soon renewed
+by a supply of new aliments, such is the acrimony of the blood, already
+often subdued by the strength of the viscera, that it is an irritation of
+the nerves, which totally destroys the sleep. The example of AUGUSTUS
+CÆSAR, who was very moderate in eating, is very properly proposed to
+the learned, as is likewise that of the illustrious LEWIS CORNARO, who
+restored his ruined health by a regular diet alone; and eating but the
+fourth part of the quantity of victuals eaten by his fellow-citizens,
+lived to an advanced age, vigorous and chearful. Long since BARTHOLUS,
+one of the most eminent lawyers, and a man well versed in polite
+literature, reduced the quantity of his food and liquor to a certain
+weight, and by that means preserved his intellectual faculties unimpaired
+during the whole course of his life[46]. A regular diet is capable of
+effecting every thing: studious men, however, whilst they take care of
+their health, ought not to forget, that a man, who is well, should not so
+confine himself to rules, as not to break through them, when he thinks
+proper: for a constant habit is real slavery: and I have known several
+learned and studious men, who were so scrupulous with regard to their
+hours of eating and going to bed, that their minds seemed to be chained
+to their bodies, which is the most shameful sort of servitude: nor can he
+be said to be either a lover of virtue or of learning, who cannot pursue
+his studies if he be obliged to wait a little longer than usual for his
+meals, if he has not slept quite enough, or if the air be too hot or too
+cold.
+
+I have hitherto spoke only of solid food; liquors are not to be
+forgotten. In the last age a grievous error crept into physic, that
+health is the better, the more fluid the blood is; and by the advice of
+BONTEKOE chiefly a pernicious custom prevailed of drinking warm liquors
+both night and day, whereby the human species has greatly suffered, and
+those of the present age sorely lament the injury which their forefathers
+sustained in the last, by impairing the strength of their nerves.
+
+Grave authors, who knew better, and chiefly the illustrious DUNCAN, with
+BOERHAAVE, and the whole school of Leyden, have proscribed this error;
+and, if they have not reformed the abuse, have at least greatly checked
+it. But most valetudinarians still lie under the same prepossession,
+and, looking upon an over thick blood as the source of their disorders,
+have recourse to warm beverages, which others reject. It can scarce be
+told, it can scarce be believed, how many disorders proceed from this
+source: and I will take upon me to assert, that those pernicious bowls,
+overflowing with warm liquors, are the true box of Pandora, without
+even hope remaining at the bottom; for they are prolific sources of
+hypochondriac melancholy, which both adds strength to and is itself one
+of the worst of disorders. Nor is it to be wondered at, if warm beverages
+are more hurtful to studious men, who are naturally weak and feeble,
+than to others; for they are not troubled with an over thick, but, on
+the contrary, with too thin a blood. You are well aware, respectable
+auditors, that the density of the blood is as the motion of the solids:
+the fibres of the learned are relaxed, their motions are slow, and
+their blood of consequence thin. Bleed a ploughman and a doctor at the
+same time: from the first there will flow a thick blood, resembling
+inflammatory blood, almost solid, and of a deep red; the blood of the
+second will be either of a faint red, or without any colour, soft,
+gelatinous, and will almost entirely turn to water. Your blood therefore,
+men of learning, should not be dissolved, but brought to a consistence;
+and you should in general be moderate in the article of drinking, and
+cautiously avoid warm liquors.
+
+The blood flows with difficulty in weak persons, stagnates, obstructs,
+not on account of its own density, but by the feeble contraction of the
+vessels, which is increased by hard drinking. The stomach first feels
+the disorder; because the liquors prepared by nature for the business of
+digestion, being immersed in the liquors that are drank, become unable
+to perform their functions, and the food is imperfectly dissolved on
+account of the imperfection of the menstruums. The fibres of the stomach,
+being too much stretched, at first give pain, and soon after lose their
+force, and become unable to push forward the aliments: they therefore
+load the stomach by being stopped: to cure which the sick persons again
+have recourse to drinking, which with the force of a torrent drives
+these half-digested aliments to the intestines. All these symptoms grow
+worse if warm beverages are drank; for this is the force of heat, it
+both relaxes the fibres, and, by more powerfully dissolving the phlegm,
+occasions more severe pains in the stomach.
+
+Amongst the favourite beverages of the learned, the worst is the infusion
+of that famous leaf, so well known by the name of tea, which, to our
+great detriment, has every year, for these two centuries past, been
+constantly imported from China and Japan. This most pernicious gift first
+destroys the strength of the stomach, and, if it be not soon laid aside,
+equally destroys that of the viscera, the blood, the nerves; and of the
+whole body; so that malignant and all chronical disorders will appear to
+increase, especially nervous disorders, in proportion as the use of tea
+becomes common: and you may easily form a judgment from the diseases that
+prevail in every country, whether the inhabitants of it are lovers of
+tea, or the contrary. How happy would it be for Europe, if by unanimous
+consent the importation of this infamous leaf were prohibited, which is
+endued only with a corrosive force, derived from the acrimony of the gum
+with which it is pregnant: for experience shews, that what it has of an
+astringent principle is lost in the warm water.
+
+I will not pass the same censure, though I must pass some censure, upon
+that celebrated beverage coffee, which both hurts by the power of the
+warm water, and by irritating; for nature cannot use itself to irritation
+without suffering. It is however rendered powerful by a nutritious flour,
+and by a bitter and strengthening aromatic oil; so that it may well be
+laid up in apothecaries shops as an useful remedy, but is improperly
+used in kitchens as part of our daily food. It raises the spirits,
+eases the stomach when loaded with phlegm, cures the head-ach, causes a
+chearfulness of mind, and, if we may believe some people, increases its
+penetration; for which reason the learned are so fond of it. But was
+coffee used by HOMER, THUCIDIDES, PLATO, XENOPHON, LUCRETIUS, VIRGIL,
+OVID, HORACE, PETRONIUS, and the other great men of antiquity, who
+as much excelled us in genius, as we surpass them in experience and
+knowledge of nature.
+
+Warm liquors being therefore justly set aside, cold water should be used,
+which has as much power in strengthening as the former in weakening the
+body.
+
+Wine deserves its share of praise; but I have the same opinion concerning
+wine, with respect to the learned, that I have in regard to coffee, that
+it should be used as a remedy, and not as a drink. The Creator gave pure
+water as the universal drink, which he made a menstruum to all sorts of
+food, and agreeable to all palates: it should be chosen cold, soft, and
+mild; for it both strengthens and cleanses the viscera. Hence it has
+been generally looked upon as a panacea both by the Greeks and Romans,
+and it is the best of remedies when dryness prevails, or bile or acidity
+are in too great quantity[47]. Digestion will be more easy, sleep
+sweeter, the head seldomer clouded, and the strength greater, if, laying
+aside wine, we quench our thirst with pure water alone.
+
+Wine has one fault that renders it exceeding hurtful to the learned; it
+forces the blood into the brain, and increases the several disorders
+thereof, head-achs, megrim, and the like, which are hardly to be cured
+without laying aside the use of wine: all these disorders are wonderfully
+removed by drinking water, which prevents too great a quantity of blood
+from being gathered in the head. What wonder is it then if it increases
+the intellectual powers, and if those who drink water alone have a more
+tenacious memory, a more lively imagination, and quicker perceptions than
+others. The abstemiousness of DEMOSTHENES is a great example in favour of
+drinking water, which has likewise this virtue, it in a surprising manner
+subdues those catarrhs with which the learned are so often troubled,
+and which the use of wine is apt to increase. They have often acid
+eructations; but wine sharpens an acidity, water dulls it.
+
+I will solemnly own, that I have cured more nervous disorders, (and
+learned men are generally troubled with such) by retrenching the
+quantity of liquor, forbidding all warm beverages, as well as wine, and
+recommending exercise, than by any other remedies. Nor should the danger
+of leaving off what people have been used to, be alledged: there is no
+such danger; or, if there be, it is easily avoided by a gradual disuse.
+
+But take notice, if sometimes the too great laxity of the stomach, the
+great weakness of the body, and the depression of the spirits, require
+a remedy to brace, to strengthen, to excite, to exhilarate; wine is the
+most proper. In vain would you seek a more expeditious and agreeable
+medicine than this through the three kingdoms of nature: but let it be
+generous and smooth, and such as may vie with Falernian wine:
+
+    _Quod curas abigat, quod cum spe divite manet_
+    _In venas, animumque meum, quod verba ministret._
+
+    _My wines of generous and of smoother kind,_
+    _To drive away my cares, and to the soul,_
+    _Through the full veins, with golden hopes to roll._
+    _With flowing language to inspire my tongue,_
+    _And make the list’ning fair one think me young._
+
+                                           FRANCIS’S Hor. lib. 1. ep. 15.
+
+But avoid those small wines which have less of the nature of wine than
+vinegar, and rather irritate than strengthen. Remember that wine is an
+antidote against the miseries of life and the tediousness of idleness;
+cares are banished by wine, whilst the reason is intoxicated: but does
+such a drink become the learned? And this puts me in mind of another sort
+of intoxication, I mean that caused by smoking tobacco, which abounds
+with an acrimonious salt and sulphur, together with a narcotic oil. I
+have elsewhere enlarged upon the folly of smoking; here I shall add
+more concisely, that the narcotic principle hurts the stomach, causes
+a stuffing up of the head, head-achs, vertigos, anxiety, lethargy,
+apoplexy, and finally all the effects of opium, as the great Lord BACON
+has observed. _Tobacco_, says he, _the use of which herb has greatly
+prevailed in the present age, is a species of henbane; it is evident
+that it disturbs the head like opiates_. Therefore, young men, avoid a
+dirty pleasure, equally injurious both to your health and your studies,
+and which should be left to those who have recourse to it for the
+killing of time. The muses fly those studies that smell like a stable,
+and delight in a purer air; for one of the chief sources of health or
+sickness is the air which environs us, in which we live, and by which not
+only our bodies are affected, but whose power our very minds experience.
+Thus the air of Bœotia, or Thrace, rendered dull those whom that of
+Athens revived:
+
+    _Bœotum in crasso jurares ære natum_[48].
+
+    _Take him to books and poetry, you’ll swear_
+    _This king was born in thick Bœotian air._
+
+                                            FRANCIS’S Hor. lib. 2. ep. 1.
+
+Prudent men will chuse as pure, as warm, and as dry an air as they can;
+for such an one, by giving strength to the fibres, is salubrious to the
+lungs, and promotes the circulation. A frigid and dry air is supportable:
+a moist air is highly pernicious, as by it all the disorders of studious
+men are aggravated; for it increases laxity, stops perspiration, and
+occasions catarrhs, pains, and palsies. Every man of learning has it
+not in his power to repair to Baya or Alexandria, nor does it suit them
+all to breathe the country air, which is the purest; for there are more
+that compile than think. The country is not a proper place to pursue such
+studies; but any man may chuse a healthy habitation in town, and live in
+a lightsome house, a high apartment, refreshed by a breeze in summer,
+and enlightened by the sun in winter. He should take particular care to
+have fresh air let into his chamber every day; without this precaution he
+lives upon the infected: it should be cooled in summer, and not kept too
+warm in winter; for the learned, like all weak men, as was the case of
+AUGUSTUS, are ill able to bear excess of heat or cold: too great a heat
+relaxes the nerves, but intense cold causes convulsions. In the dog-days
+we become unfit for labour, as also in the severe cold of winter; and
+the more tender the constitution, the less it is able to withstand the
+weather. Such was that of MILTON, whose nerves were relaxed to such a
+degree in the heat of summer, that he[49] was almost reduced to a state
+of imbecillity. But the air should be warmed in winter, a fire being
+kindled for the purpose; for this fresh air succeeds the corrupt air that
+goes off; nor do exhalations remain, nor does the head grow warm, nor do
+the feet become cold, which is of great consequence. Cold in the feet
+hurts the weak by causing pains in the head, the throat, and the breast;
+it disorders digestion, causes dreadful colicks, obstructs perspiration,
+and prevents sleep to a very great degree. I have often cured men of
+note, who had long been without sleep, though they had recourse to the
+most efficacious remedies, by advising them to warm the soles of their
+feet at a fire, every night before they went to bed, till the sense
+of heat became painful. Others have been greatly relieved by a gently
+stimulating plaster applied to the soles of their feet, and left on both
+night and day.
+
+I may probably, respectable auditors, appear to descend too much to
+particulars, and to dwell too long upon trifles; but nothing is little
+or inconsiderable in physick: and it is a thing of so much importance
+to keep the blood from the heads of men of learning, that they should
+neglect nothing which may contribute to this end. They should therefore
+take care not to keep it warm with too much covering, or rather they
+should use themselves to go bare-headed from their childhood. Some men
+of learning have been so bold as to wrap their heads with a towel dipt
+in cold water, that they might be able to continue the longer at their
+studies: and what will not an inordinate desire of knowledge excite men
+to? Such rashness should be avoided; but it is of service to all, and
+especially to studious, sedentary men, to wash their ears, their faces,
+and their whole heads, hair and all, every morning in cold water. It is
+very good for the _literati_, when they feel the blood forced up into
+their heads, not to walk, or inquire sollicitously after medicines, but
+to sit upon their chair in total inaction, without ever uttering a word.
+
+The same necessity of keeping the blood from the head should prevent
+the learned from indulging in sleep after dinner; or, if they should
+sometimes be forced to yield to sleep, let them imitate the illustrious
+personage, so often mentioned already, AUGUSTUS CÆSAR, _who with the
+cloaths and shoes he had on took a short nap, having covered his eyes
+with his hand_[50]. I must likewise add this caution, that they should
+never compose themselves to sleep, without first unbinding all their
+ligatures. To wash their feet in warm water is likewise of great service
+to them.
+
+These are the chief helps by the assistance of which the learned will be
+enabled to prevent the ill effects of study; but when their application
+has produced real disorders, they will have occasion for other remedies.
+You will sometimes see them, when nature is quite exhausted by study,
+fall into a consumption: then the severity of the disorder requires
+some efficacious remedy; and the best is entirely to lay aside study,
+meditation, and books, to bid a long farewell to their musæums, and,
+giving themselves up to leisure, chearfulness, and country pleasures,
+to think of restoring their bodies alone, without troubling their heads
+about cultivating their minds; but let them become what men were designed
+for by nature, ploughmen or gardeners.
+
+    _Difficile est longum subito deponere amorem,_
+    _Difficile est: verum hoc, qua lubet, efficias._
+    _Una salus hæc est, hoc est tibi pervincendum._
+
+                                                              CATULL. 82.
+
+    _It is a difficult matter to divest one’s self suddenly of a
+    passion of a long standing: but this you may effect, if you
+    desire it. This is the only thing that can preserve you, this
+    you must endeavour to bring about at any rate._
+
+How sure should we be of curing the disorders of men of learning, if it
+were possible to lull thought asleep. Here generous wines are of great
+service, provided the lungs are still unaffected, and a slow heat does
+not burn up the veins. Wholesome meats, and well boiled aliments, are of
+great service: milk is likewise of great service, provided the stomach
+is able to bear it. Riding is also useful. And it may be beneficial to
+purge away the peccant matter by some gentle, strengthening remedy. BACON
+recommends rhubarb. CELSUS, with more reason as I apprehend, recommended
+aloes, the use of which is of great service to the learned. Let them not,
+however, abuse an excellent remedy; for, though purges are sometimes
+necessary, they are dangerous when too frequently used: for the body
+begins to be disused to nourishment, and must of consequence grow weak.
+But beware, you sick men, of too violent purging remedies; because, as
+the intestines are often covered with mucus, this mucus is generally
+soft, and easily removed; when it is removed, a softer sort succeeds in
+its place; this badly defends the villous coat of the intestines; and,
+when it is left without defence, it either occasions incessant pains, or
+should be continually fomented by the tenderest sort of food.
+
+The Peruvian bark or kinkina is here of the greatest efficacy imaginable;
+in this case there is not a better remedy; it restores digestion,
+strengthens the vessels, compresses the fluids, promotes secretions, and,
+above all, perspiration, repairs the strength of the nerves, and quells
+false motions. One of our most eminent geometricians soon repaired his
+wasted powers by a large draught of the decoction of kinkina, which he
+had constantly by his side.
+
+If the constitution be not yet entirely broke, weakness oppresses the
+stomach and the nerves, the learned are troubled with hysteric symptoms,
+often attended with a vertigo, fainting fits, suffocation, and anxiety.
+They are to be cured like women who are troubled with hysterics,
+occasioned by mobility and want of tone in the fibres; they are to be
+cured, I say, by bitters, ferulacious gums, myrrh, steel, and the cold
+bath. The frequent use of the latter preserves a good state of health,
+and repairs a broken constitution; for it is efficacious above all other
+remedies, except there be already an extraordinary degree of weakness, in
+strengthening the stomach, the nerves, and the whole body; it restores
+sleep, produces a chearfulness and serenity of mind, and supplies new
+strength to pursue new studies. This made the ancients set so high a
+value upon it, that, even amidst the avocations of their necessary
+business, they never failed to bathe every day: and I most earnestly
+recommend to the literati the frequent use of bathing. I am not ignorant
+that the ancients often used the warm bath, but they used it as a remedy
+after exercise or fatigue; and it generally agrees very well with the
+robust and active; but they restored their strength with cold baths.
+AUGUSTUS, who received no benefit from the warm bath, when affected with
+great weakness of body, was advised to have recourse to the cold bath by
+ANTONIUS MUSA. Cold baths are salutary to delicate constitutions, and the
+health of the learned is generally, though not always, as much hurt by
+bathing in warm water, as promoted by bathing in cold.
+
+Friction in a great measure produces the same effects with bathing; for
+if the whole lower belly of a person, whilst he lies supine in bed in
+the morning, with bent knees and an empty stomach, be rubbed all over
+with a rough cloth, he will be greatly benefited by it: by this artifice
+the motion in the abdomen is increased, the stagnant juices are thrown
+out, the secretions are increased, the excrements are prevented from
+staying too long in the body, and innumerable diseases are cured, which,
+as you have been frequently told, are caused by a slow circulation. If
+the skin is rubbed all over, either with a cloth or a flesh-brush, the
+cuticular secretion is greatly promoted, the circulation of the blood is
+so quickened, that a violent fever may be caused by rubbing alone, the
+motion is increased in the smallest vessels, the strength is repaired,
+and the ills caused by want of exercise are partly remedied. The ancients
+were therefore right in setting a great value upon friction: it was
+afterwards unhappily neglected; but the English physicians revived it
+with great success; and there is no class of men to whom it may be of
+greater service than to the studious. I would, however, recommend to
+them not to use this kind of exercise till they have read what CELSUS and
+GALEN have written concerning it.
+
+There is another sort of remedy, which is often of the highest service
+to men of learning, I mean chalybeate waters; but they should not send
+for them, they should go where they are to be drunk at the fountain
+head. I do not indeed despise those that are sent for; nay, I have known
+men of learning who, by my advice, drank Seltzer waters at home during
+the whole year, by which, and remitting somewhat of their application,
+they recovered their health. But it is still better to drink them at
+their source, for they are there in greater perfection; and the journey
+is of service, because, whilst it lasts, the sick are exempt from all
+domestick cares, are amused with a variety of objects, enjoy agreeable
+company, relax their minds, and recreate their bodies: and the journey
+alone is of so much service, that hypochondriac persons are often cured
+by visiting remote libraries.
+
+It would be as useless as it is impossible to enumerate all the waters
+that may be of service in repairing broken constitutions; for what nature
+intended as a most salutary remedy, it has liberally bestowed upon most
+regions. There are many in Switzerland; those of Aquia in Savoy, in my
+neighbourhood, deserve high praises; our waters of Rotula are still
+more to be recommended on account of the agreeableness of the place
+than their salubrious qualities; we must not forget those of Lausanne,
+the virtues of which have been demonstrated to me both by analysis and
+frequent observation; but the Seltzer waters surpass them all, at least
+in their reputation, if not in their qualities; those of Schwalbach and
+Spaw are still more powerful; and the Pyrmont waters are inferior to none.
+
+These are not all, but the principal remedies by which those disorders
+may be cured which men of learning bring upon themselves by over great
+application: but their disorders are not occasioned by study alone: as
+men they are subject to all the disorders of men; and then they should be
+treated according to the rules laid down by experience for curing each
+disorder. Physicians, however, should never forget, that the patient,
+whom they have under their care, is a man of learning, and cannot, of
+consequence, have the same strength with which most other men are endued:
+as they have relaxed fibres and thin blood, they are not so capable of
+bearing phlebotomy: but the intestines are often filled with a collection
+of filth, which must be purged off; so that, as the illustrious RAMAZZINI
+has long since observed, it is better to have recourse to other
+evacuations with them than to bleeding.
+
+Care should be always taken of the head of a learned patient, because it
+is easily disturbed, and grows delirious. This is of very bad consequence
+in disorders; for peevishness increases, which few learned patients are
+without; and, whilst the brain is agitated by a delirium, the necessary
+action of the nerves upon the body becomes slow, and so the powers of
+nature, which can alone effect a cure, are destroyed.
+
+If the patient was afflicted before with nervous disorders, these soon
+cause sufferings of a peculiar sort: the learned, when they are ill,
+cannot bear too much light, nor noise, nor a crowd of spectators. I have
+often seen, upon the fever’s beginning to cease, new symptoms occur,
+which appear to be very bad, but are in fact only nervous.
+
+Men of learning cannot well bear strong and powerful remedies.
+
+Their recovery is always tedious, and it requires extraordinary care: the
+strength returns slowly; the faculties of the mind, above all, are long
+in a wavering condition; and I have scarce ever known a man of learning
+recover out of a disorder, without complaining of his memory’s being
+impaired, and a sort of weakness of the head discoverable in the face
+itself. Those little consult their own interest, who immediately return
+to their studies, and that before their strength is renewed: they prepare
+to themselves a sore repentance: the ill consequences are felt by their
+heads, their eyes, and their stomachs, which must greatly suffer, if,
+whilst they stand in need of the assistance of the nerves, to digest the
+remedies they take, the mind should at so improper a time make use of
+them. I have often found, that the exercises of the mind so weaken the
+sensibility and motion of the stomach and intestines, that the power of
+purgatives is entirely counteracted by meditation and constant study.
+
+Learned patients, when just out of a disorder, recover their sleep very
+slowly, and it often is not to be recovered without the assistance of
+wine, which is of wonderful efficacy in this case, by restoring a due
+tone to the stomach, debilitated by warm liquors; firmness to the nerves,
+strength to the whole body, and spirits to the dejected mind.
+
+Thus have I laid open the causes of disorders, their symptoms, and the
+method of avoiding them: in fine, I have compleated my design to the
+best of my power; and you with joy perceive my discourse approaching to a
+conclusion, respectable auditors. I am aware, however, that you will not
+dismiss me, till I have atoned for a grievous omission; nor do I intend
+to disappoint your expectation: I shall therefore now discover the grand
+arcanum of the art of preserving health, which I have hitherto concealed:
+attend to my words. Chearfulness of temper is the source of health, and
+a virtuous life is the source of chearfulness: a good conscience, a mind
+pure and clear of all contagion, are the best preservatives of health;
+and if the learned were without them, it would be a shame: for of what
+use is learning without wisdom?
+
+        _Quid musæ sine moribus_
+    _Vanæ proficiant?_
+
+    _Of what service are the muses without the aid of virtue?_
+
+What else is knowledge but to be wise? Were not the learned in former
+ages wise? Knowledge alone is of no avail. I have no manner of esteem
+for those doctors, who inquire what is virtuous and becoming, entirely
+taken up with moral contemplations, and who, though they see good, follow
+evil courses. Woe be to them! they will suffer severely for their bad
+conduct. Consider the force of the passions: those which affect the mind
+agreeably, promote a good state of health; which those of a contrary
+nature destroy. But what affects the mind more agreeably than the
+remembrance of a life well spent?
+
+    _Omnem crede diem diluxisse supremum._
+
+    _Look upon every day that’s past as the last of your life._
+
+Cruel remorse of conscience, on the other hand, destroys the powers both
+of mind and body; because the mind being a prey to grief, such is the
+will of the Author of nature, the fibres are relaxed, and both health and
+beauty vanish. I cannot without horror recollect the shocking inquietudes
+of some men, who, having abused the gifts of God, could not, without
+inexpressible terror, see death approach, which renders the Deity more
+awful. On the other hand, I cannot without joy revolve in my memory
+the happy deaths of some good men, who, as they had passed their whole
+lives in the practice of virtue, returned with joy to the Fountain of all
+good, having laid aside their terrestrial covering, and crowned a happy
+life with a joyful death. How properly does the learned doctor, lately
+professor of divinity in this academy, occur to me in this place, who,
+after having suffered the cruel torments of a dreadful disease, during
+the course of a twelvemonth, with wonderful resolution and patience,
+after a few friendly and pious conversations with his wife and children,
+whilst he testified his gratitude to me for my care, and expressed his
+good wishes, expired with religious composure. And why should I forget
+you, learned, dear, and now happy uncle and Mentor, who, having lived
+your whole life, whilst in health, as we promise to live when we are ill,
+enjoying, to an advanced age, a conscience void of offence, a genius
+replete with vigour, and faculties acute and penetrating; not only taught
+us how to live virtuously, but likewise have instructed us how to die
+well.
+
+But it is time for me to put an end to my wandering discourse; for I am
+ashamed to detain you any longer, respectable auditors.
+
+Farewell, therefore, most illustrious president, whose extraordinary
+humanity, gentle manners, and uncorrupt integrity, all are unanimous in
+praising. How agreeable to me was it to be chosen upon this occasion
+by you, whose friendship, having so often experienced, I am so happy
+as to experience again. But how can I address you, without at the same
+time thinking of that prince whom you represent amongst us with so much
+applause; and this remembrance fills me with emotion. For he is the
+prince to whom I am indebted for so many favours. It is he who recalled
+me, out of love to my country, when I was on the point of quitting it at
+the invitation of a great monarch; recalled me, I say; and, remembering
+my attachment to physic, founded this professorship, and bestowed it upon
+me, not without the most honourable tokens of his benevolence; and, by
+enrolling me in your illustrious assembly, learned professors, he enabled
+me to address you by the dear appellation of colleagues. Vouchsafe,
+therefore, favourably to receive him whom he has given you as a companion
+of your labours, and receive me, most honoured colleagues, in the same
+disposition of mind with which I come towards you; and shew as much
+benevolence, facility, and readiness to assist me, as I am ready to shew
+you veneration, obsequiousness, and docility.
+
+Citizens and strangers, illustrious for your great virtues, your
+extraordinary intellectual endowments, and the high offices you fill, the
+friendship of many of whom I cultivate with pleasure, receive my thanks
+for the benevolence with which you have heard me. Finally, I address
+myself to you, you studious youth, hope of your country and of the
+church, and ornament of the academy; whatever learning or genius I am
+possessed of,
+
+    _Et quicquid in arte mea possum promittere curæ_,
+
+    _And whatever assistance I can promise by my art_;
+
+which I am sensible is but small, and I am sorry for it; but, such as it
+is, I entirely dedicate and consecrate it to you. It will give me the
+highest satisfaction, if it can be of any service to you; but how would
+it grieve me, if, by misunderstanding my discourse, you should be hurt
+instead of being benefited by it. Take care therefore, virtuous youths;
+my design was to shew the dangers of an obstinate perseverance in study;
+but I was quite silent with regard to the use of polite learning,
+_which[51] nourishes youth, delights old age, adorns prosperity, affords
+consolation in adversity, delights at home, is no hindrance abroad,
+passes the night with us, travels with us, accompanies us into the
+country_. I have proved by examples, how dangerous it is to fatigue the
+minds of children with too great labour; but it was not my intention
+to banish all labour and study. “Nam certe quamlibet parum sit, quod
+contulerit ætas prior, majora tamen aliqua discet puer eo ipso anno,
+quo minora didicisset. Hoc per singulos annos prorogatum in summam
+proficit: & quantum in infantia præsumptum est temporis, adolescentiæ
+acquiritur[52].” “For though what is contributed by the first age of
+life is but inconsiderable, a boy will certainly learn some things of
+consequence in the very year that he learns trifles. This, increasing
+every year, will at last improve him, and what is learned in infancy is
+an acquisition to youth.” It is dangerous to break upon the rocks of too
+great learning; it is shameful to be wrecked upon the opposite shore.
+What path then must you tread? _Hac urget lupus, hac canis angit._ _On
+one side the wolf urges, on t’other the dog worries us._ You will be safe
+in the middle path, always remembering that sentence of your favourite
+HORACE:
+
+    _Est modus in rebus sunt certi denique fines,_
+    _Quos ultra citraque nequit consistere rectum._
+
+    _Some certain mean in all things may be found,_
+    _To mark our virtue, and our vices bound._
+
+                                        FRANCIS’S Horace, lib. I. sat. I.
+
+
+
+
+FOOTNOTES
+
+
+[1] Now let those come to themselves who with difficulty admit, that
+the aliments are capable of rendering some more temperate, others more
+dissolute, some incontinent, some frugal, confident, timorous, mild,
+modest, or quarrelsome; let them come to me and hear what it would be
+proper for them to eat, and what to drink. They will find from hence a
+great assistance in moral philosophy; they will likewise find from hence
+a great accession to their intellectual faculties; they will become
+more ingenious, have better memories, and be more studious and wise.
+For besides the proper sort of food and liquors, I will instruct them
+in the nature of air and climates, and point out to them what countries
+they should chuse to reside in, what they should avoid. The book which
+proves that manners are influenc’d by bodily constitutions, Cap. 9ᵒ.
+Charterius, t. 5. p. 457. Observations of the like nature are to be found
+in HIPPOCRATES, ARISTOTLE, and PLATO.
+
+[2] Plato’s works, p. 648.
+
+[3] ’Tis an admirable observation of MONTESQUIEU: All things fatigue us
+at last, and above all great pleasures; the fibres, that were the organs
+of it, stand in need of rest: we must employ others better adapted to
+serve us, and thus, as it were, divide our labour. _Essay upon taste._
+
+[4] LORRY _upon melancholy and melancholy disorders_. Tom. I.
+
+[5] VAN SWIETEN’S _Comment. in_ BOERHAVII _aphor._ Tom. III. p. 413.
+
+[6] _Traité du bon chyle_, tom. II. p. 647.
+
+[7] Th. BORDEUX, _prix de l’academie de chir._ tom. VI. p. 199.
+
+[8] Conf. FLEMING _Neuropathia, præf._
+
+[9] _De morbis nervorum_, p. 456.
+
+[10] _Traité des vapeurs hysteriques_, p. 248.
+
+[11] _Epistol. lib. 2. ep. 9._
+
+[12] _Epistol. ad_ HIPPOCRATEM. _Hipp. Fæsii._ tom. II. p. 1288.
+
+[13] _De locis affectis, lib. 5. cap. 6. Charter._ tom. VII. p. 492.
+
+[14] _Medicin. ration. de epilepsia._ § 19.
+
+[15] _Felic._ PLATERI _observat._ p. 28.
+
+[16] VAN SWIETEN, tom. IV. p. 305.
+
+[17] _Gazette de France, Fevr. 25, 1763._
+
+[18] _Epistol. L. 2, ep. 40._ Neither write back to me in prose or in
+verse, lest you should bring your health, which is not yet confirm’d,
+into new danger; for the spirits will be easily warm’d by attention:
+hence blood, hence the habit of body.
+
+[19] _De sedibus & causis morbonum. ep. 3._ § 13.
+
+[20] _Prælect. ad instit._ t. 7. p. 145.
+
+[21] _De sedib. & caus. ep._ 3. §. 17.
+
+[22] HALLERI _Element. Physiologiæ_, t. 4. p. 317.
+
+[23] _De locis affectis_, l. 3. c. 5.
+
+[24] _Ad libellum_ HIPPOCRATIS _de humor_. p. 211.
+
+[25] In studious men, who lead a sedentary life, whilst they grow pale
+with poring over books, an apoplexy often arises from such a cause; but
+it comes on slowly and gradually. For the first symptom is languor, and a
+love of indolence; then the understanding begins to grow dull, the memory
+to flag; they become sleepy, stupid, and often continue a long time in
+that state before their death. I have seen, and not without the greatest
+compassion, men of the most profound learning, and who had deserv’d
+highly of the republick of letters, who, as it were, surviv’d themselves
+above a twelvemonth in a state of total oblivion, and at last died of
+apoplexy. VAN SWIETEN, tom. III. p. 263.
+
+[26] ADAM _vitæ medicorum_, p. 372.
+
+[27] We meet in the medicinal diary with an account, very well worth
+reading, of a severe colick, attended with other bad symptoms, and
+occasion’d by intense study and nocturnal lucubrations. Tom. I. p. 352.
+
+[28] VAN SWIETEN, tom. III. p. 87. ex COLUMBO.
+
+[29] Experience shews us that men of learning, though naturally of a
+chearful disposition, become at last fix’d, silent, pale, emaciated,
+and strangely troubled with the hypochondriac disorder, which generally
+tyrannizes over sedentary people. _Ant._ FELICI _dissertazioni
+epistolari_, p. 203.
+
+[30] BOERHAAV. _ad institut._ §. 896, tom. VII. p. 275.
+
+[31] LANCISUS _de mortu subit._ l. 1. c. 22.
+
+[32] MARKII _Oratio funebris in obitum_ TRIGLANDII. Leyden, 1705.
+
+[33] The famous ROUSSEAU; but he has since quitted the British asylum,
+and returned to France.
+
+[34] JOH. ALPH. ROSSET, theologiæ professor, & academiæ, hoc tempore,
+rector.
+
+[35] The disorders of orators and singers are the same; but the bodies of
+these being open’d, have often shewn inflammations, suppurations, ulcers
+in the lungs; nay, the illustrious MORGAGNI saw a young man that had an
+excellent voice, whose wind-pipe and throat being affected, could swallow
+nothing, and, whilst he attempted to suck down the yolk of an egg, was
+suffocated and died. _De sedib. & caus._ tom. 1. p. 228.
+
+[36] It often proves hurtful to men of learning themselves, when in an
+advanc’d age they pursue a new study; for this gives rise to a new order
+of ideas, which receives no assistance from all the traces before left
+upon the brain: new fibres must receive new motions, a laborious work to
+the organ already debilitated, and which often throws men of first-rate
+capacities into lingering disorders.
+
+[37] SUETONIUS _in vita_ OCT. AUG. _cap._ 82.
+
+[38] VALERIUS MAXIMUS, lib. 3. c. 6. p. 140.
+
+[39] _De education. pueror._ cap. 12.
+
+[40] _De motu opt. corpor. medicin._ § 9.
+
+[41] _De methodo_, _No. 6_: There is likewise a remarkable passage in
+MOSES MAIMONIDES, one of the most ancient of the Arabian physicians. As
+life and health, says he, contribute greatly to the worship and knowledge
+of God; but a man in an ill state of health is unable to contemplate the
+works of God as he should do; a man ought to take particular care to
+avoid whatever is hurtful to his body, and should endeavour to procure
+whatever contributes to keep the body in health and strengthen it. _De
+sanit. tuend. init._
+
+[42] It must be acknowledged, that a man of learning, indefatigable in
+his studies, if he observes an exact regimen, innocent and moderate, will
+find the disadvantages attending his way of life more supportable than
+another. FELICI _dissertazioni_, p. 203.
+
+[43] _Prælect. in instit._ § 1036, tom. VII. p. 337.
+
+[44] Many plants fit for use, and perhaps most such, and many others, by
+means of an easy art, give out a great quantity of excellent sugar, not
+much inferior to that of sugar-canes. Eight ounces of the fresh juice of
+the skirret yield an ounce of the best sugar. MARGRAFF _Mem. de l’Acad.
+de Berlin_.
+
+[45] Many phænomena prove this plethora; and it is evinced by a simple
+observation, and one that occurs daily, _viz._ by those convulsions of
+the lower jaw-bone which cause a collision of the teeth in sleep, and
+that more strongly in boys when they have eat a hearty supper.
+
+[46] It was justly observed by THEOPHRASTUS, that to eat much, and to
+live upon flesh, deprives men of the use of their reason, blunts the
+faculties of their minds, and renders them dull and stupid.
+
+[47] BOERHAAVE _prælect._ tom. VII. p. 340.
+
+[48] The goddess, says PLATO, chose a place which was to give birth to
+the wisest men. _Init. Timæi._ And do not forget this with regard to
+places, that they are of great consequence in giving birth to men of
+superior genius, or the reverse. _De leg._ lib. 5.
+
+[49] By the excessive heat, which is not so much as allayed by an Etesian
+gale, I have entirely lost the power of philosophising, and am deterred
+from writing. LANCISI _ad_ COCCHI, p. 47.
+
+[50] _Qui ita ut vestitus calceatusque erat, retectis pedibus, paulisper
+conquiescebat opposita ad oculos manu._ SUETONIUS _in vit. C. O. Aug._
+cap. 82. I enlarged upon the ill consequences of sleeping after dinner,
+in an epistle which I inscribed a few years ago to the illustrious HALLER.
+
+[51] _Adolescentiam alunt, senectutem oblectant, secundas res ornant,
+adversis solatium prebent, delectant domi, non impediunt foris,
+pernoctant nobiscum, peregrinantur, rusticantur._ CICERO _Oratione pro
+Archiâ_.
+
+[52] QUINTILIANUS _de Instit. Orator, lib. i. cap. i._
+
+
+FINIS.
+
+
+
+
+MEDICAL BOOKS printed for E. and C. DILLY, in the Poultry, London.
+
+
+I. Experimental Essays on the following Subjects: 1. On the External
+Application of Antiseptics in Putrid Diseases. 2. On the Doses and
+Effects of Medicines. 3. On Diuretics and Sudorifics. By William
+Alexander, Surgeon in Edinburgh. Price 3s. 6d. in Boards.
+
+II. An Essay on Fevers; more particularly those of the Common, Continued,
+and Inflammatory Kinds: Wherein a new and successful Method is proposed
+for removing them speedily. To which is added, An Essay on the Crises of
+those Disorders. By Lionel Chalmers, M. D. of Charles-Town. Price 2s.
+sewed.
+
+III. An Answer to the Observations of Mr. Geach, and to the Cursory
+Remarks of Mr. Alcock, on Dr. Baker’s Essay on the Endemial Colic of
+Devonshire. In a Letter from Dr. Saunders to Dr. Baker. Price 1s.
+
+IV. A new and easy Method of giving Mercury to those affected with the
+Venereal Disease. To which is annexed a new Theory of the Action of
+this Metal on the salivary Glands. Translated from the Latin of Joseph
+James Plenck, Professor of Surgery and Midwifry at Vienna. The Second
+Edition. To which is prefixed, a Table, exhibiting, at one View, all the
+Preparations of Mercury, reduced under proper Heads. With an Appendix of
+Remarks on Mr. Plenck; together with some Experiments and Observations,
+which ascertain, with more Accuracy, a steady and uniform Method of
+giving his Medicine; and a short and easy Method of preparing the
+Mercurius Calcinatus. By William Saunders, M. D. Price 2s. sewed.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK AN ESSAY ON DISEASES INCIDENTAL TO LITERARY AND SEDENTARY PERSONS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
