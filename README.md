@@ -79,23 +79,23 @@ Each crawler produces:
 ## Running the science crawler
 
 ```bash
-export OUTPUT_DIR=/Users/Ryan/Desktop/non_fiction_science
-export CATALOG_CACHE=/Users/Ryan/Desktop/cache/pg_catalog.csv.gz
+export OUTPUT_DIR=/path/to/output/non_fiction_science
+export CATALOG_CACHE=/path/to/cache/pg_catalog.csv.gz
 export OPENAI_API_KEY=sk-proj-...
 export TARGET_COUNT=250
 
-python3 /Users/Ryan/Desktop/crawler_science.py
+python3 /path/to/crawler_science.py
 ```
 
 ## Running the history crawler
 
 ```bash
-export OUTPUT_DIR=/Users/Ryan/Desktop/non_fiction_history
-export CATALOG_CACHE=/Users/Ryan/Desktop/cache/pg_catalog.csv.gz
+export OUTPUT_DIR=/path/to/output/non_fiction_history
+export CATALOG_CACHE=/path/to/cache/pg_catalog.csv.gz
 export OPENAI_API_KEY=sk-proj-...
 export TARGET_COUNT=250
 
-python3 /Users/Ryan/Desktop/crawler_history.py
+python3 /path/to/crawler_history.py
 ```
 
 > The Gutenberg catalog (~30 MB) is cached after the first run. Subsequent runs
@@ -190,7 +190,7 @@ auto-approved.
 The catalog is cached after the first run. To force a fresh download:
 
 ```bash
-rm /Users/Ryan/Desktop/cache/pg_catalog.csv.gz
+rm /path/to/cache/pg_catalog.csv.gz
 ```
 
 To resume a partial run without re-downloading already-saved files, the scripts
