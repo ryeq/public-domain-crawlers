@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Project Gutenberg Non-Fiction Crawler — Elementary Edition
+Project Gutenberg Non-Fiction Crawler — Elementary History Edition
 -----------------------------------------------------------
 Downloads public domain non-fiction .txt files from Project Gutenberg,
 then screens each one with an LLM to ensure it is engaging and appropriate
@@ -55,22 +55,25 @@ LLM_APPROVE_SCORE = 3           # minimum score (1–5) to move to approved/
 # ── Elementary-focused subject keywords ───────────────────────────────────────
 
 NONFICTION_SUBJECTS = {
-    # Life sciences
-    "animals", "natural history", "zoology", "botany", "birds", "insects",
-    "marine biology", "ecology", "wildlife", "plants", "biology", "evolution",
-    "microbiology", "genetics",
-    # Earth & space
-    "astronomy", "geology", "volcanoes", "weather", "meteorology",
-    "oceanography", "paleontology", "fossils", "climate",
-    # Physical sciences
-    "physics", "chemistry", "electricity", "magnetism", "mechanics", "optics",
-    "thermodynamics", "atomic",
-    # Human body & health
-    "physiology", "anatomy", "medicine", "hygiene", "health",
-    # Technology & invention
-    "inventors", "inventions", "engineering", "technology", "science",
-    # Math & scientific method
-    "mathematics", "geometry", "experiments",
+    # Ancient civilizations
+    "ancient history", "ancient civilizations", "egypt", "greece", "rome",
+    "mesopotamia", "babylon", "persia", "carthage", "phoenicia",
+    "archaeology", "classical antiquity",
+    # Medieval & early modern
+    "medieval", "middle ages", "renaissance", "crusades", "vikings",
+    "byzantine", "feudalism",
+    # World civilizations & cultures
+    "civilization", "aztec", "maya", "inca", "china", "japan", "india",
+    "africa", "native peoples", "indigenous",
+    # American history
+    "united states history", "american history", "american revolution",
+    "civil war", "colonial", "frontier", "westward expansion",
+    # Exploration & discovery
+    "exploration", "explorers", "discovery", "voyages",
+    # Biography of historical figures
+    "biography", "autobiography",
+    # General history
+    "history", "world history", "social history",
 }
 
 # Hard-reject if any of these appear
@@ -79,8 +82,8 @@ REJECT_SUBJECTS = {
     "romance", "detective", "mystery", "adventure stories", "fairy tales",
     "juvenile fiction", "law", "economics", "political science", "statistics",
     "commerce", "accounting", "theology", "philosophy", "logic", "rhetoric",
-    "linguistics", "grammar", "government", "sociology", "history", "biography",
-    "mythology", "folklore", "travel", "exploration",
+    "linguistics", "grammar", "science", "physics", "chemistry", "biology",
+    "mathematics", "engineering", "medicine",
 }
 
 # ── Logging ───────────────────────────────────────────────────────────────────
@@ -165,30 +168,33 @@ def is_good_subject(subjects: list[str]) -> bool:
 
 # ── LLM screening ─────────────────────────────────────────────────────────────
 
-SCREEN_SYSTEM = """You are a science curriculum specialist evaluating public domain texts
+SCREEN_SYSTEM = """You are a history curriculum specialist evaluating public domain texts
 for an AI tutor serving elementary school students (grades K-6, ages 5-12).
 
 Your TWO-PART job:
-1. Is the science in this text still accurate and relevant today? Some Victorian-era
-   science is outdated or wrong (e.g. ether theory, Lamarckian evolution, miasma theory).
-   Reject texts whose core scientific claims have been overturned.
+1. Is the historical account still considered broadly accurate by modern historians?
+   Reject texts whose core historical narrative has been significantly discredited,
+   relies on racial or colonial bias as fact, presents myth as history, or reflects
+   views now known to be factually wrong (e.g. Lost Cause Civil War narratives,
+   eurocentric dismissal of non-Western civilizations, fabricated "history").
+   Minor interpretive differences from modern scholarship are acceptable.
 2. Is the text engaging and accessible for modern elementary students?
 
 Respond ONLY with a JSON object - no markdown, no preamble. Schema:
 {
   "score": <integer 1-5>,
   "approved": <true|false>,
-  "science_topics": [<2-5 specific modern science topics covered, e.g. "photosynthesis", "volcanoes", "electricity">],
+  "history_topics": [<2-5 specific history topics covered, e.g. "ancient egypt", "american revolution", "vikings">],
   "still_accurate": <true|false>,
-  "reasoning": "<one sentence explaining the score and whether the science holds up today>"
+  "reasoning": "<one sentence explaining the score and whether the history is considered accurate today>"
 }
 
 Scoring rubric:
-5 - Science is accurate today, vivid narrative prose, clearly relevant to elementary curriculum
-4 - Science is mostly accurate, engaging, minor archaic vocabulary or fringe claims
-3 - Science is sound but prose is dry or vocabulary is challenging for young students
-2 - Science is partially outdated/inaccurate OR topic has no relevance to modern curriculum
-1 - Core science is wrong by modern standards, adult content, or completely inaccessible prose
+5 - Historically sound, vivid narrative prose, clearly relevant to elementary curriculum
+4 - Mostly accurate, engaging, minor outdated framing or archaic vocabulary
+3 - Historically sound but prose is dry or vocabulary is challenging for young students
+2 - Significant historical inaccuracies OR topic has no relevance to modern curriculum
+1 - Core history is discredited, contains harmful bias presented as fact, or completely inaccessible
 
 approved = true if score >= 3 AND still_accurate = true, false otherwise."""
 
@@ -246,7 +252,7 @@ def llm_screen(record: BookRecord, preview_text: str) -> BookRecord:
         record.llm_score     = int(result.get("score", 0))
         still_accurate       = bool(result.get("still_accurate", True))
         record.llm_approved  = bool(result.get("approved", False)) and still_accurate
-        record.llm_topics    = result.get("science_topics", result.get("topics", []))
+        record.llm_topics    = result.get("history_topics", result.get("topics", []))
         record.llm_reasoning = result.get("reasoning", "")
         log.info("[%d] LLM score %d/5 | approved=%s | %s",
                  record.gutenberg_id, record.llm_score,
@@ -312,13 +318,8 @@ def parse_catalog(raw_gz: bytes) -> list[BookRecord]:
             # Bookshelves filter
             raw_bookshelves = find_col(row, "bookshelves", "bookshelf")
             bookshelves_lower = raw_bookshelves.lower()
-            
-            # Avoid science fiction
-            if "science-fiction" in bookshelves_lower or "science fiction" in bookshelves_lower:
-                continue
-                
-            # Must have Category: Children and Category: Science
-            if "category: children" not in bookshelves_lower or "category: science" not in bookshelves_lower:
+            # Catching "children's history", "childrens history", etc.
+            if "children's history" not in bookshelves_lower and "childrens history" not in bookshelves_lower and "childrens' history" not in bookshelves_lower:
                 continue
 
             # Subjects (still parsed for the BookRecord, but filtering is now based on Bookshelves)
@@ -342,7 +343,7 @@ def parse_catalog(raw_gz: bytes) -> list[BookRecord]:
                 txt_url="",
             ))
 
-    log.info("Scanned %d rows → %d candidates (English text, science subjects)",
+    log.info("Scanned %d rows → %d candidates (English text, history subjects)",
              total, len(records))
     return records
 
